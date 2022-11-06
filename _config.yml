@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "https://gnidart-mx.github.io/"
 permalink: "/:title/"
 logo: 'gnidart-mx/assets/images/logo.png'
-favicon: 'https://gnidart-mx.github.io/gnidart-mx/assets/images/favicon.ico'
+favicon: 'https://gnidart-mx.github.io/assets/images/favicon.ico'
 author: gnidart-mx
 paginate: 30
 disqus: 'demowebsite'
