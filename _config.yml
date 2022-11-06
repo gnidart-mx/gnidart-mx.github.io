@@ -5,7 +5,7 @@ baseurl: "https://gnidart-mx.github.io/"
 permalink: "/:title/"
 logo: 'gnidart-mx/assets/images/logo.png'
 favicon: 'https://gnidart-mx.github.io/gnidart-mx/assets/images/favicon.ico'
-author: Sal
+author: gnidart-mx
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -25,8 +25,8 @@ ganalytics:
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: gnidart-mx
+    display_name: gnidart-mx
     avatar: 'assets/images/sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
