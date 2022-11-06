@@ -1,9 +1,9 @@
 title: "Affiliates"
 email: 
 timezone: UTC
-baseurl: "gnidart-mx.github.io/gnidart-mx"
+baseurl: "gnidart-mx.github.io"
 permalink: "/:title/"
-logo: 'gnidart-mx.github.io/gnidart-mx/assets/images/logo.png'
+logo: 'gnidart-mx.github.io/assets/images/logo.png'
 favicon: 'gnidart-mx.github.io/gnidart-mx/assets/images/favicon.ico'
 author: Sal
 paginate: 30
