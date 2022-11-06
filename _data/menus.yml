@@ -1,7 +1,7 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: ホーム
   url: "gnidart-mx.github.io"
 
 - title: About
@@ -10,23 +10,22 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: リアル口座開設  
+  url: https://clicks.affstrack.com/c?c=550036&l=ja&p=1/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: ホーム
   url: "gnidart-mx.github.io"
 
-- title: Privacy Policy
+- title: プライバシーポリシー
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+- title: 免責事項
+  url: "disclaimer/" 
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+- title: お問合せ
+  url: "contact/"
