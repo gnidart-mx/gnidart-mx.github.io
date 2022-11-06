@@ -3,8 +3,8 @@ email:
 timezone: GMT+9
 baseurl: "/"
 permalink: "/:title/"
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 author: gnidart-mx
 paginate: 30
 disqus: 'demowebsite'
