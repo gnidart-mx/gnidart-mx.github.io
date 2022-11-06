@@ -1,6 +1,6 @@
 title: "XMTrading"
 email: 
-timezone: UTC
+timezone: GMT+9
 baseurl: "https://gnidart-mx.github.io/"
 permalink: "/:title/"
 logo: 'https://gnidart-mx.github.io/assets/images/logo.png'
