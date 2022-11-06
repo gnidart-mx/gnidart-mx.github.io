@@ -1,6 +1,6 @@
 title: "XMTradingではじめよう"
 email: iaminthecosmo@gmail.com
-timezone: UTC+9
+timezone: Asia/Tokyo
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 author: gnidart-mx
 paginate: 30
 disqus: 'demowebsite'
-locale: UTF-8
+locale: UTC
 lang: ja_JP
 feed_items: 10
 feed_update_period: daily
