@@ -1,7 +1,7 @@
 title: "Affiliates"
 email: 
 timezone: UTC
-baseurl: "https://gnidart-mx.github.io/"
+baseurl: "https://gnidart-mx.github.io/gnidart-mx/"
 permalink: "/:title/"
 logo: 'https://gnidart-mx.github.io/assets/images/logo.png'
 favicon: 'https://gnidart-mx.github.io/assets/images/favicon.ico'
