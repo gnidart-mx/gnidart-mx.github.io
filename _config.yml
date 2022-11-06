@@ -3,8 +3,8 @@ email:
 timezone: UTC
 baseurl: "https://gnidart-mx.github.io/"
 permalink: "/:title/"
-logo: 'https://gnidart-mx.github.io/gnidart-mx/assets/images/logo.png'
-favicon: 'https://gnidart-mx.github.io/gnidart-mx/assets/images/favicon.ico'
+logo: 'https://gnidart-mx.github.io/assets/images/logo.png'
+favicon: 'https://gnidart-mx.github.io/assets/images/favicon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
