@@ -1,6 +1,6 @@
 title: "XMTradingではじめよう"
 email: iaminthecosmo@gmail.com
-timezone: GMT+9
+timezone: UTC+9
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
