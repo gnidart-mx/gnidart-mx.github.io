@@ -157,12 +157,19 @@ small, .small {
     .page-header.big {
         font-size:2.5em;
     }
+    .hero {
+    padding: 1rem 1rem;
+    }
     .hero h1 {
     font-size:0.5em;
-}
+    }
 p {
     font-size:0.08em;
 }
+btn {
+    width: 80%;
+}
+
 }
 .google-auto-placed {
     margin-bottom:2rem;
