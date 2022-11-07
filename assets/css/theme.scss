@@ -141,13 +141,17 @@ small, .small {
 
 @media screen and (max-width:769px) {
     .hero h1 {
-        font-size: 1.0em;
+        font-size: 11.0em;
+        font-weght: bold;
         padding: 0em 0 1em;
     }
 
     .lead p {
            font-size:  0.5em;
         }
+    }
+    .sp-center {
+        text-align: center;
     }
 }
 
