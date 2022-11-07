@@ -6,6 +6,7 @@ Just customize your theme here.
 @media screen and (max-width:769px) {
     .hero h1 {
         font-size: 1.5em;
+    	padding: 3px;
     }
 
     .liead p {
