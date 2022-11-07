@@ -3,14 +3,3 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-@media screen and (max-width:769px) {
-    .hero h1 {
-        font-size: 11.0em;
-    	padding: 0em 0 1em;
-    }
-
-    .liead p {
-           font-size:  0.5em;
-        }
-    }
-}
