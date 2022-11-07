@@ -160,16 +160,16 @@ small, .small {
 
 @media screen and (max-width: 769px) {
     .hero {
-    padding: 1rem 1rem;
+    padding: 2rem 2rem;
     }
     .hero h1 {
-    font-size:0.5em;
+    font-size:0.2em;
     }
-p {
+p .lead {
     font-size:0.08em;
 }
 btn {
-    width: 80%;
+    position: center;
 }
 
 }
