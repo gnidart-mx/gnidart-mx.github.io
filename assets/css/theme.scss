@@ -139,7 +139,7 @@ small, .small {
     padding: 5rem 5rem;
 }
 
-@media screen and (max-width:769px) 
+@media only screen and (max-width:769px) 
     .hero {
     padding: 2rem 2rem;
     }
