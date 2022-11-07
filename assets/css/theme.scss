@@ -139,7 +139,7 @@ small, .small {
     padding: 5rem 5rem;
 }
 
-@media screen and (max-width:769px) {
+@media only screen and (max-width:769px) {
     .hero h1 {
         font-size: 11.0em;
         font-weght: bold;
