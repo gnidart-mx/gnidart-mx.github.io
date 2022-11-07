@@ -3,21 +3,3 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-@media only screen and (max-width:767px) 
-    .hero {
-    padding: 2rem 2rem;
-    }
-
-    .hero h1 {
-        font-size: 2px;
-        font-weght: bold;
-        padding: 0em 0 1em;
-    }
-
-    .lead p {
-           font-size:  0.5em;
-        }
-    .sp-center {
-        position: center;
-    }
-}
