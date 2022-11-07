@@ -4,5 +4,12 @@ Just customize your theme here.
 ================================================== */
 
 @media screen and (max-width:769px) {
-    font-size: 1.5em;
+    .hero h1 {
+        font-size: 1.5em;
+    }
+
+    .liead p {
+           font-size:  0.8em;
+        }
+    }
 }
