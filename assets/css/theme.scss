@@ -157,6 +157,12 @@ small, .small {
     .page-header.big {
         font-size:2.5em;
     }
+    .hero h1 {
+    font-size:0.5em;
+}
+.lead p {
+    font-size:0.08em;
+}
 }
 .google-auto-placed {
     margin-bottom:2rem;
@@ -166,10 +172,7 @@ small, .small {
 }
 
 .hero h1 {
-    font-size:0.5em;
-}
-.lead p {
-    font-size:0.08em;
+    font-size:2.5em;
 }
 .section-title h2 {
 	font-weight:700;
