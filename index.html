@@ -23,10 +23,23 @@ background: '/img/bg-index.jpg'
 
 <!-- Featured
 ================================================== -->
-<section class="row">
+<section class="row bottom-gap">
   {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
+      {% if post.featured1 == true %}
+          <div class="col-12">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="row bottom-gap">
+  {% for post in site.posts %}
+      {% if post.featured2 == true %}
+          <div class="col-md-4">
           {% include postbox.html %}
           </div>
       {% endif %}
@@ -40,10 +53,12 @@ background: '/img/bg-index.jpg'
   <div class="col-sm-8">
     <div class="row">
       {% for post in paginator.posts %}
-      {% unless post.featured == true %}
+      {% unless post.featured1 == true %}
+      {% unless post.featured2 == true %}
       <div class="col-md-6 mb-5">
         {% include postbox.html %}
       </div>
+      {% endunless %}
       {% endunless %}
       {% endfor %}
     </div>
