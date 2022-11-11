@@ -635,3 +635,9 @@ span.navigation:before {
 .bottom-gap {
     margin-bottom: 30px;
 }
+
+@media screen and (max-width: 769px) {
+    .bottom-gap {
+    margin-bottom: 1.0em;
+    }
+    }
