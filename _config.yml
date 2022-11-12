@@ -22,6 +22,8 @@ sass:
   style: :compressed
 ganalytics: 
 
+highlighter: rouge
+
 # Authors
 
 # Social
