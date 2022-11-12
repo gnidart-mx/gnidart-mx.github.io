@@ -644,3 +644,96 @@ span.navigation:before {
     font-size:13px;
 }
 }
+
+table {
+    width: 100%;
+}
+
+table tbody tr {
+    border-top: solid 1px #E5E5E5;
+}
+
+table tbody tr:first-child {
+    border-top: 0;
+}
+
+table td {
+    text-align: center;
+    padding: 0.75em 1em 0.75em 0em;
+    border: dashed 1px #a9a9a9;
+}
+
+table th {
+    width: 190px;
+    text-align: left;
+    font-weight: bold;
+    padding: 0.75em 1em 0.75em 1em;
+    border: dashed 1px #a9a9a9;
+}
+
+table thead {
+    background: #878787;
+    color: #fff;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: 0;
+    box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
+    font-size: 1.0em;
+    letter-spacing: 2px;
+}
+
+table tfoot {
+    background: #F0F0F0;
+    border-top: solid 2px #E5E5E5;
+}
+
+.mobile-table td:first-child {
+  background: #fbf5f5;
+}
+
+@media screen and (max-width: 640px) {
+  .scroll {
+    overflow-x: auto;
+  }
+  .tbl {
+    min-width: 640px;
+    margin: 0 10px 50px;
+  }
+  .tbl td {
+    border-top: solid 1px #ccc;
+    border-bottom: solid 1px #ccc;
+  }
+}
+
+/* 500px以下の画面で適用 */
+@media only screen and (max-width: 500px) {
+  .mobile-table {
+    width: 100%;
+  }
+  .mobile-table .thead {
+    display: none;
+  }
+  .mobile-table tr {
+    width: 100%;
+  }
+  .mobile-table td {
+    display: block;
+    text-align: right;
+    width: 100%;
+  }
+  .mobile-table td:first-child {
+    background: #e9727e;
+    color: #fff;
+    font-weight: bold;
+    text-align: right;
+
+    margin-right: 20px;
+  }
+  .mobile-table td:before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+}
