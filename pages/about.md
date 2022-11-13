@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: 運営者情報
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+これまで、多くのFX業者を自分自身が利用してきました。使いやすい国内FX業者、海外FX業者と数多くの取引を行ってきましたが、今も多くのトレードを実際に行なっているのがXMTradingです。
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+実際に扱いやすいユーザーフレンドリーなウェブサイトはもちろん、サポート体制も充実しているので初心者の方にはおすすめしやすい海外FX業者の一つです。
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+これからも変更の仕様や取引条件が変わることもあるかもしれませんが、XMTradingに関する情報をメインにこのウェブサイトを運用していく予定です。
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+昨今の仮想通貨の取引に関しては、需要が拡大しているのでそちらの方もXMに限らずに有益な情報を記事として載せていけたらと思っています。
 
+また、FXにおける実際に実践してきて今でも活用している手法などもこれから掲載していきます。
