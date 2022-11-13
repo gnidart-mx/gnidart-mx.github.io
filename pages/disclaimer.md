@@ -5,33 +5,73 @@ permalink: /disclaimer/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+### 特定商取引法に基づく表記
+本ウェブサイトの情報の正確性について
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+本ウェブサイトのコンテンツや情報において、可能な限り正確な情報を掲載するよう努めていますが、誤情報が入り込んだり、情報が古くなったりすることもあります。
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+また、あくまで個人の見解を示す情報もあり、必ずしも正確性を保証するものではありません。
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+また合法性や安全性なども保証しません。掲載された内容によって生じた直接的、間接的な損害に対し、一切の責任を負いかねますので、ご了承ください。
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+### アフィリエイト・リンクについて
+当サイトのリンクには、アフィリエイト・リンクが含まれる場合があります。
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+これらの商品やサービス等に関するお問い合わせは、各提供元の企業へお願いいたします。
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+リンク先で提供される、商品・情報・サービスでのトラブル等について、当サイトでは責任を負いません。
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+### 掲載されている情報について
+本ウェブサイトに掲載されている事項は、あくまで投資判断の参考となる情報の提供を目的としたものであり、投資の勧誘を目的としたものではございません。
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+また、記載されている内容は記事掲載時点の情報を元にしており、個人的な主観を含む事から不正確な内容が含まれている可能性もあります。
 
-3rd party advertising companies may also use cookies for tracking purposes.
+投資の方針・タイミング等は、ご自身の責任において判断してください。本サービスの情報に基づいて行った、いかなる取引の損失についても一切の責任を負いかねますのでご了承ください。
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+また、当該情報の正確性および完全性を保証または約束するものでなく、今後、予告なしに内容を変更または廃止する場合があります。
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+なお、当該情報の欠落・誤謬等につきましてはその責を負いかねますのでご了承ください。
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+当サイトの記載情報を利用する際は、精査および検証した上で利用者の責任でお願いします。
+
+当サイトは記載内容に関連して発生した損害、付随的損害、逸失利益等の間接損害を含め、一切の責任を追いません。
+
+### FX・海外FXについて
+本ウェブサイトで紹介している、FX海・外FXおよびCFDなどの銘柄の取引は元本保証のない取引のため、大きな利益を生む可能性がありますが同時に大きな損失を被る可能性もあります。
+
+FX取引をする場合は、投資目的、経験の程度およびリスクの許容範囲を十分に慎重に考慮した上で、ご自身の許容できるリスクの範囲内で必ず自己責任で行なってください。
+
+また、本ウェブサイトは日本居住者を対象に海外FXの情報を提供しているものではありません。
+
+### 損害等の責任について
+本ウェブサイトに掲載された情報または内容及び利用することで生じた、いかなるトラブル・損失・損害などに対して、一切の責任を負いかねますので、ご了承ください。
+
+また、予告なしに本ウェブサイトは運営の中断、中止や情報の変更を行うことがございますが、これらによって生じた、いかなるトラブル・損失・損害に対しても、同様に責任を負いません。
+
+また本ウェブサイトからのリンクやバナーなどによって他のサイトに移動された場合、移動先のサイトで提供される内容、サービス等につきましても当方は一切の責任を負いません。
+
+本ウェブサイトを利用する場合は、自己責任で行う必要があります。
+
+### 責任の有無について
+本ウェブサイトは、アフィリエイトプログラムにより商品をご紹介しております。
+
+アフィリエイトプログラムとは、商品及びサービスの提供元と業務提携を結び商品やサービスを紹介するインターネット上のシステムとなります。
+
+従って、本ウェブサイトに掲載されているサービス等は本ウェブサイトが販売していません。
+
+本ウェブサイトのご利用者様のご要望のサービス等やお支払い等はリンク先の販売店と直接のお取引となりますので、特定商取引法に基づく表記につきましてはリンク先をご確認頂けますよう宜しくお願い致します。
+
+サービス・商品の価格、詳細は変動する場合もございます。
+
+本ウェブサイトだけではなくリンク先のサイトを良くご確認頂けますようお願い致します。
+
+また、本ウェブサイトに掲載されている情報をご利用頂く場合には、ご自身のご判断と責任におきましてご利用頂けますようお願い致します。
+
+本ウェブサイトでは、一切の責任を負いかねます事ご了承願います。
+
+尚、掲載されているサービス等に関するお問合せはリンク先に御座います企業宛までお願い致します。
+
+本ウェブサイト管理者側ではお答え致しかねます事、ご了承ください。
+
+### 免責事項の変更について
+このページの免責事項内容は、ユーザーに通知することなく変更することがあります。あらかじめご了承ください。
