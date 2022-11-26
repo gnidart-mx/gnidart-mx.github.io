@@ -294,7 +294,7 @@ span.post-read-more a {
     border-radius: 50%;
 }
 span.post-name a,span.post-read-more a:hover {
-	color:rgba(0,0,0,.8);
+	color:rgba(0,0,0,0.8);
 }
 .dot:after {
 	content:"·";
@@ -306,7 +306,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:2rem;
 }
 .link-dark {
-	color:rgba(0,0,0,.8);
+	color:rgba(0,0,0,0.8);
 }
 .article-post>*{
     margin-bottom:1.5rem;
@@ -314,7 +314,7 @@ span.post-name a,span.post-read-more a:hover {
 .article-post {
     font-size: 1.18em;
     line-height: 1.64;
-	color:rgba(0,0,0,.8);
+	color:rgba(0,0,0,0.8);
     code {
         font-size:15px;
     }
