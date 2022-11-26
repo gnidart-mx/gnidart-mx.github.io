@@ -1,2769 +1,2856 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja_JP"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ja_JP" /><updated>2022-11-10T06:42:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">XMTradingではじめよう</title><author><name>gnidart-mx</name></author><entry><title type="html">口座タイプ</title><link href="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E3%82%BF%E3%82%A4%E3%83%97/" rel="alternate" type="text/html" title="口座タイプ" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E5%8F%A3%E5%BA%A7%E3%82%BF%E3%82%A4%E3%83%97</id><content type="html" xml:base="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E3%82%BF%E3%82%A4%E3%83%97/"><![CDATA[<p>FX取引スタイルによって口座を選択できます。
-XMで口座を開設する際に、スタンダード口座・KIWAMI極口座・マイクロ口座・ゼロ口座の4つの口座から好みの口座を選択することができます。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja_JP"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ja_JP" /><updated>2022-11-26T20:33:48+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">XMTradingではじめよう</title><author><name>gnidart-mx</name></author><entry><title type="html">金融ライセンス</title><link href="http://localhost:4000/%E9%87%91%E8%9E%8D%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9/" rel="alternate" type="text/html" title="金融ライセンス" /><published>2022-11-26T00:00:00+09:00</published><updated>2022-11-26T00:00:00+09:00</updated><id>http://localhost:4000/%E9%87%91%E8%9E%8D%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9</id><content type="html" xml:base="http://localhost:4000/%E9%87%91%E8%9E%8D%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9/"><![CDATA[<p>FX業者の金融ライセンスとは？XMの金融ライセンスは安全なのか？詳しく調べました。</p>
 
-<p>それぞれの口座には特色があるので、自分のFX取引スタイルに合わせて選んでみましょう。</p>
+<p>XMの金融ライセンスであるセーシェルは安全性があり、信頼性が高いのか説明します。</p>
 
-<p>一つの口座を開設しても、あとで追加口座として違うタイプの口座も持てます。</p>
+<p>XMが取得している「ライセンスの種類」と併せて「リスク管理」についてもみていきましょう。</p>
+
+<hr />
+
+<h3 id="金融ライセンスとは">金融ライセンスとは？</h3>
+
+<p>各国の金融当局が発行するライセンスを金融ライセンスといいます。</p>
+
+<p>要するにその国で金融を生業にするために取得する許可証のことです。</p>
+
+<p>金融ライセンスを取得していないFX業者も数多く存在するので、もしXM以外の海外FX業者に興味があるなら、会員になる前に調べておきましょう。</p>
+
+<p>FX業者を選ぶときには、この金融ライセンスをまずは確実に取得しているかは必ず確認することをおすすめします。</p>
+
+<hr />
+
+<h3 id="xmの金融ライセンス">XMの金融ライセンス</h3>
+
+<p>XMグループでは、国ごとで下記のような金融ライセンスを取得しています。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>XMグループ会社</th>
+      
+        <th> 取得ライセンス</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      Trading Point of Financial Instruments Ltd
+    </td><td class="col2">
+       キプロス証券取引委員会(CySEC)
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      XM Global Ltd
+    </td><td class="col2">
+       国際金融サービス委員会(IFSC)
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      Financial Instruments UK Ltd
+    </td><td class="col2">
+       金融行動監視機構(FCA)
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      Financial Instruments Pty Ltd
+    </td><td class="col2">
+       オーストラリア証券投資委員会(AFSL)
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      Trading Point MENA Ltd
+    </td><td class="col2">
+       ドバイ金融サービス庁(DFSA)
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      Tradexfin Ltd
+    </td><td class="col2">
+       セーシェル金融サービス庁(FSA)
+    </td></tr>
+
+  
+</table>
+
+<p>XMの日本人向け口座の金融ライセンスは、上記の表にあるようにセーシェルで取得されています。</p>
+
+<p>FSAから証券ディーラーライセンス（番号SD010）を交付されていいます。</p>
+
+<p>ライセンスに関するXMの公式サイトは、下記のリンクから
+<a href="https://clicks.affstrack.com/c?m=48005&amp;c=550036">ライセンスについて(XM公式サイト)</a></p>
+
+<p>XMの取得している金融ライセンスは、日本のFX業者が取得しているライセンスとは違うものです。</p>
+
+<hr />
+
+<h3 id="なぜ海外の金融ライセンス">なぜ海外の金融ライセンス？</h3>
+
+<p>日本の金融商品取引では、レバレッジの規制やFX業者による損失補填ができません。</p>
+
+<p>XMのメリットである1000倍レバレッジやゼロカットシステムによる追証なしが認められていないことが理由です。</p>
+
+<hr />
+
+<h3 id="顧客資産の管理">顧客資産の管理</h3>
+
+<p>FX業者の顧客資産の管理には大きく分けると下記の2つがあります。</p>
+
+<ul>
+  <li>
+    <p>完全信託保全</p>
+  </li>
+  <li>
+    <p>分別管理</p>
+  </li>
+</ul>
+
+<p>金融ライセンスに関する顧客管理の種類についてそれぞれ見ていきましょう。</p>
+
+<hr />
+
+<h4 id="種類１完全信託保全">種類１：完全信託保全</h4>
+
+<p>完全信託保全は、FX業者が顧客資産を信託銀行などに信託して、顧客の資産を保全する方法です。</p>
+
+<p>国内FX業者で義務付けられている管理方法で、FX業者が倒産しても顧客の資産は返ってきます。</p>
+
+<p>また、信託している信託銀行が倒産した場合にも、顧客の資産は返ってきます。</p>
+
+<p>顧客の資産を確実に保護するため、国内FX業者はこの完全信託保全の管理方法が義務付けられています。</p>
+
+<hr />
+
+<h4 id="種類２分別管理">種類２：分別管理</h4>
+
+<p>一方、分別管理は顧客の資産と運営資金を別々で管理する方法です。</p>
+
+<p>分別で管理するため、顧客の資産がFX業者の運営資金に使われることはありません。</p>
+
+<p>しかし、FX業者が倒産したら、顧客の資産も差し押さえられる対象となる可能性があるため、顧客の資産全てが確実に返ってくる保証はありません。</p>
+
+<p>XMの顧客資金の管理方法は、分別管理になります。</p>
+
+<hr />
+
+<h3 id="分別管理の安全性">分別管理の安全性</h3>
+
+<p>FXの「資金の安全面」についてはXM公式サイトには下記の記載があります。</p>
+
+<p>以下、<a href="https://clicks.affstrack.com/c?m=92464&amp;c=683835">XM公式サイト</a>より</p>
+
+<blockquote>
+  <p>私の資金は安全ですか？</p>
+  <blockquote>
+    <p>XMTradingはTradexfin Limitedが運営しており、適用される法および規制に基づき、お客様の資金の安全性および消費者保護を確実にします。従いまして、XMTradingは以下を措置します:</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>お客様の資金の分別管理</p>
+  <blockquote>
+    <p>お客様のご資金は当社が用意する銀行口座へ移管され、分別管理されます。こちらの資金は当社の貸借対照表に含まれず、当社清算時に債権者への支払いに充当されることはありません。</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>銀行口座</p>
+  <blockquote>
+    <p>お客様のご資金および当社の運転資金は定評ある優良金融機関に預託しています。</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>規制機関による監督</p>
+  <blockquote>
+    <p>規制された証券ディーラーライセンス保持者として、弊社には厳格な金融要請に応える義務があります。従って、弊社はお客様の入金、会社の通貨ポジションの変動の可能性、その他の未払い経費を充当する 十分な流動資本を保持するよう法により義務付けられています。毎年の監査により不足が認められる場合には、弊社の内部監査法人により詳細が全て当局へ 報告される運用となります。</p>
+  </blockquote>
+</blockquote>
+
+<hr />
+
+<h3 id="xmの分別管理">XMの分別管理</h3>
+
+<p>XMの取得しているセーシェル金融ライセンスは信託保全が義務付けられていません。</p>
+
+<p>信託保全ではないため、XMがもし破綻したら顧客の資金に影響を及ぼす可能性はありますが、XMの実績を鑑みると破綻する可能性自体が低いように思います。</p>
+
+<p>しかし、リスクを管理する上でも他のFX業者に資産を分散しておくことは自己資金を守るための対策として有効です。</p>
+
+<p>上記のリスクを踏まえた上で、自己資金を守るためにリスク管理は重要です。</p>
+
+<hr />
+
+<h3 id="リスク管理">リスク管理</h3>
+
+<p>上述した通り、他のFX業者に資産を分けておくことは対策として有効でしょう。</p>
+
+<p>そして、念のために取引口座に利益をずっと預けておくことは避けることも大切です。</p>
+
+<p>例えば、一定の目標金額にまで到達したら出金するなどルールを設けてXMの取引口座には取引する資金のみにするだけでもリスクを回避できるでしょう。</p>
+
+<hr />
+
+<h3 id="まとめ金融ライセンス">まとめ：金融ライセンス</h3>
+
+<p>海外FX業者XMの信頼性について大きく関係する金融ライセンスはしっかりしたライセンスですが、XMの金融ライセンスは日本の金融ライセンスと比べて安全性が低いと言えます。</p>
+
+<p>しかし、金融ライセンス取得が厳しいイギリスやキプロスなどで取得しているXMは、グローバルな観点で言えば信頼性の高い金融ライセンスを取得していると思いますが、顧客資産の管理方法に着目すると、XMが倒産したときの資産の保証が確実ではないことは懸念材料です。</p>
+
+<p>そのため、取引を行う上でXMだけを利用せずに複数のFX業者に資産を分けておくことで、もしもの場合のリスクを最小限に抑えることができます。</p>
+
+<p>また、念のため取引口座に利益をずっとおいておくことは避けた方がよいでしょう。</p>
+
+<p>取引口座には取引の資金だけを入れて、リスクを管理することをおすすめします。</p>
+
+<p>XMの口座開設が、まだなら早速口座を開設して取引をはじましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="金融ライセンス" /><category term="XM" /><category term="金融" /><summary type="html"><![CDATA[FX業者の金融ライセンスとは？XMの金融ライセンスは安全なのか？詳しく調べました。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/license.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/license.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">XMのCFD</title><link href="http://localhost:4000/XM%E3%81%AECFD/" rel="alternate" type="text/html" title="XMのCFD" /><published>2022-11-25T00:00:00+09:00</published><updated>2022-11-25T00:00:00+09:00</updated><id>http://localhost:4000/XM%E3%81%AECFD</id><content type="html" xml:base="http://localhost:4000/XM%E3%81%AECFD/"><![CDATA[<p>XMでのCFDは、種類が豊富なので取引チャンスが多いのでおすすめです。</p>
+
+<p>一般的に差金決済取引(CFD)の場合、FX口座と別に口座を作る必要がありますが、XMの場合にはその必要がありません。</p>
+
+<p>また、XMのCFD商品は原油やゴールド、株式指数(JP225やS&amp;P500など)など取り扱いが豊富です。</p>
+
+<hr />
+
+<h3 id="貴金属">貴金属</h3>
+
+<p>人気のゴールド(金)やシルバー(銀)、プラチナ、パラディウムに代表される「貴金属」も取引できます。</p>
+
+<p>ゴールド(金)取引はボラリティが高く、大きいときは1日で200pips以上動くときもあります。</p>
+
+<p>スキャルピングでうまく利益を重ねれば、通貨ペアでの取引と比べると早く資産が増加していきます。</p>
+
+<p>しかし、それは裏を返せば、損切りをためらっていたり、相場が自分の思惑通りに動かないと、一瞬でロスカットになる可能性もあるので注意しましょう。</p>
+
+<p>また、貴金属の取引でスワップポイントが影響するのは、ゴールド(金)とシルバー(銀)のみで、パラジウムとプラチナの取引にスワップポイントはありません。</p>
+
+<p>XMでの取り扱い貴金属は下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>シンボル</th>
+      
+        <th> 内容</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      GOLD
+    </td><td class="col2">
+       ゴールド
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SILVER
+    </td><td class="col2">
+       シルバー
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      PALL
+    </td><td class="col2">
+       パラジウム
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      PLAT
+    </td><td class="col2">
+       プラチナ
+    </td></tr>
+
+  
+</table>
+
+<p>各種貴金属に関する記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95/">ゴールド取引のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC(%E9%8A%80)%E5%8F%96%E5%BC%95/">シルバー取引のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E5%8F%96%E5%BC%95/">プラチナ取引のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95/">パラジウム取引のページ</a></p>
+
+<hr />
+
+<h3 id="エネルギー">エネルギー</h3>
+
+<p>XMのCFDはエネルギー関連の銘柄も取引対象です。</p>
+
+<p>XMで原油取引するときに気をつけることは、ボラリティーがとても激しいことと、「満期」が存在することです。</p>
+
+<p>※「満期」になると自動的に決済されます。</p>
+
+<p>また、原油取引でスワップポイントは一切発生しません。</p>
+
+<p>国内での取引に比べると、XMでの取引はレバレッジが高いので魅力的です。</p>
+
+<p>そして、追証なしのゼロカットシステムで、入金した資金以上の支払いが発生することがないので安心です。</p>
+
+<p>XMでの取り扱いネルギーは下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>シンボル</th>
+      
+        <th> 内容</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      BRENT
+    </td><td class="col2">
+       ブレント原油
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GSOIL
+    </td><td class="col2">
+       ロンドン軽油
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      NGAS
+    </td><td class="col2">
+       天然ガス
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      OIL
+    </td><td class="col2">
+       WTI原油
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      OILMn
+    </td><td class="col2">
+       WTI原油ミニ
+    </td></tr>
+
+  
+</table>
+
+<p>原油取引の記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E5%8E%9F%E6%B2%B9%E5%8F%96%E5%BC%95/">原油取引のページ</a></p>
+
+<hr />
+
+<h3 id="コモディティ">コモディティ</h3>
+
+<p>ココアやコーヒー・小麦粉・砂糖・とうもろこしなどの農作物は「コモディティ」に分類され、取引の対象です。</p>
+
+<p>農作物は株式市場に影響をうけにくい傾向があり、株式投資のリスク分散先としても需要があります。</p>
+
+<p>とはいえ、天候などによる生産量増減や天変地異などで需要と供給のバランスが崩れると大きな変動になります。</p>
+
+<p>コモディティ関連は、年間である程度、価格の変動があり、決められた日に決済する必要がある「満期」が存在します。</p>
+
+<p>XMでの取り扱いコモディティ(商品)は下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>シンボル</th>
+      
+        <th> 内容</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      COCOA
+    </td><td class="col2">
+       ココア
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      COFFE
+    </td><td class="col2">
+       コーヒー
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      CORN
+    </td><td class="col2">
+       トウモロコシ
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      COTTO
+    </td><td class="col2">
+       綿
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      HGCOP
+    </td><td class="col2">
+       ハイグレードカッパー
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SBEAN
+    </td><td class="col2">
+       大豆
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SUGAR
+    </td><td class="col2">
+       砂糖
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      WHEAT
+    </td><td class="col2">
+       小麦
+    </td></tr>
+
+  
+</table>
+
+<hr />
+
+<h3 id="株式指数">株式指数</h3>
+
+<p>株式指数とは株式相場の動向を示すために、それぞれの株価を一定の計算方法で数値化したものです。</p>
+
+<p>XMでは多くの株式指数から選択して取引することができます。</p>
+
+<p>もちろん、株式指数においても、ハイレバレッジを利用したプロアクティブな取引ができます。</p>
+
+<p>そして、ゼロカットシステムによる「追証なし」でリスクを限定できる安心取引を株式指数でも適用されているので人気があります。</p>
+
+<p>現物と先物の違いは下記の通りです。</p>
+
+<ul>
+  <li>
+    <p>先物には期限あり、現物は期限なし</p>
+  </li>
+  <li>
+    <p>現物にはスワップあり、先物はスワップなし</p>
+  </li>
+  <li>
+    <p>現物には配当金あり</p>
+  </li>
+</ul>
+
+<p>スプレッドがやや狭い現物は中期トレーダー向けと言えるでしょう。</p>
+
+<p>一方、スワップポイントのない先物は長期トレーダー向けです。</p>
+
+<p>XMでの取り扱い株式指数は下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>シンボル</th>
+      
+        <th> 内容</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      AUS200Cash
+    </td><td class="col2">
+       ASX 200（オーストラリア証券取引所株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      EU50Cash
+    </td><td class="col2">
+       EURO STOCKS 50（ユーロ・ストックス50指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      FRA40Cash
+    </td><td class="col2">
+       CAC 40（フランスのベンチマーク株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GER30Cash
+    </td><td class="col2">
+       DAX（ドイツ株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      HK50Cash
+    </td><td class="col2">
+       HSI（ハンセン株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      IT40Cash
+    </td><td class="col2">
+       FTSE MIB（イタリア証券取引所株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      JP225Cash
+    </td><td class="col2">
+       Nikkei 225（日経平均株価）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      NETH25Cash
+    </td><td class="col2">
+       NETHERLAND 25（オランダ株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SPAIN35Cash
+    </td><td class="col2">
+       IBEX (マドリード証券取引所株価指数)：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SWI20Cash
+    </td><td class="col2">
+       SWI 20（スイス株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      UK100Cash
+    </td><td class="col2">
+       FTSE 100（フィナンシャル・タイムズ100種総合株価指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US100Cash
+    </td><td class="col2">
+       NASDAQ 100（NASDAQ100指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US30Cash
+    </td><td class="col2">
+       DOW JONES（Dow Jones工業株価平均）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US500Cash
+    </td><td class="col2">
+       S&amp;P 500（スタンダード・アンド・プアーズ500種指数）：現物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      EU50
+    </td><td class="col2">
+       EURO STOCKS 50（ユーロ・ストックス50指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      FRA40
+    </td><td class="col2">
+       CAC 40（フランスのベンチマーク株価指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GER30
+    </td><td class="col2">
+       DAX（ドイツ株価指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      JP225
+    </td><td class="col2">
+       Nikkei 225（日経平均株価）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SWI20
+    </td><td class="col2">
+       SWI 20（スイス株価指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      UK100
+    </td><td class="col2">
+       FTSE 100（フィナンシャル・タイムズ100種総合株価指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US100
+    </td><td class="col2">
+       NASDAQ 100（NASDAQ100指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US30
+    </td><td class="col2">
+       DOW JONES（Dow Jones工業株価平均）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US500
+    </td><td class="col2">
+       S&amp;P 500（スタンダード・アンド・プアーズ500種指数）：先物
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      USX
+    </td><td class="col2">
+       USDX（米ドル指数）：先物
+    </td></tr>
+
+  
+</table>
+
+<p>株式指数の記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E6%97%A5%E7%B5%8C225%E5%8F%96%E5%BC%95/">日経225のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/S&amp;P500%E5%8F%96%E5%BC%95/">S&amp;P500取引のページ</a></p>
+
+<hr />
+
+<h3 id="仮想通貨">仮想通貨</h3>
+
+<p>XMの仮想通貨CFDはレバレッジ最大250倍なので、少しの資金で取引をはじめることができます。</p>
+
+<p>実は以前にもXMでは仮想通貨を取り扱っていましたが、しばらくお休みになっていました。</p>
+
+<p>再開されたXMの新しい取引条件は、下記の通り多くの面で改善されました。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th> </th>
+      
+        <th> （旧）XM仮想通貨</th>
+      
+        <th> （改）XM仮想通貨</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      レバレッジ
+    </td><td class="col2">
+       最大5倍
+    </td><td class="col3">
+       最大250倍
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      スワップ
+    </td><td class="col2">
+       全銘柄マイナススワップ
+    </td><td class="col3">
+       全銘柄スワップフリー
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      取引可能時間
+    </td><td class="col2">
+       平日のみ
+    </td><td class="col3">
+       24時間365日
+    </td></tr>
+
+  
+</table>
+
+<p>仮想通貨取引の記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E5%8F%96%E5%BC%95/">仮想通貨取引のページ</a></p>
+
+<hr />
+
+<h3 id="証拠金の計算式">証拠金の計算式</h3>
+
+<p>CFDの中でも人気のゴールド・シルバーの証拠金の計算式について確認しておきましょう。</p>
+
+<hr />
+
+<h4 id="証拠金の計算式-1">証拠金の計算式</h4>
+
+<p>ゴールド・シルバーの証拠金計算式は下記の通りです。</p>
+
+<p><code class="language-plaintext highlighter-rouge">ロット数 × コントラクトサイズ × 市場価格 ÷ レバレッジ</code></p>
+
+<hr />
+
+<h4 id="その他のcfd商品の証拠金計算式">その他のCFD商品の証拠金計算式</h4>
+
+<p>その他CFD商品の証拠金計算式は下記の通りです。</p>
+
+<p><code class="language-plaintext highlighter-rouge">ロット数 × コントラクトサイズ × オープン価格 × 証拠金率</code></p>
+
+<hr />
+
+<h4 id="バイナリーオプション取引">バイナリーオプション取引</h4>
+
+<p>XMでは現状バイナリーオプション取引を扱っていません。</p>
+
+<p>今後取り扱うことがあるかは不明です。</p>
+
+<hr />
+
+<h4 id="cfdの利益算出方法">CFDの利益算出方法</h4>
+
+<p>利益の算出方法は下記の通りです。</p>
+
+<p><code class="language-plaintext highlighter-rouge">（クローズ価格－オープン価格）x ロット数 x コントラクトサイズ</code></p>
+
+<p>※各CFDによってロットサイズは異なります。</p>
+
+<h3 id="まとめxmのcfd">まとめ：XMのCFD</h3>
+
+<p>国内FX業者の場合にはCFD取引専用に別口座を作る必要があります。</p>
+
+<p>XMなら普段使用している口座でそのまま取引でき、ボーナスやゼロカットシステム(追証なし)も同じように適用されるので、親切な条件で取引ができます。</p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="CFD" /><category term="取引" /><category term="FX" /><summary type="html"><![CDATA[XMでのCFDは、種類が豊富なので取引チャンスが多いのでおすすめです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/cfd.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/cfd.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">XMの通貨</title><link href="http://localhost:4000/XM%E3%81%AE%E9%80%9A%E8%B2%A8/" rel="alternate" type="text/html" title="XMの通貨" /><published>2022-11-25T00:00:00+09:00</published><updated>2022-11-25T00:00:00+09:00</updated><id>http://localhost:4000/XM%E3%81%AE%E9%80%9A%E8%B2%A8</id><content type="html" xml:base="http://localhost:4000/XM%E3%81%AE%E9%80%9A%E8%B2%A8/"><![CDATA[<p>XMなら通貨ペアも取り扱いが豊富で、取引チャンスが多くてトレードが楽しい。</p>
+
+<p>多くのメジャー通貨を取り扱うXMなら、通貨ペア57種類から選んで取引できます。</p>
+
+<p>さらにドル円やユーロ円以外にもマイナーな通貨ペアを数多く取り扱っています。</p>
+
+<p>XMでは、どんな通貨ペアが扱われているのか確認してみましょう。</p>
+
+<p>さらに気になる仮想通貨についてもご紹介します。</p>
+
+<hr />
+
+<h3 id="基軸通貨と通貨ペア">基軸通貨と通貨ペア</h3>
+
+<p>まず、「基軸通貨」と「通貨ペア」をみていきましょう。</p>
+
+<p>基軸通貨とは、為替相場において軸として扱われる通貨のことです。</p>
+
+<p>そして、通貨ペアとは売買する2ヵ国間の通貨の組み合わせのことです。</p>
+
+<p>基軸通貨と通貨ペアは下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>基軸通貨</th>
+      
+        <th> 通貨ペア</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      AUD（オーストラリアドル）
+    </td><td class="col2">
+       AUDCAD（オーストラリアドル/カナダドル）AUDNZD（オーストラリアドル/ニュージーランドドル）AUDCHF（オーストラリアドル/スイスフラン）AUDJPY（オーストラリアドル/日本円）AUDUSD（オーストラリアドル/米ドル）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      CAD（カナダドル）
+    </td><td class="col2">
+       CADCHF（カナダドル/スイスフラン）CADJPY（カナダドル/日本円）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      CHF（スイスフラン）
+    </td><td class="col2">
+       CHFJPY（スイスフラン/日本円）CHFSGD（スイスフラン/シンガポールドル）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      EUR（ユーロ）
+    </td><td class="col2">
+       EURAUD（ユーロ/オーストラリアドル）EURCAD（ユーロ/カナダドル）EURCHF（ユーロ/スイスフラン）EURDKK（ユーロ/デンマーククローネ）EURGBP（ユーロ/ポンド）EURHKD（ユーロ/香港ドル）EURHUF（ユーロ/ハンガリーフォリント）EURJPY（ユーロ/日本円）EURNOK（ユーロ/ノルウェークローネ）EURNZD（ユーロ/ニュージーランドドル）EURPLN（ユーロ/ポーランドズロチ）EURRUB（ユーロ/ロシアルーブル）EURSEK（ユーロ/スウェーデンクローナ）EURSGD（ユーロ/シンガポールドル）EURTRY（ユーロ/トルコリラ）EURUSD（ユーロ/米ドル）EURZAR（ユーロ/南アフリカランド）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GBP（ボンド）
+    </td><td class="col2">
+       GBPAUD（ポンド/オーストラリアドル）GBPCAD（ポンド/カナダドル）GBPCHF（ポンド/スイスフラン）GBPDKK（ポンド/デンマーククローネ）GBPJPY（ポンド/日本円）GBPNOK（ポンド/ノルウェークローネ）GBPNZD（ポンド/ニュージーランドドル）GBPSEK（ポンド/スウェーデンクローナ）GBPSGD（ポンド/シンガポールドル）GBPUSD（ポンド/米ドル）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      NZD（ニュージーランドドル）
+    </td><td class="col2">
+       NZDCAD（ニュージーランドドル/カナダドル）NZDCHF（ニュージーランドドル/スイスフラン）NZDJPY（ニュージーランドドル/日本円）NZDSGD（ニュージーランドドル/シンガポールドル）NZDUSD（ニュージーランドドル/米ドル）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SGD（シンガポールドル）
+    </td><td class="col2">
+       SGDJPY（シンガポールドル/日本円）
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      USD（米ドル）
+    </td><td class="col2">
+       USDCAD（米ドル/カナダドル）USDCHF（米ドル/スイスフラン）USDCNH（米ドル/中国人民元）USDDKK（米ドル/デンマーククローネ）USDHKD（米ドル/香港ドル）USDHUF（米ドル/ハンガリーフォリント）USDJPY（米ドル/日本円）USDMXN（米ドル/メキシコペソ）USDNOK（米ドル/ノルウェークローネ）USDPLN（米ドル/ポーランドズロチ）USDRUB（米ドル/ロシアルーブル）USDSEK（米ドル/スウェーデンクローナ）USDSGD（米ドル/シンガポールドル）USDTRY（米ドル/トルコリラ）USDZAR（米ドル/南アフリカランド)
+    </td></tr>
+
+  
+</table>
+
+<p>XMでは多くの通貨ペアを取り扱っていますが、どの通貨を選べば良いのか気になると思います。</p>
+
+<p>各通貨には特徴があり、取引に選ぶ通貨はよく耳にするメジャーな通貨から取引するようにしましょう。</p>
+
+<p>あまりにも聞きなれない国の通貨での取引は、情報が少なくリスクが高くなるのでギャンプルになります。</p>
+
+<p>突発的な変動で値幅が一気に動いたりして、強制ロスカットになるようなギャンブル的な取引は避けましょう。</p>
+
+<hr />
+
+<h3 id="流通量の多い通貨ペア">流通量の多い通貨ペア</h3>
+
+<p>リスクを軽減する意味では、多くの投資家が取引する流通量の多い通貨ペアでの取引がおすすめです。</p>
+
+<p>一般的に流通量の多い通貨は下記が挙げられます。</p>
+
+<ul>
+  <li>
+    <p>米ドル</p>
+  </li>
+  <li>
+    <p>ユーロ</p>
+  </li>
+  <li>
+    <p>円</p>
+  </li>
+</ul>
+
+<p>流通量が多い通貨は、情報も多いので分析しやすいのでおすすめします。</p>
+
+<p>マイナーで価格変動がいつ起こるか分からない分析することが難しい通貨の取引は控えましょう。</p>
+
+<hr />
+
+<h3 id="仮想通貨取引">仮想通貨取引</h3>
+
+<p>XMで再開された仮想通貨取引は、レバレッジが最大250倍へ引き上げられ、少し資金で気軽に仮想通貨の取引をはじめることができます。</p>
+
+<p>仮想通貨取引の記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E5%8F%96%E5%BC%95/">仮想通貨取引のページ</a></p>
+
+<hr />
+
+<h3 id="まとめxmの通貨">まとめ：XMの通貨</h3>
+
+<p>取引機会を増やすことで、稼ぐチャンスを増やすことも重要です。</p>
+
+<p>そのためにも、少しでも良いので各国の経済についてチェックしましょう。</p>
+
+<p>あまりマイナーな通貨ペアを取引することはリスクが高いのでお勧めできません。</p>
+
+<p>XMでの取引では追証による入金額以上の支払いが発生することはありませんが、強制ロスカットによる大きな損失は避けたいところです。</p>
+
+<p>コツコツとスキャルピングで積み上げた資産を強制ロスカットで失わないためにも、通貨ペア選びにも注意を払って、取引を行うようにしましょう。</p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="通貨" /><category term="通貨ペア" /><category term="取引" /><category term="FX" /><summary type="html"><![CDATA[XMなら通貨ペアも取り扱いが豊富で、取引チャンスが多くてトレードが楽しい。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/currency.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/currency.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">プラチナ取引</title><link href="http://localhost:4000/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="プラチナ取引" /><published>2022-11-24T00:00:00+09:00</published><updated>2022-11-24T00:00:00+09:00</updated><id>http://localhost:4000/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E5%8F%96%E5%BC%95/"><![CDATA[<p>プラチナはゴールドより希少性が高いので価格変動性も大きく、XMでも人気の銘柄です。</p>
+
+<p>今までプラチナ(白金)の取引をしたことがないなら、この機会に取引銘柄に組み入れてみましょう。</p>
+
+<p>XMなら他の通貨ペアと同じように取引ができるので、プラチナ(白金)で取引をすぐにはじめられます。</p>
+
+<hr />
+
+<h3 id="プラチナ白金取引とは">プラチナ(白金)取引とは</h3>
+
+<p>ゴールド・シルバー・パラジウムと並び、貴金属のなかで人気のプラチナです。</p>
+
+<p>人気なのは、ゴールド(金)ほどボラティリティはなく、ある程度一定方向に動くため、読みやすい傾向があるからです。</p>
+
+<p>また、ゴールドとシルバーではスワップポイントがありますが、プラチナは先物取引になるため、スワップポイントは一切ありません。</p>
+
+<hr />
+
+<h3 id="メリット">メリット</h3>
+
+<p>XMでプラチナ(白金)で取引をするメリットは下記の通りです。</p>
+
+<ul>
+  <li>
+    <p>気軽に通貨と同様に取引が開始できる</p>
+  </li>
+  <li>
+    <p>スワップポイントがなしでスプレッドのみのコストで取引できる</p>
+  </li>
+  <li>
+    <p>「売り」「買い」どちらからでも取引が開始できる</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="デメリット">デメリット</h3>
+
+<p>XMでプラチナ(白金)取引するは下記の通りです。</p>
+
+<ul>
+  <li>
+    <p>現物商品と比較してスプレッドがやや広い</p>
+  </li>
+  <li>
+    <p>レバレッジが22.2倍の固定</p>
+  </li>
+  <li>
+    <p>先物商品なので限月に決済される（3か月の限月周期）</p>
+  </li>
+</ul>
+
+<hr />
+
+<h4 id="取引時間">取引時間</h4>
+
+<p>日本時間の月曜早朝から土曜早朝までが取引時間です。</p>
+
+<p>プラチナの取引時間は以下の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>取引時間</th>
+      
+        <th> 夏の取引時間</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      8:05~6:55
+    </td><td class="col2">
+       (夏)7:05~5:55
+    </td></tr>
+
+  
+</table>
+
+<p>冬時間と夏時間で1時間ずれます。</p>
+
+<hr />
+
+<h4 id="プラチナ白金とは">プラチナ(白金)とは？</h4>
+
+<p>そもそもプラチナとはなんでしょうか？</p>
+
+<p>プラチナはレアメタルの一種です。</p>
+
+<p>年間の産出量が200トン未満なので他の貴金属と比べると非常に少ないので希少価値が高いのです。</p>
+
+<p>そして、全産出量の70%以上が南アフリカで産出されています。</p>
+
+<p>用途としては、ジュエリーなどの宝飾品、自動車等に使われる触媒などに利用されています。</p>
+
+<hr />
+
+<h4 id="プラチナ価格の傾向">プラチナ価格の傾向</h4>
+
+<p>プラチナ価格は、自動車の販売台数に大きく影響を受けます。</p>
+
+<p>大部分のプラチナは工業製品として消費されますが、その多くが自動車に使用されので、車の販売台数が伸び悩むとプラチナの価格が下がります。</p>
+
+<hr />
+
+<h4 id="パラジウムとの比較">パラジウムとの比較</h4>
+
+<p>同じように希少価値の高いパラジウム取引と比較すると、プラチナ取引の場合、スプレッドが半分ほどです。</p>
+
+<p>また、プラチナ取引の場合の1ロット分の必要証拠金額は、パラジウムと比べて必要証拠金も半分になります。</p>
+
+<p>プラチナとバラジウムは同じ希少性の高いレアメタルですが、プラチナ取引の方がパラジウムに比べてメリットが目立ちます。</p>
+
+<p>理由は、パラジウムの価格が現在高騰しているので、大きな差を生んでいます。</p>
+
+<p>パラジウムの記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95/">パラジウム取引のページ</a></p>
+
+<hr />
+
+<h3 id="まとめプラチナ白金取引">まとめ：プラチナ(白金)取引</h3>
+
+<p>ゴールドと比較して取引する機会は少ないプラチナですが、今後は長期的に上昇する可能性が高いので取引対象として良いでしょう。</p>
+
+<p>価格が変動するタイミングを見逃さず、国際情勢を鑑みてコツコツ取引するのがおすすめです。</p>
+
+<p>ゴールドと比ベ、ボラリティが低いので少し余裕を持ってトレードできる点も人気の一つと言えます。</p>
+
+<p>もし、これまでプラチナ(白金)の取引を試したことのないなら、この機会にプラチナ(白金)取引をはじめてみましょう。</p>
+
+<p>各種貴金属に関する記事は、下記のリンクから</p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95/">ゴールド取引のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC(%E9%8A%80)%E5%8F%96%E5%BC%95/">シルバー取引のページ</a></p>
+
+<p><a href="https://gnidart-mx.github.io/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95/">パラジウム取引のページ</a></p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p>もちろん、入金して国内FXでは体験できないハイレバレッジでゼロカットシステム(追証なし)の取引を開始したい方は早速はじめましょう。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="プラチナ" /><category term="貴金属" /><category term="CFD" /><summary type="html"><![CDATA[プラチナはゴールドより希少性が高いので価格変動性も大きく、XMでも人気の銘柄です。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/platinum.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/platinum.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KIWAMI極口座</title><link href="http://localhost:4000/KIWAMI%E5%8F%A3%E5%BA%A7/" rel="alternate" type="text/html" title="KIWAMI極口座" /><published>2022-11-24T00:00:00+09:00</published><updated>2022-11-24T00:00:00+09:00</updated><id>http://localhost:4000/KIWAMI%E5%8F%A3%E5%BA%A7</id><content type="html" xml:base="http://localhost:4000/KIWAMI%E5%8F%A3%E5%BA%A7/"><![CDATA[<p>XMの新しい口座タイプ「KIWAMI極」にはどんな特徴があるかご紹介します。</p>
+
+<p>KIWAMI極口座は「極小スプレッド」「スワップフリー」「手数料無料」の新たな口座タイプです。</p>
+
+<p>2022年10月に新たに加わった取引環境を極限にまで追求した「KIWAMI極口座」はすでにXMユーザーでも密かに人気の口座タイプです。</p>
+
+<p>早めに開設して、有利に取引を進めましょう。</p>
+
+<hr />
+
+<h3 id="口座の比較">口座の比較</h3>
+
+<p>では、まずKIWAMI極口座の何が他の口座と違うのか確認しましょう。</p>
+
+<p>他の口座タイプとの比較表は下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>口座タイプ</th>
+      
+        <th> KIWAMI極</th>
+      
+        <th> マイクロ</th>
+      
+        <th> スタンダード</th>
+      
+        <th> ゼロ</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      レバレッジ
+    </td><td class="col2">
+       1000倍
+    </td><td class="col3">
+       1000倍
+    </td><td class="col4">
+       1000倍
+    </td><td class="col5">
+       500倍
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      スプレッド
+    </td><td class="col2">
+       最低0.6ピップ
+    </td><td class="col3">
+        最低1ピップ
+    </td><td class="col4">
+        最低1ピップ
+    </td><td class="col5">
+        最低0ピップ
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      スワップ
+    </td><td class="col2">
+        手数料無し*
+    </td><td class="col3">
+        有り
+    </td><td class="col4">
+        有り
+    </td><td class="col5">
+        有り
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      ロスカット
+    </td><td class="col2">
+       20%
+    </td><td class="col3">
+       20%
+    </td><td class="col4">
+       20%
+    </td><td class="col5">
+       20%
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      1lot単位
+    </td><td class="col2">
+        10万通貨
+    </td><td class="col3">
+       1000通貨
+    </td><td class="col4">
+       10万通貨
+    </td><td class="col5">
+       10万通貨
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      最大lot
+    </td><td class="col2">
+       50lot/1銘柄
+    </td><td class="col3">
+       100lot/1銘柄
+    </td><td class="col4">
+        50lot/1銘柄
+    </td><td class="col5">
+       50lot/1銘柄
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      最低入金額
+    </td><td class="col2">
+       5ドル
+    </td><td class="col3">
+       5ドル
+    </td><td class="col4">
+       5ドル
+    </td><td class="col5">
+       5ドル
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      取引手数料
+    </td><td class="col2">
+       無料
+    </td><td class="col3">
+        無料
+    </td><td class="col4">
+        無料
+    </td><td class="col5">
+        往復10ドル/lot
+    </td><td class="col6">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      100%入金ボーナス
+    </td><td class="col2">
+        無し
+    </td><td class="col3">
+        有り（500ドル）
+    </td><td class="col4">
+       有り（500ドル）
+    </td><td class="col5">
+       無し
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      20%入金ボーナス
+    </td><td class="col2">
+       無し
+    </td><td class="col3">
+        有り（4500ドル）
+    </td><td class="col4">
+       有り（4500ドル）
+    </td><td class="col5">
+       無し
+    </td></tr>
+
+  
+</table>
+
+<p>*厳選銘柄のみ</p>
+
+<hr />
+
+<h3 id="各口座の傾向">各口座の傾向</h3>
+
+<p>各口座の傾向は下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>KIWAMI極</th>
+      
+        <th> スタンダード</th>
+      
+        <th> マイクロ</th>
+      
+        <th> ゼロ</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      ビギナーから上級者(+スキャルピング)
+    </td><td class="col2">
+       ビギナーから上級者
+    </td><td class="col3">
+       少額取引のビギナー
+    </td><td class="col4">
+       スキャルピングがメイン
+    </td></tr>
+
+  
+</table>
+
+<p>取引スタイルによって口座タイプに向き不向きがありますが、KIWAMI極口座はビギナーから上級者まで納得の環境を提供してくれます。</p>
+
+<hr />
+
+<h3 id="各口座の特色">各口座の特色</h3>
+
+<p>それでは各口座タイプの特色をしっかり押さえておきましょう。</p>
 
 <p>それぞれの口座の特色は下記の通りです。</p>
 
-<p>スタンダード口座＝レバレッジが1000倍で、ボーナスがもらえる口座
-マイクロ口座＝スタンダード口座と仕様が同様で、1lot＝1000通貨で取引できる口座
-KIWAMI極＝最低0.6ピップ・スワップ手数料無しで、取引できる口座
-ゼロ口座＝レバレッジが500倍で、ボーナスは無し、スプレッドは狭く、取引手数料あり
-まずは総合的に「スタンダード口座」がおすすめですが、それぞれの口座の比較やデモ口座についてもご説明いたします。</p>
+<table>
+  
+    
+    <tr>
+      
+        <th>KIWAMI極</th>
+      
+        <th> スタンダード</th>
+      
+        <th> マイクロ</th>
+      
+        <th> ゼロ</th>
+      
+    </tr>
+    
 
-<p>それでは早速、XMの「口座タイプ」について詳しくみていきましょう。</p>
+    <tr class="row1">
+<td class="col1">
+      最低0.6pip・スワップフリー・手数料無し
+    </td><td class="col2">
+       レバレッジ1000倍・ボーナス発生口座
+    </td><td class="col3">
+       スタンダード口座と仕様が同じ・1lot＝1000通貨で取引座
+    </td><td class="col4">
+       レバレッジ500倍・ボーナス無し・手数料あり
+    </td></tr>
 
-<h2 id="口座比較表">口座比較表</h2>
+  
+</table>
 
-<p>下記がそれぞれの口座を比較した表になります。</p>
+<p>KIWAMI極口座は、スタンダード口座ほどの万能タイプではないにせよ、使い勝手の良い口座と言えるでしょう。</p>
 
-<p>口座タイプ	マイクロ	スタンダード	KIWAMI極	ゼロ
-レバレッジ	1000倍	1000倍	1000倍	500倍
-スプレッド	最低1ピップ	最低1ピップ	最低0.6ピップ	最低0ピップ
-スワップ	有り	有り	手数料無し*	有り
-ロスカット	20%	20%	20%	20%
-1lot単位	1,000通貨	10万通貨	10万通貨	10万通貨
-最大lot	100lot/1銘柄	50lot/1銘柄	50lot/1銘柄	50lot/1銘柄
-最低入金額	5ドル	5ドル	5ドル	5ドル
-取引手数料	無料	無料	無料	往復10ドル/1lot
-100%入金ボーナス	有り（500ドル）	有り（500ドル）	無し	無し
-20%入金ボーナス	有り（4,500ドル）	有り（4,500ドル）	無し	無し
-取引ボーナス	1lot取引で約3～6ドル	1lot取引で約3～6ドル	1lot取引で約3～6ドル	無し
-*厳選銘柄のみ（スワップフリーのFX銘柄の全リストはこちら、金属はこちらをクリック）</p>
+<p>他の口座をすでに持っているなら、状況に応じて使い分ける新たな口座として開設しておくのも良いでしょう。</p>
 
-<p>POINT
-取引可能単位はどの口座も0.01lot(10通貨)です。
-また、すべての口座はゼロカットシステムで「追証なし」です。</p>
+<hr />
 
-<p>FX取引スタイルによって、口座タイプを選べるから上記の比較表を念頭に選択するようにしましょう。</p>
+<h3 id="メリット">メリット</h3>
 
-<p>XMユーザーで多くのFXトレーダーがスタンダード口座で取引を行っていますが、自分の好みで選択して、あとで別の口座を追加することができるので安心です。</p>
-
-<p>FX初心者トレーダーなら、どの口座か迷ったら総合的にお得なスタンダード口座がオススメです。</p>
-
-<p>XMでFX取引をする上で、スタンダード口座がおすすめなのは分かりました。</p>
-
-<p>では、その他の口座との違いについて、次は詳しく確認してみましょう。</p>
-
-<ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
-</ul>
-
-<h2 id="提出書類について">提出書類について</h2>
-
-<p>口座開設に必要な提出書類
- XMの口座開設に必要な書類は下記の通りです。</p>
-
-<p>有効なパスポートまたはその他の身分証明書のコピー（例：運転免許証、マイナンバーカード等）。 本人確認書類には、氏名（フルネーム）、発行日または有効期限、出生地と生年月日または納税番号と、本人の署名が必要です。
-公共料金の請求書(例：電気・ガス・水道・電話・銀行口座の取引明細など)で、本人の登録住所が確認できる6ヵ月以内の日付が記載されたものが必要です。
-オンラインで完結するので、上記のいずれかの書類を提出したら、FXの取引開始は目前です。</p>
-
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
-
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
-
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
-
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
-
-<h2 id="最大取引額の制限">最大取引額の制限</h2>
-
-<p>取引額に制限はありませんが、ロット数には制限があります。</p>
-
-<p>それぞれの取引できる最大ロット数はスタンダード口座、KIWAMI極口座とゼロ口座では50ロット、マイクロ口座で100ロットです。</p>
-
-<p>同時に保有できるポジションは、すべての口座タイプで最大200となります。</p>
-
-<p>200ものポジションを持つことは、通常ないとは思いますが一応最大200という制限が設けられています。</p>
-
-<p>上述した口座は、実際に取引ができるリアル口座になります。</p>
-
-<p>XMでは、リアル口座以外にも口座があり、取引の練習をしたり、取引を試したりすためのデモ口座も存在します。</p>
-
-<h2 id="口座タイプの変更">口座タイプの変更</h2>
-
-<p>結論から言うと、口座タイプは変更することができません。</p>
-
-<p>しかし、会員ページ  で希望の口座タイプを選択し、追加口座を開設することができます。</p>
-
-<p>追加口座に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>追加口座に関する記事はこちら</p>
-
-<p>では次に、ときおり耳にすることがあるFXでの法人口座は、XMで開設できるのか？について確認してみましょう。</p>
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
-
-<h2 id="法人口座の開設">法人口座の開設</h2>
-
-<p>XMでは、法人口座の開設はできません。</p>
-
-<p>過去には法人口座が存在していたようですが、現在は開設できません。</p>
-
-<p>ここまで、XMの「口座タイプ」について詳しくみてきました。</p>
-
-<p>それでは最後に、XMの口座タイプに関する「まとめ」を確認しておきましょう。</p>
-
-<h2 id="まとめ口座タイプ">まとめ：口座タイプ</h2>
-
-<p>スタンダード口座タイプがオススメな理由は、最低入金額の低さと入金ボーナスを得る事ができることです。</p>
-
-<p>また、ロイヤルティポイントのステータスが上がるにつれて取引ボーナスで得られるポイントが非常にお得な点も見逃せません。</p>
-
-<p>どの口座が良いか選ぶのに迷ったら、まずは総合面でスタンダード口座の開設がおすすめです。</p>
-
-<p>口座の開設がまだの方は、下記のリンクよりまずは口座を開設してみましょう。</p>
-
-<p>まずは口座開設
-XM公式ホームページへ</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[FX取引スタイルによって口座を選択できます。 XMで口座を開設する際に、スタンダード口座・KIWAMI極口座・マイクロ口座・ゼロ口座の4つの口座から好みの口座を選択することができます。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">日経225取引</title><link href="http://localhost:4000/%E6%97%A5%E7%B5%8C225%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="日経225取引" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E6%97%A5%E7%B5%8C225%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/%E6%97%A5%E7%B5%8C225%E5%8F%96%E5%BC%95/"><![CDATA[<p>「始め方」と「メリット・デメリット」などを徹底解説
-日経225(jp225cash)についてイメージ</p>
-
-<p>日経225銘柄を利用してトレードする方法と稼ぎやすいコツを解説します。</p>
-
-<p>XMでの日経225(jp225cash)取引は、必要証拠金が国内の証券会社と比較して圧倒的に少なくても始めれます。</p>
-
-<p>そしてXMでの取引ならFX通貨ペアを扱うような感覚で、しかもハイレバ取引が可能な点も見逃せません。</p>
-
-<p>初めて日経225で取引をする人だけでなく、XM以外で日経225の取引をしたことがあるトレーダーにもXMはおすすめです。</p>
-
-<p>それでは早速、「日経225(jp225cash)」について詳しくみていきましょう。</p>
-
-<h2 id="日経225jp225cashとは">日経225(JP225CASH)とは？</h2>
-
-<p>まず、日経225(jp225cash)とは日経平均株価の株価指数のことです。</p>
-
-<p>日経平均株価とは日本の上場企業の中から、さらに選ばれた225個の株式銘柄となります。</p>
-
-<p>言い換えれば、日本を代表的する大企業の株価をもとにした株価指数です。</p>
-
-<p>代表的なところで言うと、トヨタ自動車、伊藤忠商事、野村ホールディングスといった大企業の銘柄が多く含まれます。</p>
-
-<p>日経225(jp225cash)には「現物」と「先物」があるので、次にその違いについて確認しておきましょう。</p>
+<p>下記の3点がKIWAMI極口座の代表的なメリットです。</p>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>
+    <p>スプレッド →「極小スプレッド」</p>
+  </li>
+  <li>
+    <p>スワップポイント →「スワップフリー」</p>
+  </li>
+  <li>
+    <p>取引手数料 →「手数料無料」</p>
+  </li>
+  <li>
+    <p>スプレッド →「極小スプレッド」</p>
+  </li>
 </ul>
 
-<h2 id="提出書類について">提出書類について</h2>
+<hr />
+
+<h4 id="極小スプレッド">極小スプレッド</h4>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>口座タイプ</th>
+      
+        <th> KIWAMI極</th>
+      
+        <th> スタンダード</th>
+      
+        <th> マイクロ</th>
+      
+        <th> ゼロ</th>
+      
+    </tr>
+    
 
-<p>口座開設に必要な提出書類
- XMの口座開設に必要な書類は下記の通りです。</p>
+    <tr class="row1">
+<td class="col1">
+      スプレッド平均
+    </td><td class="col2">
+       0.6pips
+    </td><td class="col3">
+       1.7pips
+    </td><td class="col4">
+       1.7pips
+    </td><td class="col5">
+       0pips
+    </td></tr>
 
-<p>有効なパスポートまたはその他の身分証明書のコピー（例：運転免許証、マイナンバーカード等）。 本人確認書類には、氏名（フルネーム）、発行日または有効期限、出生地と生年月日または納税番号と、本人の署名が必要です。
-公共料金の請求書(例：電気・ガス・水道・電話・銀行口座の取引明細など)で、本人の登録住所が確認できる6ヵ月以内の日付が記載されたものが必要です。
-オンラインで完結するので、上記のいずれかの書類を提出したら、FXの取引開始は目前です。</p>
+  
+</table>
 
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+<p>KIWAMI極は他の口座タイプと比ベて、スプレッドがお得なのでスキャルピングに向いています。</p>
 
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
+<hr />
 
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+<h4 id="スワップフリー">スワップフリー</h4>
 
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
+<p>KIWAMI極口座で見逃せないメリットは、主要通貨ペアとゴールド＆シルバーなどのいくつかの銘柄はスワップフリーで取引できることでしょう。</p>
 
-<h2 id="日経225の現物と先物の違いは">日経225の現物と先物の違いは？</h2>
+<p>マイナスのスワップを気にすることなく取引を継続できるので他の口座と一線を画す存在であると言えます。</p>
 
-<p>XMの日経225は「現物」と「先物」の2種類を取り扱っています。</p>
+<p>※プラスのスワップも発生しないことには留意しておきましょう。</p>
 
-<p>「現物」と「先物」は共に同じ日経225ですが、ルールが少し異なるため注意が必要です。</p>
+<hr />
 
-<p>XMでの日経225の「現物」は投資金分のみで取引ができるので、普通の金融商品の同じです。</p>
+<h4 id="手数料無料">手数料無料</h4>
 
-<p>日経225の「現物」で利益を積み上げるには、投資金がある程度必要になるのがネックといえます。</p>
+<p>口座タイプによって取引手数料が発生する口座タイプ(ゼロ口座)もありますが、KIWAMI極口座は取引手数料が一切発生しません。</p>
 
-<p>しかし、リスク面では損失をあらかじめ想定できるので堅実に運用する場合には、現物取引が望ましいでしょう。</p>
+<hr />
 
-<p>逆に日経225の「先物」はその名の通り、将来の価格を予想して取引することになります。</p>
+<h3 id="デメリット">デメリット</h3>
 
-<p>限月に関しては、「現物」にはなく「先物」にはあります。</p>
+<p>KIWAMI極口座のデメリットは入金ボーナスがない点が挙げられるでしょう。</p>
 
-<p>現物	先物
-スプレッド	低い	高い
-配当金の有無	あり	なし
-スワップの有無	あり	なし
-限月の有無	なし	あり
-POINT
-日経225以外にも貴金属や原油での取引にも「現物」と「先物」があります。</p>
+<table>
+  
+    
+    <tr>
+      
+        <th>口座タイプ</th>
+      
+        <th> スタンダード</th>
+      
+        <th> マイクロ</th>
+      
+        <th> KIWAMI極</th>
+      
+        <th> ゼロ</th>
+      
+    </tr>
+    
 
-<p>ゴールド(GOLD)トレードに関する詳しい記事は、下記のページをご覧ください。</p>
+    <tr class="row1">
+<td class="col1">
+      最低入金額
+    </td><td class="col2">
+       あり
+    </td><td class="col3">
+       あり
+    </td><td class="col4">
+       なし
+    </td><td class="col5">
+       なし
+    </td></tr>
 
-<p>ゴールド(GOLD)トレードに関する記事はこちら</p>
+  
+</table>
 
-<p>原油トレードに関する詳しい記事は、下記のページをご覧ください。</p>
+<p>KIWAMI極口座の場合は入金ボーナスが一切発生しません。</p>
 
-<p>原油トレードに関する記事はこちら</p>
+<hr />
 
-<p>では次に、日経225の特徴について詳しくみていきましょう。</p>
+<h3 id="まとめkiwami極口座">まとめ：KIWAMI極口座</h3>
 
-<h2 id="日経225の特徴">日経225の特徴</h2>
+<p>2022年10月に登場した口座タイプ『KIWAMI極口座』はメリットが多く、多くのユーザーがKIWAMI極口座を開設しはじめているようです。</p>
 
-<p>XMでの日経225取引の特徴は以下の3つです。</p>
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
 
-<p>XMなら最低lot数が1lot
-XMの必要証拠金の計算方法
-XMでの日経225のレバレッジは最大500倍
-特徴１</p>
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で、入金しなくても取引をはじめることができます。</p>
 
-<p>XMなら最低lot数が1lot</p>
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="KIWAMI" /><category term="極" /><category term="口座" /><category term="口座タイプ" /><summary type="html"><![CDATA[XMの新しい口座タイプ「KIWAMI極」にはどんな特徴があるかご紹介します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/kiwami.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/kiwami.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">パラジウム取引</title><link href="http://localhost:4000/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="パラジウム取引" /><published>2022-11-24T00:00:00+09:00</published><updated>2022-11-24T00:00:00+09:00</updated><id>http://localhost:4000/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/%E3%83%91%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E5%8F%96%E5%BC%95/"><![CDATA[<p>パラジウム取引は株式市場を意識すれば予測しやすい銘柄で、通貨ペアのように取引できます。</p>
 
-<p>XMなら最低lot数イメージ</p>
+<p>パラジウムは他の貴金属と同じで、希少な物質のため価値が安定している銘柄です。</p>
 
-<p>XMなら最低1ロットで日経225の取引が可能です。</p>
+<p>また、XMならパラジウムを通貨ペアと同じように取引することができます。</p>
 
-<p>少額から慣れることができるので、まずは最低1ロットから試すことができるXMは初心者にも安心です。</p>
+<hr />
 
-<p>POINT
-最低ロット数 → 1ロット
-最大ロット数 → 12,500ロット</p>
+<h3 id="パラジウムとは">パラジウムとは？</h3>
 
-<p>特徴２</p>
+<p>パラジウムは1800年頃に発見されたプラチナ系の銀白色の金属です。</p>
 
-<p>XMの必要証拠金の計算方法</p>
+<p>しかし、貴金属にもかかわらず、パラジウムをアクセサリーとして見つけている人はいません。</p>
 
-<p>Mの必要証拠金の計算方法イメージ</p>
+<p>では、一体何に使われているのかを確認しましょう。</p>
 
-<p>XMで日経225に必要証拠金の算出は以下の計算式で求れます。</p>
+<hr />
 
-<p>必要証拠金 ＝ ロット数 × コントラクトサイズ × オープン価格 × 証拠金率
-コントラクトサイズ(取引単位)は、1ロットの価値 → コントラクトサイズとなります。</p>
+<h3 id="パラジウムの用途">パラジウムの用途</h3>
 
-<p>オープン価格を仮に25,000円と仮定し、証拠金率はXMの規定により0.5%＝0.005、ロット数を100ロットで計算してみます。</p>
+<p>パラジウムは主に下記の3つ用途で利用されています。</p>
 
-<p>100ロット×1コントラクトサイズ×25,000円×0.005＝12,500円
-上記の計算式で算出した通り、100ロットの取引に必要な証拠金は12,500円となります。</p>
+<hr />
 
-<p>特徴３</p>
+<h4 id="装飾品加工">装飾品加工</h4>
 
-<p>レバレッジは最大500倍</p>
+<p>パラジウムは人の体にアレルギー反応を引き起こすことがあるので、装飾品には向いていません。</p>
 
-<p>XMでの日経225取引に適用されるレバレッジは最大500倍となります。</p>
+<p>他の金属と混ぜ合わせることで色の調整に使われますが、単体でアクセサリーなどに用いられることはありません。</p>
 
-<p>2022年11月からS&amp;P500(US500)とともに以前の最大200倍から500倍へ引き上げられました。</p>
+<hr />
 
-<p>XMの大きな特長でもあるFXでの最大レバレッジ「1000倍」は、残念ながら日経225には適用されません。</p>
+<h4 id="銀歯">銀歯</h4>
 
-<p>それでも、国内の証券会社では200倍までレバレッジをかけられないので、少額でハイリターンを狙えるXMに軍配が上がります。</p>
+<p>歯科などで用いられる銀歯は、金とパラジウムの合金がよく利用されています。</p>
 
-<p>ハイレバレッジに関する詳しい記事は、下記のページをご覧ください。</p>
+<hr />
 
-<p>ハイレバレッジに関する記事はこちら
-では次に、日経225の取引が行える時間について確認しておきましょう。</p>
+<h4 id="触媒">触媒</h4>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
+<p>車やバイクの触媒としてパラジウムはよく利用されています。</p>
 
-<h2 id="日経225の取引時間">日経225の取引時間</h2>
+<hr />
 
-<p>XXMでの日経225の取引時間は下記の通りです。</p>
+<h3 id="今後の動向">今後の動向</h3>
 
-<p>夏時間：月曜日7時5分～土曜日5時10分
-冬時間：月曜日8時5分～土曜日6時10分
-POINT
-夏時間と冬時間では、日経225の取引時間に1時間の差があるので注意しましょう。</p>
+<p>パラジウムは今のところ価格の上昇を維持しています。</p>
 
-<p>XMの取引時間に関する詳しい記事は、下記のページをご覧ください。</p>
+<p>金を上回る価格で注目されて以降も安定していることから、、投資対象としてパラジウムは注目すべき銘柄と言えるでしょう。</p>
 
-<p>取引時間に関する記事はこちら
-取引時間を確認したところで、XMで日経225を取引する「メリット」について詳しくみていきましょう。</p>
+<p>希少価値が高い物質であるため、底固い推移がしばらく続くと見られています。</p>
 
-<h2 id="xmで日経225を取引するメリット">XMで日経225を取引するメリット</h2>
+<hr />
 
-<p>XMでの日経225取引のメリットは、以下の4つです。</p>
+<h3 id="必要証拠金の計算">必要証拠金の計算</h3>
 
-<p>XMポイントが貯まる
-複数口座の開設が不要
-XMならデモ口座でお試しトレードが可能
-少額の投資金でもハイリターンを狙える
-メリット１</p>
+<p>XMでの必要証拠金の計算方法は以下の通りです。</p>
 
-<p>XMポイントが貯まる</p>
+<p><code class="language-plaintext highlighter-rouge">必要証拠金＝ロット数 × コントラクトサイズ × 価格 × 証拠金率(0.045)</code></p>
 
-<p>XMポイントが貯まるイメージ</p>
+<p>コントラクトサイズは1ロット当たりの取引量のことで、パラジウムでは10トロイオンスです。</p>
 
-<p>XMでの日経225(jp225cash)は、取引を行うたびにXMポイントを貯めることができるので大変お得感があります。</p>
+<p>最低ロット数でパラジウム取引する場合の必要証拠金は下記の通りです。</p>
 
-<p>XMポイントも入金ボーナスもトレーダーにとって非常にメリットが大きいので、手始めに自己資金を使わずにトレードを開始するのもおすすめです。</p>
+<p>1トロイオンス当たりのパラジウム価格を1600ドルと仮定します。</p>
 
-<p>XMポイントに関する記事はこちら</p>
+<p><code class="language-plaintext highlighter-rouge">必要証拠金＝1ロット×10トロイオンス×1600ドル×0.045＝720ドル</code></p>
 
-<p>メリット２</p>
+<p>1ドル110円とした場合、79200円となります。</p>
 
-<p>複数口座の開設が不要</p>
+<p>よって、XMでのパラジウム取引は1lotあたり79200円の証拠金が必要です。</p>
 
-<p>複数口座の開設が不要イメージ</p>
+<hr />
 
-<p>XMはすでに使用している口座で、FXのみならず貴金属や日経225の取引が可能です。</p>
+<h3 id="取引時間">取引時間</h3>
 
-<p>国内の多くの証券会社では、各金融商品ごとにそれぞれ口座を開設する必要があるので手間になります。</p>
+<p>XMでのパラジウムの取引時間は下記の通りです。</p>
 
-<p>もちろん、金融商品ごとに口座を分けて運用したい方は、XMなら追加口座もスピーディーに開設できるのでおすすめです。</p>
+<table>
+  
+    
+    <tr>
+      
+        <th></th>
+      
+        <th> 取引時間</th>
+      
+        <th> 金曜閉場</th>
+      
+    </tr>
+    
 
-<p>追加口座に関する詳しい記事は、下記のページをご覧ください。</p>
+    <tr class="row1">
+<td class="col1">
+      平日
+    </td><td class="col2">
+       8：05～6：55
+    </td><td class="col3">
+       6：10
+    </td></tr>
 
-<p>追加口座に関する記事はこちら</p>
+  
+    
 
-<p>メリット３</p>
+    <tr class="row1">
+<td class="col1">
+      平日(夏)
+    </td><td class="col2">
+       7：05～5：55
+    </td><td class="col3">
+       5：10
+    </td></tr>
 
-<p>デモ口座でお試しトレード</p>
+  
+</table>
 
-<p>デモ口座でお試しトレードイメージ</p>
+<p>金曜日の閉場時間は、45分早く閉まります。</p>
 
-<p>デモ口座の開設がXMなら素早く作成できるので、まずはお試しで取引できます。</p>
+<hr />
 
-<p>入金無しでXMの取引に慣れてから、実際のトレードを行えるのでリスクを確実に減らして本番に望むことが可能です。</p>
+<h3 id="パラジウム取引のレバレッジ">パラジウム取引のレバレッジ</h3>
+<p>パラジウムレバレッジイメージ</p>
 
-<p>しかし、国内の証券会社ではデモ口座を用意していないところもあります。</p>
+<p>XMでのパラジウム取引ではレバレッジは一律22倍です。</p>
 
-<p>そのためXMでのトレードとは違って、いきなり本番で取引する必要があります。</p>
+<p>XMの特長である1000倍レバレッジを活用することはできません。</p>
 
-<p>XMならデモ口座を、ひとまず開設するだけでも良いので安心です。</p>
+<hr />
 
-<p>デモ口座の開設方法に関する詳しい記事は、下記のページをご覧ください。</p>
+<h3 id="メリット">メリット</h3>
 
-<p>デモ口座の開設方法に関する記事はこちら</p>
+<p>パラジウム取引には以下の3つのメリットがあります。</p>
 
-<p>メリット４</p>
+<hr />
 
-<p>少額の投資金でもハイリターンを狙える</p>
+<h4 id="メリット１株と似た価格変動">メリット１：株と似た価格変動</h4>
 
-<p>少額の投資金でもハイリターンを狙えるイメージ</p>
+<p>一般的にパラジウムは株式と似た価格変動をします。</p>
 
-<p>XMならハイレバレッジで取引ができるため、たとえ少額の投資金でも大きな利益を狙うことが可能です。</p>
+<p>理由は金や銀は価値が一般的に広く浸透しており、現物に対して一定の価値があるので株式が暴落したときに、安全資産として価値のある金の価格は上昇します。</p>
 
-<p>さらにゼロカットシステムが適用されるので、追証もなく投資金以上の損失は一切発生しないので安心です。</p>
+<p>パラジウムの需要は工業などに限定されるので経済が好調で株式が上昇すると、製品の生産数が増加するのでパラジウムの需要が高まり価格が上昇します。</p>
 
-<p>ゼロカットシステムに関する詳しい記事は、下記のページをご覧ください。</p>
+<p>このことから、株式市場を意識しておけば、パラジウムの価格はある程度予測がしやすいというメリットがあります。</p>
 
-<p>ゼロカットシステムに関する記事はこちら</p>
+<hr />
 
-<p>では最後に、「デメリット」についても確認しておきましょう。</p>
+<h4 id="メリット２暴落が稀">メリット２：暴落が稀</h4>
 
-<h2 id="xmで日経225を取引するデメリット">XMで日経225を取引するデメリット</h2>
+<p>株式や通貨のような暴落になるリスクが低い点はメリットと言えるでしょう。</p>
 
-<p>XMでの日経225取引はメリットだけでなく「デメリット」もあります。</p>
+<p>株式の場合は倒産によって価値がゼロになるという懸念がありますが、パラジウムのような貴金属には物質そのものの価値があるので、一定以上の価値はキープされます。</p>
 
-<p>以下の2点においてがデメリットとなります。</p>
+<hr />
 
-<p>スプレッドが広め
-スワップポイントは常にマイナス
-デメリット１</p>
+<h4 id="メリット３価格が上昇傾向">メリット３：価格が上昇傾向</h4>
 
-<p>スプレッドが広め</p>
+<p>貴金属の中でもパラジウムは上昇傾向で、価格はゴールド(金)と同じかそれ以上にまでなりました。</p>
 
-<p>スプレッドが広めイメージ</p>
+<p>今後もこの傾向は持続するとの見方が強いので、取引対象としてはよい点と言えます。</p>
 
-<p>XMでの日経225のスプレッドは狭くありません。</p>
+<hr />
 
-<p>国内の証券会社と比較しても明らかで、少なくとも5倍以上のスプレッド差があるのは、大きなデメリットと言えます。</p>
+<h3 id="デメリット">デメリット</h3>
 
-<p>XMの場合は、ハイレバレッジでの取引提供とゼロカットシステムを導入しているため、スプレッドが高くなることは否めません。</p>
+<p>パラジウム取引には下記の3つのデメリットがあります。</p>
 
-<p>デメリット２</p>
+<hr />
 
-<p>スワップポイントは常にマイナス</p>
+<h4 id="デメリット１株式の影響下">デメリット１：株式の影響下</h4>
 
-<p>スワップポイントは常にマイナスイメージ</p>
+<p>株式市場の影響を受けやすく、株式と同じような変動になる点は予測しやすいのでメリットと言えますが、同時にデメリットとも言えます。</p>
 
-<p>XMでの日経225はマイナスのスワップポイントが発生します。</p>
+<p>新型コロナウイルスの影響でパラジウムの価格も暴落した経緯があり、株式の暴落ほど大きくはありませんでしたが注意が必要です。</p>
 
-<p>「買い」「売り」どちらのエントリーであってもマイナスのスワップポイントが発生するため、スワップポイントに期待しない取引となります。</p>
+<hr />
 
-<p>POINT
-過去には「買い」の場合にプラスのスワップポイントでしたが、現在はマイナスのスワップポイントになります。</p>
+<h4 id="デメリット２利息や配当なし">デメリット２：利息や配当なし</h4>
 
-<p>ここまで、「日経225(jp225cash)」について詳しくみてきました。</p>
+<p>株式投資のように配当は発生しません。</p>
 
-<p>それでは最後に、日経225(jp225cash)に関する「まとめ」を確認しておきましょう。</p>
+<p>また、スワップポイントもないので、所有しているだけで利益が発生するようなことはありません。</p>
 
-<h2 id="まとめ日経225トレード">まとめ：日経225トレード</h2>
+<hr />
 
-<p>日経225の「先物」と「現物」では、先物はリスクを抑えた形でハイリターンを目指すことができます。</p>
+<h4 id="デメリット３産出国が限定的">デメリット３：産出国が限定的</h4>
 
-<p>もちろん、取引ごとにXMポイントがたまるので、日経225の取引に慣れ親しんでいない人も、他社で日経225を扱ったことがある人も敷居が低いためおすすめです。</p>
+<p>パラジウムのほとんどがロシアや南アフリカだけで産出されるので、産出国の影響を受けやすい傾向にあります。</p>
 
-<p>XMでの日経225(jp225cash)取引は、確かにスプレッドやスワップポイントは優れているとは言えません。</p>
+<p>価格が大きく変動する点のみで判断するなら、他の金融商品と比較してリスクが高いと言えるでしょう。</p>
 
-<p>しかし、その他のメリットを踏まえればXMでの日経225取引は魅力的であると言えます。</p>
+<hr />
 
-<p>是非とも一度は挑戦してみることをおすすめします。</p>
+<h3 id="mt4での表示方法">MT4での表示方法</h3>
 
-<p>口座の開設がまだの方は、下記のリンクよりまずは口座を開設してみましょう。</p>
+<p>下記の通り、3ステップで表示することができます。</p>
 
-<p>取引口座を開設する
-XM公式ホームページへ</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[「始め方」と「メリット・デメリット」などを徹底解説 日経225(jp225cash)についてイメージ]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">取引シグナル</title><link href="http://localhost:4000/%E5%8F%96%E5%BC%95%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB/" rel="alternate" type="text/html" title="取引シグナル" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E5%8F%96%E5%BC%95%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB</id><content type="html" xml:base="http://localhost:4000/%E5%8F%96%E5%BC%95%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB/"><![CDATA[<p>無料でFX取引シグナルを活用できる
-XMユーザーであれば、いつでも無料で取引シグナル(金融商品の分析結果)をダウンロードできます。</p>
+<hr />
 
-<p>1日2回配信される質の高いデイリーFX取引シグナルでは、10の金融商品のシグナルが提供されます。</p>
-
-<h2 id="10の金融商品取引シグナル">10の金融商品取引シグナル</h2>
-
-<p>EUR/USD
-GBP/JPY
-USD/JPY
-GBP/USD
-EUR/JPY
-AUD/USD
-GOLD
-US30
-NIKKEI
-OIL
-（ ※ デモ口座の方は対象外です。）</p>
-
-<p>エントリー・利益確定・損切りなどのFXシグナルを閲覧できるので、上記の10個の金融商品の現在の価格分析、現在時点のチャート分析、今後の相場予想をそれぞれをチェックすることができます。</p>
-
-<p>もちろん会員ページのシグナルにアクセスする際は、登録も不要です。</p>
-
-<p>今までにこのFXシグナルを知っていれば、未然に防げたFXの損失があるかもしれません。</p>
-
-<p>これまで取引シグナルを利用したことのない方は、この信頼性のあるFXシグナルを定期的に確認することで、自身のトレード向上に役立ちます。</p>
-
-<p>それでは次に、XMの取引シグナルは全ての初心者にとって有益なものですが、それ以外にどのような方にこのFXの取引シグナルがオススメかみていきましょう。</p>
+<h4 id="step1通貨ペアリストを表示">STEP.1：通貨ペアリストを表示</h4>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>気配値ウィンドウで右クリック →「<code class="language-plaintext highlighter-rouge">通貨ペア(y)</code>」をクリック</li>
 </ul>
 
-<h2 id="xm取引シグナル利用に適している方">XM取引シグナル利用に適している方</h2>
+<hr />
 
-<p>直感(値ごろ感・相場勘)だけでトレードをしてFXで損失が増えている方
-チャート分析を独学で学んだけど、なかなかFXの利益が積み上がらない方
-プロのFXアナリストから相場の見方を教わりたい方
-取引シグナル適している方イメージ</p>
-
-<p>直感で取引してもFXでは「勝つ」ことがあり、いつも「負ける」わけではないことが、多くのトレーダーが最終的にFXから退場している要因です。</p>
-
-<p>なぜなら、FXでは「勝った時」の経験則が、「負けた時」の言い訳を助長させるからです。</p>
-
-<p>「もう少しで勝てていたが、今日負けたのはたまたまだ。」という独自の解釈は、FXでは正常な判断を失っている状態です。</p>
-
-<p>FXにおいて根拠のない自分本位のトレードを続けることは勝っている時は良いですが、それは一時的な運であって綱渡り的な要素が多分に含まれているため、いずれFXで損失が生まれる可能性は高く、その損失は確実に大きくなります。</p>
-
-<p>取引シグナル綱渡りイメージ</p>
-
-<p>また、まず何よりFX取引に必要な『学ぶ努力』を放棄している状態です。</p>
-
-<p>FXで取引を続けていく中で、学ばずに勝ち続けることは至難の技といえます。</p>
-
-<p>XMで無料提供されているこのFXの取引シグナルは客観的に相場について学ぶことができるので、是非有効に活用するようにしましょう。</p>
-
-<p>FX初心者の方は、「直感だけでは勝てない」ことを受け入れて、まずはXMで取引シグナルやウェビナーでFXについて学ぶ事の重要性を認識する事をおすすめします。</p>
-
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
-
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
-
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
-
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
-
-<h2 id="取引シグナル配信時間">取引シグナル配信時間</h2>
-
-<p>取引シグナルの配信時間は以下の通りです。</p>
-
-<p>月曜日から金曜日までの毎日	時間
-モーニングコール	16：00(夏)
-17：00(冬)
-アフタヌーンコール	22：00(夏)
-23：00(冬)
-POINT
-XMの信頼性が高い取引シグナルは、多くの方が参考にしているので取引の際は確実にシグナルをチェックすることをオススメします。</p>
-
-<p>また、取引シグナルは過去の配信もダウンロードが可能です。</p>
-
-<p>はじめは、FXシグナルの確認を億劫に感じるかもしれませんが、慣れてくるとシグナルを確認する時間もそこまでかからないので習慣化してきます。</p>
-
-<p>平日の配信された後の空き時間に定期的に確認するだけのなので、是非活用するようにしましょう。</p>
-
-<h2 id="意外に知らない人もいるけど知っている人は知っている">意外に知らない人もいるけど、知っている人は知っている</h2>
-
-<p>実はXMユーザーでも知らない人もいる取引シグナルは、参考にしているFXトレーダーも多いので、是非毎日無料でこのFXシグナルをチェックすることをおすすめします。</p>
-
-<p>ここまで、XMの「取引シグナル」について詳しくみてきました。</p>
-
-<p>それでは最後に、取引シグナルに関する「まとめ」を確認しておきましょう。</p>
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
-
-<h2 id="まとめ取引シグナル">まとめ：取引シグナル</h2>
-
-<p>信頼性の高い取引シグナルを無料で毎日(1日2回)チェックできるのは、XMユーザーにとってとても心強いツールです。</p>
-
-<p>是非このFXシグナルを参考にしてご自身のFXトレーディングに活用しましょう。</p>
-
-<p>取引シグナルはこちら
-まずは口座開設
-XM公式ホームページへ</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[無料でFX取引シグナルを活用できる XMユーザーであれば、いつでも無料で取引シグナル(金融商品の分析結果)をダウンロードできます。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">仮想通貨取引</title><link href="http://localhost:4000/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="仮想通貨取引" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E5%8F%96%E5%BC%95/"><![CDATA[<p>XMの新しい取引条件をご紹介
-XMでの仮想通貨取引についてイメージ</p>
-
-<p>XMで再開された仮想通貨CFDは、以前に比べて取引条件が大幅に改善されています。</p>
-
-<p>新しいXMの仮想通貨CFDは、なんとレバレッジが最大250倍へ引き上げられ、少額でも気軽に仮想通貨の取引が始めることが可能です。</p>
-
-<p>下記のXM公式サイトで仮想通貨CFDを確認できます。</p>
-
-<p>仮想通貨CFD(XM公式サイト)
-XM仮想通貨に関する新旧の比較表は下記の通りです。</p>
-
-<p>（旧）XM仮想通貨	（新）XM仮想通貨
-レバレッジ	最大5倍	最大250倍
-スワップ	全銘柄マイナススワップ	全銘柄スワップフリー
-取引可能時間	平日のみ	24時間365日
-上記の比較表を見てもらえば分かるように、全ての取引条件において確実に進化しました。</p>
-
-<p>なぜ、XMは停止していた仮想通貨の取引を開始したのかはアナウンスされていませんが、XMを利用した仮想通貨の取引を望むユーザーへの対応と新たな取引条件による新規の投資家・トレーダーを獲得する狙いが窺えます。</p>
-
-<p>以前に仮想通貨の取り扱いをXMが停止した時は、多くの仮想通貨の不安定要素から顧客を保護する目的と言われていました。</p>
-
-<p>今回、XMが改めて仮想通貨の取り扱いを開始することは、以前と比べて仮想通貨自体が安定してきたとも言えます。</p>
-
-<p>いずれにせよ、XMの仮想通貨取引は2019年2月から新規での取引が停止されていましたが、先日の5月24日から、XMは取引条件を新たにして、仮想通貨の取り扱いを再開しました。</p>
-
-<p>以前のXMでの仮想通貨の取引条件に比べて、他の海外FX会社や仮想通貨取引所よりも断然有利です。</p>
-
-<p>これから多くのユーザーがXMで仮想通貨取引に参入すると思いますので、一足先に新しくなったXMの仮想通貨について詳しく学んでおきましょう。</p>
-
-<h2 id="xmで仮想通貨取引をするメリット">XMで仮想通貨取引をするメリット</h2>
-<p>XMでの仮想通貨取引メリットイメージ</p>
-
-<p>まず言えることは、XMでの仮想通貨は他社より断然有利な条件が揃っています。</p>
-
-<p>具体的にどのように、XMの仮想通貨CFDの取引が優れているかを確認していきましょう。</p>
-
-<p>仮想通貨取引所を含む他社での仮想通貨取引をすでにされている場合でも、XMの新たな条件を確認すればXMを利用するようになると思います。</p>
-
-<p>メリットイメージ</p>
-
-<p>XMでの仮想通貨取引に関するメリットは下記の通りです。</p>
-
-<p>レバレッジ最大250倍
-スワップフリーで手数料無料
-XMポイントを利用可能
-MT4・MT5で取引可能
-ゼロカットだから安心取引
-メリット１</p>
-
-<p>レバレッジ最大250倍</p>
-
-<p>レバレッジ最大250倍イメージ</p>
-
-<p>XMの仮想通貨CFDは、再開前の5倍から250倍にレバレッジが引き上げられました。 最大レバレッジが引き上げられたことで、少額資金からでもビットコインやイーサリアムといった主要仮想通貨の取引が可能になります。</p>
-
-<p>国内の仮想通貨業者	XM仮想通貨CFD
-レバレッジ	最大2倍	最大250倍
-証拠金／1BTC	およそ200万円	およそ2万円
-XMが仮想通貨を停止している間にも、仮想通貨市場は様々な変化がありましたが2022年の今は、日本国内では仮想通貨の取引ではレバレッジの上限が定められており、最大2倍となっています。</p>
-
-<p>これは単純計算で、1BTCにつき、およそ200万円の証拠金が必要になる計算です。</p>
-
-<p>新たなXMの仮想通貨取引条件ではレバレッジが最大250倍なので、1BTCにつき必要証拠金がおよそ2万円となるので、驚くほどの少額資金で取引を開始する事が可能です。</p>
-
-<p>メリット２</p>
-
-<p>スワップフリーで手数料無料</p>
-
-<p>スワップフリーで手数料無料イメージ</p>
-
-<p>XMでの仮想通貨CFDは、高いレバレッジのみならず「スワップフリー」であることも特長です。</p>
-
-<p>多くの仮想通貨を取り扱う業者では、レバレッジ手数料、ポジション持ち越し時の手数料など仮想通貨CFDにはスワップポイントが発生するのが一般的です。</p>
-
-<p>しかし、XMの場合ではスワップポイントがなく、手数料も一切発生しません。</p>
-
-<p>多くの仮想通貨は右肩上がりで価格が推移する傾向が強いため、スワップフリーと高レバレッジを活用して少額の資金でもスイングトレードを安心して行うことができます。</p>
-
-<p>メリット３</p>
-
-<p>XMポイントを利用可能</p>
-
-<p>XMポイントイメージ</p>
-
-<p>XMなら仮想通貨での取引のみならず、通貨ペアや他のCFD銘柄などでの取引で得たポイントを利用して仮想通貨の取引ができます。</p>
-
-<p>XMポイントは、口座を開設すれば受け取れる新規口座開設3,000円ボーナスや入金額に応じて最大50万円までのポイントが受け取れます。</p>
-
-<p>もちろん、ロイヤルティ・ステータスが適用され、取引毎にXMポイントも付与されるので仮想通貨取引をしながらポイントを活用できるのもメリットです。</p>
-
-<p>XMポイントに関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMポイントに関する記事はこちら</p>
-
-<p>メリット４</p>
-
-<p>MT4・MT5で取引可能</p>
-
-<p>MT4・MT5で取引可能イメージ</p>
-
-<p>仮想通貨を含む、XMの全ての取り扱い銘柄は取引プラットフォームであるMT4・MT5を使って取引が可能です。</p>
-
-<p>海外FXに慣れ親しんだユーザーにとってMT4とMT5は定番ですが、仮想通貨をメインに取引しているトレーダーには余り馴染みがないかもしれません。</p>
-
-<p>XMのMT4・MT5を仮想通貨の取引に使うことで、ビットコインを含む仮想通貨の自動売買も簡単に行うことができます。</p>
-
-<p>特にMT4は拡張性に優れ、カスタムインジケーターやEA(自動売買)が多く扱えるのが特徴です。</p>
-
-<p>またPC、MACどちらでも対応でiPhone、Android、もちろんiPadなどのタブレットでどこからでも取引できます。</p>
-
-<p>MT4 &amp; MT5に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>MT4 &amp; MT5に関する記事はこちら</p>
-
-<p>メリット５</p>
-
-<p>ゼロカットだから安心取引</p>
-
-<p>ゼロカットイメージ</p>
-
-<p>値動きの激しい仮想通貨の市場では、大きな損失を被ることで口座残高がマイナスになり多額の借金を抱えるケースもあります。</p>
-
-<p>しかし、XMでは仮想通貨も他の通貨ペアやCFDと同様に口座残高のマイナスになった損失分はXMが負担するゼロカットシステムが導入されています。</p>
-
-<p>だからこそ、国内の仮想通貨の取引所であれば発生してしまうマイナスの損失分を負担しないで良いXMなら入金額以上の損失を被る心配がないの安心して取引ができます。</p>
-
-<p>ゼロカットシステムに関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ゼロカットシステムに関する記事はこちら</p>
-
-<p>XMで取引できる仮想通貨
-取引可能な仮想通貨イメージ</p>
-
-<p>ここでは、XMで取引できる仮想通貨市場の中でも主要な銘柄を含む下記の27種類をご紹介します。</p>
-
-<p>XMが取り扱う全ての仮想通貨は、レバレッジ最大250倍でゼロカットシステムで安心して取引が可能です。</p>
-
-<p>XMで取り扱う仮想通貨の特徴を今後随時追加していく予定です。</p>
-
-<p>XMで取引可能な仮想通貨は下記の通りです。</p>
-
-<p>ビットコイン(BTC/USD)
-イーサリアム(ETH/USD)
-リップル(XRP/USD)
-ライトコイン(LTC/USD)
-ビットコインキャッシュ(BCH/USD)
-ベーシックアテンショントークン(BAT/USD)
-オーエムジー(OMG/USD)
-ステラルーメン(XLM/USD)
-アーべ(AAVE/USD)
-エイダ(ADA/USD)
-アルゴランド(ALGO/USD)
-アバランチ(AVAX/USD)
-アクシーインフィニティ(AXS/USD)
-コンパウンド(COMP/USD)
-エンジンコイン(ENJ/USD)
-フェッチドットエーアイ(FET/USD)
-グラフ(GRT/USD)
-チェーンリンク(LINK/USD)
-ポリゴン(MATIC/USD)
-スケール(SKL/USD)
-シンセティックス(SNX/USD)
-ソラナ(SOL/USD)
-ストージ(STORJ/USD)
-スシスワップ(SUSHI/USD)
-ユニバーサルマーケットアクセス(UMA/USD)
-ユニスワップ(UNI/USD)
-ゼロエックス(ZRX/USD)
-ビットコイン(BTC/USD)</p>
-
-<p>ビットコイン(BTC/USD)イメージ</p>
-
-<p>もっとも有名で仮想通貨の元になったBTC</p>
-
-<p>ビットコインは、仮想通貨の中で1番初めに作られました。</p>
-
-<p>アルトコインの全てはビットコインを基に作られています。</p>
-
-<p>金融システムのような中央集権的な管理と違って分散型台帳と呼ばれる、台帳をネットワーク上で分散させて管理する方法になります。</p>
-
-<p>円やユーロ、ドルなどの今までの既存の国の管理とちがい、世界共通の通貨であるため、国際的な支払いや送金手段として特化しています。</p>
-
-<p>ビットコインは仮想通貨の中でも最初に作られたため、認知度が高く、安定していることから初心者が取引しやすい銘柄と言えます。</p>
-
-<p>また、ビットコインは実際の決済通貨として利用されているので、今後日常生活の中で普及していく可能性が十分にあると言われています。XMでの仮想通貨取引でも最も利用者が多くなると思われます。</p>
-
-<p>通貨単位	BTC
-発行上限枚数	2100万枚
-特徴	国際決済に特化
-価格（2022年9月現在）	¥2,689,078.91
-時価総額ランキング（2022年9月現在）	1位（¥51,391,886,837,426）
-発行開始日	2009年1月3日
- XMでのビットコイン(BTC/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	0.4 %
-シンボル	BTCUSD
-内容	Bitcoin vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1 Bitcoin
-最低スプレッド	23
-最小／最大取引サイズ	0.01/20
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	40</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-7	0.4	1:250
-7-14	2	1:50
-14+	100	1:1
- 下記のXM公式サイトでBTC/USD取引を確認できます。</p>
-
-<p>BTC/USDを取引(XM公式サイト)
- ビットコイン(BTC)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ビットコイン(BTC)に関する記事はこちら</p>
-
-<p>イーサリアム(ETH/USD)</p>
-
-<p>イーサリアム(ETH/USD)イメージ</p>
-
-<p>イーサリアム(ETH/USD)</p>
-
-<p>イーサリアムの特徴としてスマートコントラクト（自動契約技術）を導入していることが挙げられます。</p>
-
-<p>スマートコントラクトによって、取引がブロックチェーン上で実行することができるため、低コストで改ざんする事が不可能なプログラムで取引することができます。</p>
-
-<p>改ざんすることが実質不可能なため、もともと所有者でない人から盗まれるなどの不正から守れるといったメリットもあります。</p>
-
-<p>さらにイーサリアムはアップデートを定期的に行うことで、改良を随時進めているので仮想通貨市場での価値が今後も上がっていくと予想されています。XMでの仮想通貨でも取引するトレーダーが多く参入すると思われます。</p>
-
-<p>通貨単位	ETH
-発行上限枚数	上限なし
-特徴	スマートコントラクトを実装
-価格（2022年9月現在）	¥185,063.76
-時価総額ランキング（2022年9月現在）	2位（¥22,732,176,406,314）
-発行開始日	2015年7月30日
- XMでのイーサリアム(ETH/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	0.4 %
-シンボル	ETHUSD
-内容	Ethereum vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1 Ethereum
-最低スプレッド	2.55
-最小／最大取引サイズ	0.01/295
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	590</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-95	0.4	1:250
-95-190	2	1:50
-190+	100	1:1
- 下記のXM公式サイトでETH/USD取引を確認できます。</p>
-
-<p>ETH/USDを取引(XM公式サイト)
- イーサリアム(ETH)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>イーサリアム(ETH)に関する記事はこちら</p>
-
-<p>リップル(XRP/USD)</p>
-
-<p>リップル(XRP/USD)イメージ</p>
-
-<p>別名ブリッジ通貨と呼ばれ、決済＆送金に特化した仮想通貨</p>
-
-<p>リップルは、アメリカを拠点にした「Ripple Inc」という企業が管理・運営が行っています。</p>
-
-<p>リップルの特徴として挙げられるのは、通貨の決済や送金に特化した点であることです。</p>
-
-<p>ビットコインを含む多くの仮想通貨が使用しているブロックチェーンなどの非中央集権型とは違い、既存の中央集権型が使用されています。</p>
-
-<p>また、リップルでは異なる通貨間を通して送金した場合に低コストかつ比較的短い時間で完了する特徴から、「ブリッジ通貨」とも呼ばれます。</p>
-
-<p>イングランド銀行を代表に実際に国の中央銀行が採用しているので、将来性としても有望なので今後も世界が注目していることで価値が上昇していくことが予想されます。XMの取引でも安心して選べる仮想通貨の一つではないでしょうか。</p>
-
-<p>通貨単位	XRP
-発行上限枚数	1000億枚
-特徴	2通貨間の送金に特化
-価格（2022年9月現在）	¥67.03
-時価総額ランキング（2022年9月現在）	6位（¥3,350,784,713,352）
-発行開始日	2012年9月
- XMでのリップル(XRP/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	0.4 %
-シンボル	XRPUSD
-内容	Ripple vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Ripple
-最低スプレッド	0.00135
-最小／最大取引サイズ	0.01/1335
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	2670</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-400	0.4	1:250
-400-800	2	1:50
-800+	100	1:1
- 下記のXM公式サイトでXRP/USD取引を確認できます。</p>
-
-<p>XRP/USDを取引(XM公式サイト)
- リップル(XRP)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>リップル(XRP)に関する記事はこちら</p>
-
-<p>ライトコイン(LTC/USD)</p>
-
-<p>ライトコイン(LTC/USD)イメージ</p>
-
-<p>元Google社員が公開したアルトコイン</p>
-
-<p>ビットコインに比べてトランザクション完了までが速く、手数料も抑えて決済することができることから注目されています。</p>
-
-<p>アメリカの大手決済サービス「ペイパル(Paypal)」がライトコインを決算手段として導入したことから将来性は間違いないと言われていので、XMでの仮想通貨取引でも重要な銘柄として注視されていくことが予想されます。</p>
-
-<p>通貨単位	LTC
-発行上限枚数	8400万枚
-特徴	決済通貨など実用化重視
-価格（2022年9月現在）	¥7,638.95
-時価総額ランキング（2022年9月現在）	22位（¥545,319,733,007）
-発行開始日	2011年10月
- XMでのライトコイン(LTC/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	0.4 %
-シンボル	LTCUSD
-内容	Litecoin vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Litecoin
-最低スプレッド	0.75
-最小／最大取引サイズ	0.01/810
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1620</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-210	0.4	1:250
-210-420	2	1:50
-420+	100	1:1
- 下記のXM公式サイトでLTC/USD取引を確認できます。</p>
-
-<p>LTC/USDを取引(XM公式サイト)
- ライトコイン(LTC)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ライトコイン(LTC)に関する記事はこちら</p>
-
-<p>ビットコインキャッシュ(BCH/USD)</p>
-
-<p>ビットコインキャッシュ(BCH/USD)イメージ</p>
-
-<p>その名の通りビットコインから派生した仮想通貨</p>
-
-<p>ビットコインの問題点として取引者数の増加によって、送金遅延が起こるという所謂「スケーラビリティ問題」が深刻化していた中で、これを解決させるためにハードフォーク（分裂）されて誕生したのがビットコインキャッシュです。</p>
-
-<p>ビットコインキャッシュは、ブロックサイズ（データ容量）がビットコインの32倍あることから、機能面でビットコインを大きく上回っています。</p>
-
-<p>各国でビットコインキャッシュによる決済が可能な実店舗が増えてきていることから、ビットコインキャッシュの需要は今後ますます拡大するのではないかと期待されています。XMの仮想通貨取引でもビットコインと並び、安心して取引できる銘柄と言えます。</p>
-
-<p>通貨単位	BCH
-発行上限枚数	2100万枚
-特徴	ハードフォークを繰り返し、機能面向上を図っている
-価格（2022年9月現在）	¥16,331.87
-時価総額ランキング（2022年9月現在）	30位（¥313,578,538,487）
-発行開始日	2017年8月1日
- XMでのビットコインキャッシュ(BCH/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	0.4 %
-シンボル	BCHUSD
-内容	Bitcoin Cash vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Bitcoin Cash
-最低スプレッド	1.15
-最小／最大取引サイズ	0.01/355
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	710</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-65	0.4	1:250
-65-130	2	1:50
-130+	100	1:1
- 下記のXM公式サイトでBCH/USD取引を確認できます。</p>
-
-<p>BCH/USDを取引(XM公式サイト)
- ビットコインキャッシュ(BCH)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ビットコインキャッシュ(BCH)に関する記事はこちら</p>
-
-<p>ベーシックアテンショントークン(BAT/USD)</p>
-
-<p>ベーシックアテンショントークン(BAT/USD)イメージ</p>
-
-<p>Webブラウザのbrave社が開発した独自トークン</p>
-
-<p>ベーシックアテンショントークンは、Webブラウザ「brave」を利用することで通貨を得ることができます。</p>
-
-<p>braveは広告などに対してブロック機能が用意されており、プライバシー保護の観点やユーザビリティの高さから世界中のユーザーから支持を得ています。</p>
-
-<p>日本の場合では規制が適用されてる関係で仮想通貨を直接得ることができませんが、「BATポイント」として受け取ることが可能です。</p>
-
-<p>BATの用途としてはクリエイターの作品などを応援したい場合に投げ銭として使うことが可能で、クリエイター並びに運営側への支援となります。</p>
-
-<p>Youtubeとも連携しているので、Youtubeの動画コンテンツに対しても活用できます。</p>
-
-<p>将来的にbraveの利用者が増加して通貨自体の用途が増えれば、さらに人気になることが予想されます。XMの仮想通貨取引でも注目しておいても損はないと思います。</p>
-
-<p>通貨単位	BAT
-発行上限枚数	15億枚
-特徴	Web広告を発注するユーザーの課題解決のために生まれた仮想通貨
-価格（2022年9月現在）	¥43.58
-時価総額ランキング（2022年9月現在）	75位（¥65,192,385,964）
-発行開始日	2017年5月
- XMでのベーシックアテンショントークン(BAT/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	BATUSD
-内容	Basic Attention Token vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Basic Attention Tokens
-最低スプレッド	0.015
-最小／最大取引サイズ	0.01/1160
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	2320</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでBAT/USD取引を確認できます。</p>
-
-<p>BAT/USDを取引(XM公式サイト)
- ベーシックアテンショントークン(BAT)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ベーシックアテンショントークン(BAT)に関する記事はこちら</p>
-
-<p>オーエムジー(OMG/USD)</p>
-
-<p>オーエムジー(OMG/USD)イメージ</p>
-
-<p>イーサリアムがベースで処理が速く低コスト</p>
-
-<p>オーエムジーの特徴の一つとして、セキュリティ対策「Minimal Viable Plasma (MVP)」を採用していることが挙げられます。</p>
-
-<p>以前は元々バイナンスなどの海外取引所でしかオーエムジーは取り扱いが出来ませんでしたが、2020～2021年の間に国内取引所4箇所で新規上場を達成しました。</p>
-
-<p>今後の動向次第によりますが、価格の高騰が期待され続ければXMでの仮想通貨取引の対象としてはリストに加えることも十分考えられるのではないでしょうか。</p>
-
-<p>通貨単位	OMG
-発行上限枚数	1億4029万5398枚
-特徴	低コストで強固なセキュリティ対策
-価格（2022年9月現在）	¥245.51
-時価総額ランキング（2022年9月現在）	118位（¥34,423,156,586）
-発行開始日	2017年7月
- XMでのオーエムジー(OMG/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	OMGUSD
-内容	OMG Network vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 10
-1ロットあたりの価値	1000 OMG Network
-最低スプレッド	0.06
-最小／最大取引サイズ	0.01/215
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	430</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-100	2	1:50
-100+	100	1:1
- 下記のXM公式サイトでOMG/USD取引を確認できます。</p>
-
-<p>OMG/USDを取引(XM公式サイト)
- オーエムジー(OMG)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>オーエムジー(OMG)に関する記事はこちら</p>
-
-<p>ステラルーメン(XLM/USD)</p>
-
-<p>ステラルーメン(XLM/USD)イメージ</p>
-
-<p>非営利団体が開発・中央集権型の仮想通貨</p>
-
-<p>ステラルーメンは、Stellar Development Foundation（SDF/ステラ財団）という非営利団体が開発、管理・運営を行っている中央集権型の仮想通貨です。</p>
-
-<p>リップル(XRP/USD)の開発者を中心に個人間送金を円滑に行うことを目的に開発されました。</p>
-
-<p>国際送金時のコストをただ抑えるだけでなく、決済時の速度にも定評があり、IBMや大手送金会社など大手の企業と提携していることからも注目度の高さが窺えます。XMでの仮想通貨取引でも人気が集まることが予想されます。</p>
-
-<p>通貨単位	XLM
-発行上限枚数	1兆枚
-特徴	中央集権的
-価格（2022年9月現在）	¥16.87
-時価総額ランキング（2022年9月現在）	25位（¥430,999,839,110）
-発行開始日	2014年7月
- XMでのステラルーメン(XLM/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	XLMUSD
-内容	Stellar Lumens vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Stellar Lumens
-最低スプレッド	0.0015
-最小／最大取引サイズ	0.01/4090
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	8180</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-2100	2	1:50
-2100+	100	1:1
- 下記のXM公式サイトでXLM/USD取引を確認できます。</p>
-
-<p>XLM/USDを取引(XM公式サイト)
- XMでのステラルーメン(XLM)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのステラルーメン(XLM)に関する記事はこちら</p>
-
-<p>アーべ(AAVE/USD)</p>
-
-<p>アーべ(AAVE/USD)イメージ</p>
-
-<p>「レンディング」「フラッシュローン」「信用委任」が特徴の、DeFiプロトコル</p>
-
-<p>Aave(アーべ)の基本的な機能はLending(レンディング)です。</p>
-
-<p>銀行等の既存の金融のシステムでは、担保の預け入れの他に信用審査が必要となり、人的コストと時間が掛かる上、借りることの出来る金額も審査終了まで分からないという問題がありました。</p>
-
-<p>Aave(アーべ)の機能であるレンディングは、上記のような問題を解決し、スマートコントラクトによってプロトコル上に預け入れられたプールの金額に応じ、借入可能な金額や利息を自動で算出し、借入実行までを可能にしました。</p>
-
-<p>通貨単位	AAVE
-発行上限枚数	16,000,000
-特徴	Lending(レンディング)
-価格（2022年9月現在）	¥10,623.65
-時価総額ランキング（2022年9月現在）	49位（¥149,600,654,768）
-発行開始日	2018年9月
- XMでのアーべ(AAVE/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	AAVEUSD
-内容	Aave vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Aave
-最低スプレッド	2
-最小／最大取引サイズ	0.01/495
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	990</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでAAVE/USD取引を確認できます。</p>
-
-<p>AAVE/USDを取引(XM公式サイト)
- XMでのアーべ(AAVE)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのアーべ(AAVE)に関する記事はこちら</p>
-
-<p>エイダ(ADA/USD)</p>
-
-<p>エイダ(ADA/USD)イメージ</p>
-
-<p>コンセンサスアルゴリズム『PoS』</p>
-
-<p>プログラムの正しさの保証性に優れた構築手法を用いて構築されたカルダノは、実用性のあるアプリケーションに必要とされるスケーラビリティ・相互運用性・サステナビリティを実現することを目指し、開発され、専用通貨「ADA」（エイダ）は、暗号資産として世界中の30以上の取引所にて取引され、日本国内ではBITPOINT・GMOコインなどに上場しています。</p>
-
-<p>通貨単位	ADA
-発行上限枚数	450億枚
-特徴	コンセンサスアルゴリズム『PoS』
-価格（2022年9月現在）	¥64.32
-時価総額ランキング（2022年9月現在）	9位（¥2,211,036,161,070）
-発行開始日	2017年9月
- XMでのエイダ(ADA/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	ADAUSD
-内容	Cardano vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Cardano
-最低スプレッド	0.0015
-最小／最大取引サイズ	0.01/965
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1930</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでADA/USD取引を確認できます。</p>
-
-<p>ADA/USDを取引(XM公式サイト)
- XMでのエイダ(ADA)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのエイダ(ADA)に関する記事はこちら</p>
-
-<p>アルゴランド(ALGO/USD)</p>
-
-<p>アルゴランド(ALGO/USD)イメージ</p>
-
-<p>「PPoS(Pure Proof of Stake)」採用</p>
-
-<p>ゼロ知識証明の体系化・論文を執筆したMITのシルビオ・ミカリ教授が2019年に創設したブロックチェーンです。特徴は、NFTの作成が容易である点と取引手数料が低い点、そしてフォークしないことなどが挙げられ、ネイティブトークンは、ALGO（アルゴ）と呼ばれます。</p>
-
-<p>通貨単位	ALGO
-発行上限枚数	100億枚
-特徴	NFTの作成が容易
-価格（2022年9月現在）	¥53.58
-時価総額ランキング（2022年9月現在）	28位（¥371,127,337,996）
-発行開始日	2019年6月
- XMでのアルゴ(ALGO/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	ALGOUSD
-内容	Algorand vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Algorand
-最低スプレッド	0.006
-最小／最大取引サイズ	0.01/1415
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	2830</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでALGO/USD取引を確認できます。</p>
-
-<p>ALGO/USDを取引(XM公式サイト)
- XMでのアルゴ(ALGO)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのアルゴ(ALGO)に関する記事はこちら</p>
-
-<p>アバランチ(AVAX/USD)</p>
-
-<p>アバランチ(AVAX/USD)イメージ</p>
-
-<p>独自のコンセンサスアルゴリズム導入</p>
-
-<p>分散型金融のプラットフォームを目指すパブリックブロックチェーンであり、アバランチのプラットフォーム上で使用される暗号資産（仮想通貨）がAVAXです。</p>
-
-<p>独自のトランザクション処理能力の高さとイーサリアムとの互換性を持つコンセンサスアルゴリズムが導入されています。</p>
-
-<p>通貨単位	AVAX
-発行上限枚数	7.2億枚
-特徴	独自のコンセンサスアルゴリズム
-価格（2022年9月現在）	¥2502.40
-時価総額ランキング（2022年9月現在）	16位（¥735,924,939,708）
-発行開始日	2020年9月
- XMでのアバランチ(AVAX/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	AVAXUSD
-内容	Avalanche vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Avalanche
-最低スプレッド	0.12
-最小／最大取引サイズ	0.01/1900
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	3800</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでAVAX/USD取引を確認できます。</p>
-
-<p>AVAX/USDを取引(XM公式サイト)
- XMでのアバランチ(AVAX)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのアバランチ(AVAX)に関する記事はこちら</p>
-
-<p>アクシーインフィニティ(AXS/USD)</p>
-
-<p>アクシーインフィニティ(AXS/USD)イメージ</p>
-
-<p>遊びながらお金を稼げるNFTゲーム(GameFi)</p>
-
-<p>ベトナムの開発企業SkyMavis社によって2018年に初めてリリースされたブロックチェーン・ゲームで、アホロートル、ポケットモンスター、たまごっち等をモチーフにした「アクシー（axie）」と呼ばれる仮想生物を購入し、育成や繁殖（ブリーディング）ができ、ゲーム内での敵や他のプレイヤーのアクシーのチームと対戦ができます。</p>
-
-<p>各アクシーには、独自の外観と固有の「遺伝暗号」を備えた非代替性トークン：NFTを備え、ブロックチェーンに格納されます。</p>
-
-<p>2019年1月以降は、仮想の土地を非代替性トークンの形で購入することも可能となっています。</p>
-
-<p>通貨単位	AXS
-発行上限枚数	2.7億枚
-特徴	NFTゲームの中でも特に人気が高い
-価格（2022年9月現在）	¥1902.58
-時価総額ランキング（2022年9月現在）	47位（¥152,140,527,285）
-発行開始日	2018年3月
- XMでのアクシーインフィニティ(AXS/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	AXSUSD
-内容	Axie Infinity vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 1
-1ロットあたりの価値	100 Axie Infinity
-最低スプレッド	0.45
-最小／最大取引サイズ	0.01/270
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	540</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-100	2	1:50
-100+	100	1:1
- 下記のXM公式サイトでAXS/USD取引を確認できます。</p>
-
-<p>AXS/USDを取引(XM公式サイト)
- XMでのアクシーインフィニティ(AXS/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのアクシーインフィニティ(AXS/USD)に関する記事はこちら</p>
-
-<p>コンパウンド(COMP/USD)</p>
-
-<p>コンパウンド(COMP/USD)イメージ</p>
-
-<p>分散型金融（DeFi）</p>
-
-<p>分散型金融（DeFi）のためのプラットフォームで、そこで使用されるガバナンストークンです。</p>
-
-<p>Ethereumブロックチェーン上に構築されたERC-20トークンのため、連携している他のDeFiアプリケーション内で利用することも可能です。</p>
-
-<p>通貨単位	COMP
-発行上限枚数	1,000万枚
-特徴	分散型金融（DeFi）
-価格（2022年9月現在）	¥9,093.98
-時価総額ランキング（2022年9月現在）	76位（¥64,258,640,866）
-発行開始日	2018年9月
- XMでのコンパウンド(COMP/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	COMPUSD
-内容	Compoud vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Compoud
-最低スプレッド	0.55
-最小／最大取引サイズ	0.01/805
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1610</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでCOMP/USD取引を確認できます。</p>
-
-<p>COMP/USDを取引(XM公式サイト)
- XMでのコンパウンド(COMP/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのコンパウンド(COMP/USD)に関する記事はこちら</p>
-
-<p>エンジンコイン(ENJ/USD)</p>
-
-<p>エンジンコイン(ENJ/USD)イメージ</p>
-
-<p>NFTの制作から販売</p>
-
-<p>2009年にシンガポールで創業された「Enjin」が運営するNFTプラットフォーム上で使用される仮想通貨で、「Enjin Platform」で発行される基軸通貨となっています。</p>
-
-<p>通貨単位	ENJ
-発行上限枚数	10億枚
-特徴	NFTの制作から販売
-価格（2022年9月現在）	¥69.47
-時価総額ランキング（2022年9月現在）	74位（¥69,447,267,888）
-発行開始日	2018年6月
- XMでのエンジンコイン(ENJ/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	ENJUSD
-内容	Enjin Coin vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	100 Enjin Coins
-最低スプレッド	0.0055
-最小／最大取引サイズ	0.01/725
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1450</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでENJ/USD取引を確認できます。</p>
-
-<p>ENJ/USDを取引(XM公式サイト)
- XMでのエンジンコイン(ENJ/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのXMでのエンジンコイン(ENJ/USD)に関する記事はこちら</p>
-
-<p>フェッチドットエーアイ(FET/USD)</p>
-
-<p>フェッチドットエーアイ(FET/USD)イメージ</p>
-
-<p>自律型エージェント「AEA」</p>
-
-<p>AIによる自動化を目的としたプロジェクトから生まれた仮想通貨です。</p>
-
-<p>自律型エージェント(AEA)によって、手作業などを介さずにデータやサービスの収集・提供を行うことのできる人工知能のネットワークを開発するプロジェクトに関わるサードパーティーに対して、Fetch.Aiは配布されたり受け取ることができます。</p>
-
-<p>通貨単位	FET
-発行上限枚数	11億枚
-特徴	自律型エージェント「AEA」
-価格（2022年9月現在）	¥12.11
-時価総額ランキング（2022年9月現在）	318位（¥9,049,266,869）
-発行開始日	2019年2月
- XMでのフェッチドットエーアイ(FET/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	FETUSD
-内容	Fetch AI vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Fetch AI
-最低スプレッド	0.0025
-最小／最大取引サイズ	0.01/4920
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	9840</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-1200	2	1:50
-1200+	100	1:1
- 下記のXM公式サイトでFET/USD取引を確認できます。</p>
-
-<p>FET/USDを取引(XM公式サイト)
- XMでのフェッチドットエーアイ(FET/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのXMでのフェッチドットエーアイ(FET/USD)に関する記事はこちら</p>
-
-<p>グラフ(GRT/USD)</p>
-
-<p>グラフ(GRT/USD)イメージ</p>
-
-<p>ブロックチェーン界のGoogle</p>
-
-<p>The Graphは、ブロックチェーン上で検索を可能にしたシステムの開発をおこなっているプロジェクトです。</p>
-
-<p>提供しているサービスの特性から「ブロックチェーン界のGoogle」と呼ばれ、WEB3の世界で大変大きな期待を集めています。</p>
-
-<p>通貨単位	GRT
-発行上限枚数	100億枚
-特徴	ブロックチェーン界のGoogle
-価格（2022年9月現在）	¥14.76
-時価総額ランキング（2022年9月現在）	59位（¥101,848,065,568）
-発行開始日	2019年2月
- XMでのグラフ(GRT/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	GRTUSD
-内容	The Graph vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 The Graph
-最低スプレッド	0.003
-最小／最大取引サイズ	0.01/3785
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	7570</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-1200	2	1:50
-1200+	100	1:1
- 下記のXM公式サイトでGRT/USD取引を確認できます。</p>
-
-<p>GRT/USDを取引(XM公式サイト)
- XMでのグラフ(GRT/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのXMでのグラフ(GRT/USD)に関する記事はこちら</p>
-
-<p>チェーンリンク(LINK/USD)</p>
-
-<p>チェーンリンク(LINK/USD)イメージ</p>
-
-<p>ブロックチェーンと外部サービスを仲介</p>
-
-<p>チェーンリンクは、ブロックチェーン事業を専門に取り扱うスマートコントラクト社がブロックチェーン専門研究機関「IC3」と協力しながら開発している仮想通貨です。</p>
-
-<p>通貨単位	LINK
-発行上限枚数	無制限
-特徴	ブロックチェーンと外部サービスを仲介
-価格（2022年9月現在）	¥1,067.95
-時価総額ランキング（2022年9月現在）	23位（¥523,798,068,892）
-発行開始日	2017年9月
- XMでのチェーンリンク(LINK/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	LINKUSD
-内容	Chainlink vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 1
-1ロットあたりの価値	100 Chainlink
-最低スプレッド	0.03
-最小／最大取引サイズ	0.01/625
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1250</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでLINK/USD取引を確認できます。</p>
-
-<p>LINK/USDを取引(XM公式サイト)
- XMでのチェーンリンク(LINK/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのチェーンリンク(LINK/USD)に関する記事はこちら</p>
-
-<p>ポリゴン(MATIC/USD)</p>
-
-<p>ポリゴン(MATIC/USD)イメージ</p>
-
-<p>通信速度が早く、取引手数料が安い</p>
-
-<p>Polygon(MATIC)は、イーサリアムのスケーラビリティ問題を解決するための、レイヤー2ソリューションです。</p>
-
-<p>取引承認の方式としてPoS（プルーフ・オブ・ステーク）を採用しています。</p>
-
-<p>通貨単位	MATIC
-発行上限枚数	100億枚
-特徴	通信速度が早く、取引手数料が安い
-価格（2022年9月現在）	¥110.78
-時価総額ランキング（2022年9月現在）	13位（¥969,310,659,277）
-発行開始日	2017年10月
- XMでのポリゴン(MATIC/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	MATICUSD
-内容	Polygon vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 Polygon
-最低スプレッド	0.0025
-最小／最大取引サイズ	0.01/545
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1090</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでMATIC/USD取引を確認できます。</p>
-
-<p>MATIC/USDを取引(XM公式サイト)
- XMでのポリゴン(MATIC/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのポリゴン(MATIC/USD)に関する記事はこちら</p>
-
-<p>スケール(SKL/USD)</p>
-
-<p>スケール(SKL/USD)イメージ</p>
-
-<p>サイドチェーンでも安全性が高い</p>
-
-<p>SKALE Network(SKL) は、Ethereumのセカンドレイヤーであるサイドチェーンネットワーク（SKALE Network）のネイティブトークンのことで、Ethereumのあらゆる主要なトークン標準（ETH・ERC20・ERC721・Daiなど）に対応しています。</p>
-
-<p>通貨単位	SKL
-発行上限枚数	100億枚
-特徴	サイドチェーンでも安全性が高い
-価格（2022年9月現在）	¥5.61
-時価総額ランキング（2022年9月現在）	156位（¥20,781,120,238）
-発行開始日	2018年12月
- XMでのスケール(SKL/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	SKLUSD
-内容	SKALE vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 SKALE
-最低スプレッド	0.002
-最小／最大取引サイズ	0.01/7600
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	15200</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-2100	2	1:50
-2100+	100	1:1
- 下記のXM公式サイトでSKL/USD取引を確認できます。</p>
-
-<p>SKL/USDを取引(XM公式サイト)
- XMでのスケール(SKL/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのスケール(SKL/USD)に関する記事はこちら</p>
-
-<p>シンセティックス(SNX/USD)</p>
-
-<p>シンセティックス(SNX/USD)イメージ</p>
-
-<p>合成資産を発行できるプロトコル</p>
-
-<p>シンセティクスネットワークトークン（SNX）は、分散型の合成資産発行プロトコルであるシンセティクスを動かすイーサリアムトークンです。</p>
-
-<p>トークン保有者が分散型のアプリケーションを用いてSNXを担保としてステーキングすると、合成資産が生成され、同プロトコルは現在、合成された不換通貨、暗号資産、コモディティーをサポートします。</p>
-
-<p>通貨単位	SNX
-発行上限枚数	無制限
-特徴	合成資産を発行できるプロトコル
-価格（2022年9月現在）	¥359.10
-時価総額ランキング（2022年9月現在）	67位（¥85,472,547,763）
-発行開始日	2017年9月
- XMでのシンセティックス(SNX/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	SNXUSD
-内容	Synthetix Network Token vs US Dollar
-最低価格変動	0.00100
-値動きの最小値	USD 1
-1ロットあたりの価値	1000 Synthetix Network Tokens
-最低スプレッド	0.1
-最小／最大取引サイズ	0.01/120
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	240</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-100	2	1:50
-100+	100	1:1
- 下記のXM公式サイトでSNX/USD取引を確認できます。</p>
-
-<p>SNX/USDを取引(XM公式サイト)
- XMでのシンセティックス(SNX/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのシンセティックス(SNX/USD)に関する記事はこちら</p>
-
-<p>ソラナ(SOL/USD)</p>
-
-<p>ソラナ(SOL/USD)イメージ</p>
-
-<p>トランザクションの処理スピードが速い</p>
-
-<p>一般的に処理スピードが速いと言われているリップル(XRP)よりトランザクションの処理スピードが速く、Solana/SOLであればガス代（手数料）も他と比べてコストを抑えることができるため、イーサリアムのようにスケーラビリティ問題に悩まされる必要がないと言われています。</p>
-
-<p>通貨単位	SOL
-発行上限枚数	5億枚
-特徴	トランザクションの処理スピードが速い
-価格（2022年9月現在）	¥4,852.64
-時価総額ランキング（2022年9月現在）	9位（¥1,722,256,770,907）
-発行開始日	2020年3月
- XMでのソラナ(SOL/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	SOLUSD
-内容	Solana vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 0.1
-1ロットあたりの価値	10 Solanas
-最低スプレッド	0.15
-最小／最大取引サイズ	0.01/1230
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	2460</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでSOL/USD取引を確認できます。</p>
-
-<p>SOL/USDを取引(XM公式サイト)
- XMでのソラナ(SOL/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのソラナ(SOL/USD)に関する記事はこちら</p>
-
-<p>ストージ(STORJ/USD)</p>
-
-<p>ストージ(STORJ/USD)イメージ</p>
-
-<p>分散型クラウドストレージサービスで用いられる仮想通貨</p>
-
-<p>DropboxやGoogle Driveなどの中央集権的なサービスと違い、ストージは分散型なので利用者自身が提供するオンラインストレージに記録されます。</p>
-
-<p>そしてブロックチェーン上でデータが暗号化されているのでセキュリティが高いメリットもあります。</p>
-
-<p>通貨単位	STORJ
-発行上限枚数	無制限
-特徴	分散型クラウドストレージ
-価格（2022年9月現在）	¥66.80
-時価総額ランキング（2022年9月現在）	134位（¥27,584,851,075）
-発行開始日	2018年
- XMでのストージ(STORJ/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	STORJUSD
-内容	Storj vs US Dollar
-最低価格変動	0.00010
-値動きの最小値	USD 0.1
-1ロットあたりの価値	1000 Storj
-最低スプレッド	0.015
-最小／最大取引サイズ	0.01/725
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1450</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでSTORJ/USD取引を確認できます。</p>
-
-<p>STORJ/USDを取引(XM公式サイト)
- XMでのストージ(STORJ/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのストージ(STORJ/USD)に関する記事はこちら</p>
-
-<p>スシスワップ(SUSHI/USD)</p>
-
-<p>スシスワップ(SUSHI/USD)イメージ</p>
-
-<p>SushiSwapのガバナンストークン</p>
-
-<p>SushiSwapは、Uniswapから派生したDEXです。</p>
-
-<p>SushiSwapに通貨を預けると独自トークンSUSHIを報酬として手に入れることができます。</p>
-
-<p>また、SUSHIをUniswapに預けるとUniswapの独自トークンUNIを報酬として得ることもできます。</p>
-
-<p>通貨単位	SUSHI
-発行上限枚数	2.5億枚
-特徴	SushiSwapのガバナンストークン
-価格（2022年9月現在）	¥158.74
-時価総額ランキング（2022年9月現在）	159位（¥20,199,083,008）
-発行開始日	2020年8月
- XMでのスシスワップ(SUSHI/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	SUSHIUSD
-内容	SushiSwap vs US Dollar
-最低価格変動	0.00100
-値動きの最小値	USD 1
-1ロットあたりの価値	1000 SushiSwap
-最低スプレッド	0.045
-最小／最大取引サイズ	0.01/330
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	660</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-100	2	1:50
-100+	100	1:1
- 下記のXM公式サイトでSUSHI/USD取引を確認できます。</p>
-
-<p>SUSHI/USDを取引(XM公式サイト)
- XMでのスシスワップ(SUSHI/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのスシスワップ(SUSHI/USD)に関する記事はこちら</p>
-
-<p>ユニバーサルマーケットアクセス(UMA/USD)</p>
-
-<p>ユニバーサルマーケットアクセス(UMA/USD)イメージ</p>
-
-<p>「DeFi」との相性が抜群</p>
-
-<p>UMAは既存のあらゆる資産を合成し、合成資産を作成することができるオープンソースなプロトコルです。</p>
-
-<p>UMAを利用することで「S＆P５００」から「日経平均株価」まで、幅広くユニークな指標と連動する合成資産を作成することができます。</p>
-
-<p>通貨単位	UMA
-発行上限枚数	1億枚
-特徴	「DeFi」との相性が抜群
-価格（2022年9月現在）	¥341.56
-時価総額ランキング（2022年9月現在）	149位（¥23,518,949,732）
-発行開始日	2020年8月
- XMでのユニバーサルマーケットアクセス(UMA/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	UMAUSD
-内容	UMA vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 10
-1ロットあたりの価値	1000 UMA
-最低スプレッド	0.07
-最小／最大取引サイズ	0.01/165
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	330</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-100	2	1:50
-100+	100	1:1
- 下記のXM公式サイトでUMA/USD取引を確認できます。</p>
-
-<p>UMA/USDを取引(XM公式サイト)
- XMでのユニバーサルマーケットアクセス(UMA/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのユニバーサルマーケットアクセス(UMA/USD)に関する記事はこちら</p>
-
-<p>ユニスワップ(UNI/USD)</p>
-
-<p>ユニスワップ(UNI/USD)イメージ</p>
-
-<p>スマートコントラクト機能を利用した「AMM型」のDEX</p>
-
-<p>AMM(Automated Market Maker)とは、一定のルールに従い、自動取引を実行するシステムのことで、市場が自律的に流動性を提供するため、中央管理者のいないDEXでも円滑に取引を行うことができます。</p>
-
-<p>通貨単位	UNI
-発行上限枚数	10億枚
-特徴	スマートコントラクト機能を利用した「AMM型」のDEX
-価格（2022年9月現在）	¥854.40
-時価総額ランキング（2022年9月現在）	18位（¥651,233,552,627）
-発行開始日	2018年11月
- XMでのユニスワップ(UNI/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	UNIUSD
-内容	Uniswap vs US Dollar
-最低価格変動	0.01000
-値動きの最小値	USD 1
-1ロットあたりの価値	100 Uniswap
-最低スプレッド	0.07
-最小／最大取引サイズ	0.01/560
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	1120</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-300	2	1:50
-300+	100	1:1
- 下記のXM公式サイトでUNI/USD取引を確認できます。</p>
-
-<p>UNI/USDを取引(XM公式サイト)
- XMでのユニスワップ(UNI/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのユニスワップ(UNI/USD)に関する記事はこちら</p>
-
-<p>ゼロエックス(ZRX/USD)</p>
-
-<p>ゼロエックス(ZRX/USD)イメージ</p>
-
-<p>スマートコントラクト機能を利用した「AMM型」のDEX</p>
-
-<p>AMM(Automated Market Maker)とは、一定のルールに従い、自動取引を実行するシステムのことで、市場が自律的に流動性を提供するため、中央管理者のいないDEXでも円滑に取引を行うことができます。</p>
-
-<p>通貨単位	ZRX
-発行上限枚数	10億枚
-特徴	スマートコントラクト機能を利用した「AMM型」のDEX
-価格（2022年9月現在）	¥39.82
-時価総額ランキング（2022年9月現在）	122位（¥33,745,161,099）
-発行開始日	2017年8月
- XMでのゼロエックス(ZRX/USD)の取引条件は下記の通りです。</p>
-
-<p>必要証拠金率	2 %
-シンボル	ZRXUSD
-内容	0x vs US Dollar
-最低価格変動	0.00001
-値動きの最小値	USD 0.01
-1ロットあたりの価値	1000 0x
-最低スプレッド	0.0065
-最小／最大取引サイズ	0.01/1405
-指値および逆指値のレベル*	0
-合計取引ロット数の上限	2810</p>
-<ul>
-  <li>現在の市場価格にて予約注文を設定するための最低距離。</li>
-</ul>
-
-<p>ロット数量	証拠金 (%)	レバレッジ
-0-600	2	1:50
-600+	100	1:1
- 下記のXM公式サイトでZRX/USD取引を確認できます。</p>
-
-<p>ZRX/USDを取引(XM公式サイト)
- XMでのゼロエックス(ZRX/USD)取引に関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>XMでのゼロエックス(ZRX/USD)に関する記事はこちら</p>
-
-<p>デメリット
-デメリットイメージ</p>
-
-<p>XMでの仮想通貨は、レバレッジやゼロカットなど非常に魅力のある好条件を満たしており、仮想通貨を初めて利用する方も今後は増えていくと思います。</p>
-
-<p>しかし、取引を行う以上、取引前にメリットだけでなくデメリットについても認識しておくことは重要です。</p>
-
-<p>XMでの仮想通貨取引に関するデメリットは下記の通りです。</p>
-
-<p>実際に通貨を保有する事は不可
-ロスカット・マージンコール共通
-ゼロ口座は口座開設ボーナスのみ
-デメリット１</p>
-
-<p>実際に通貨を保有する事は不可イメージ</p>
-
-<p>実際に通貨を保有する事は不可</p>
-
-<p>XMでは、仮想通貨取引所とは違って実際に仮想通貨を購入して保持することはできません。</p>
-
-<p>XMでの仮想通貨は、あくまでCFD(差金決済取引)での取引となります。</p>
-
-<p>実際に現物の売買を行わず、取引によって発生した差額のみを決済するのでトレードすることにおいては特に意識する必要はありません。</p>
-
-<p>デメリット２</p>
-
-<p>ロスカット・マージンコール共通</p>
-
-<p>強制ロスカットは証拠金維持率20%イメージ</p>
-
-<p>仮想通貨の取引においても、他の銘柄と同様に強制ロスカットとマージンコールが適用されます。</p>
-
-<p>他の通貨ペアやCFD銘柄での取引と同様にXMでは、証拠金維持率が50％を下回る注意勧告として知らせるマージンコールが発動し、証拠金維持率20%を下回った時点で強制ロスカットになります。</p>
-
-<p>もちろん、XMでは口座残高がマイナスに転じて発生した損失も、ゼロカットシステムによりトレーダーは守られているので安心です。</p>
-
-<p>ゼロカットシステムに関する詳しい記事は、下記のページをご覧ください。</p>
-
-<p>ゼロカットシステムに関する記事はこちら</p>
-
-<p>デメリット３</p>
-
-<p>ゼロ口座は口座開設ボーナスのみイメージ</p>
-
-<p>ゼロ口座は口座開設ボーナスのみ</p>
-
-<p>XMで仮想通貨を取引するメリットの一つと言えるボーナスですが、XMの口座タイプでゼロ口座を開設した場合は3,000円ボーナス以外を受け取ることができないのであらかじめ意識しておきましょう。</p>
-
-<p>長い目で見るとやはり特典を多く享受できるスタンダード口座かマイクロ口座を選択することをおすすめします。</p>
-
-<p>ここまで、XMでの「仮想通貨取引」について詳しくみてきました。</p>
-
-<p>それでは最後に、仮想通貨取引に関する「まとめ」を確認しておきましょう。</p>
-
-<p>まとめ：XMでの仮想通貨取引
-XMでの仮想通貨取引まとめイメージ</p>
-
-<p>XMは2022年5月より仮想通貨の取り扱いを再開しました。</p>
-
-<p>過去のXMでの仮想通貨取引はメリットが少なかったのですが、今回の取引条件は普段から仮想通貨取引所を利用するユーザーも目が離せない充実ぶりで多くの仮想通貨トレーダーが参入すると予想されます。</p>
-
-<p>レバレッジ最大250倍とスワップフリーで手数料無料、さらにはゼロカットシステムで安心、XMポイントを利用した他にはないアドバンテージを持って仮想通貨を取引することができるようになりました。</p>
-
-<p>下記のXM公式サイトで仮想通貨CFDを確認できます。</p>
-
-<p>仮想通貨CFD(XM公式サイト)
- 口座の開設がまだの方は、下記のリンクよりまずは口座を開設してみましょう。</p>
-
-<p>取引口座を開設する
-XM公式ホームページへ</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[XMの新しい取引条件をご紹介 XMでの仮想通貨取引についてイメージ]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/crypto.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/crypto.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ストップレベル</title><link href="http://localhost:4000/%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%83%AC%E3%83%99%E3%83%AB/" rel="alternate" type="text/html" title="ストップレベル" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%83%AC%E3%83%99%E3%83%AB</id><content type="html" xml:base="http://localhost:4000/%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%83%AC%E3%83%99%E3%83%AB/"><![CDATA[<p>XMならストップレベルが0だから有利に取引
-ストップレベル「ゼロ」についてイメージ</p>
-
-<p>XMのストップレベルは指値や逆指値の時に、例えばドル円であれば4Pipsはエントリー時に値が離れていなければ注文が出来ませんでした。</p>
-
-<p>これまでは、細かなスキャルピングや損切り設定が難しく、手動で決済する方法だけでした。</p>
-
-<p>しかし、2021年8月に全ての金融商品の指値および逆指値のストップレベルがゼロ(Stoplevel 0)になりました。</p>
-
-<p>XMユーザーが特に設定する必要がなく、XMのシステム全体で既に切り替わっています。</p>
-
-<h2 id="ストップレベルとは">ストップレベルとは？</h2>
-
-<p>XMはレバレッジ1000倍、ゼロカットシステムで追証なし、多くのボーナスやポイント制度があり今までも海外FX業者の中でトップクラスでしたが、唯一難点だったのがストップレベルでした。</p>
-
-<p>デイトレで主に取引を行うトレーダーであれば、あまり気になることはないですが、ストップレベルが解消された事で、さらに自由なトレードが実現しました。</p>
-
-<p>FX会社によっては、元々ストップレベルがないところもあったので、XMユーザーにとっては非常に良いことです。</p>
-
-<p>POINT
-ストップレベルとは、予約エントリーする時に現在のレートから一定値を離して設定しなければいけない値です。成行注文では関係ありませんが、指値・逆指値注文の際に関係します。</p>
+<h4 id="step2パラジウムのシンボルを選択">STEP.2：パラジウムのシンボルを選択</h4>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>「<code class="language-plaintext highlighter-rouge">CFD Future</code>」の「<code class="language-plaintext highlighter-rouge">＋</code>」をクリック → パラジウムのシンボル「<code class="language-plaintext highlighter-rouge">PALL</code>」を選択 →「<code class="language-plaintext highlighter-rouge">表示</code>」をクリック</li>
 </ul>
 
-<h2 id="他のfx会社はどうなの">他のFX会社はどうなの？</h2>
+<hr />
 
-<p>XMの利用者は国内で一番のシェアを誇りますが、他のFX会社のストップレベルと比較してどうなのか気になりますよね。</p>
-
-<p>それでは、具体的に各海外FX・国内FX会社のストップレベルを比較してみましょう。</p>
-
-<p>以下は海外FX7社、国内FX3社の合計10社の主要通貨ペアのストップレベル一覧表です。</p>
-
-<p>FX会社	USD/JPY	EUR/USD	EUR/JPY
-XM	0.0pips	0.0pips	0.0pips
-GEMFOREX	2.0pips	2.0pips	2.7pips
-AXIORY	0.0pips	0.0pips	0.0pips
-IS6	2.0pips	2.0pips	2.7pips
-TitanFX	0.0pips	0.0pips	0.0pips
-FXGT	6.2pips	5.2pips	8.0pips
-BigBoss	1.0pips	1.0pips	1.0pips
-DMM FX	0.0pips	0.0pips	0.0pips
-LINE FX	3.0pips	3.0pips	3.0pips
-OANDA	0.0pips	0.0pips	0.0pips
-上記の一覧を見てもらえばわかる通り、XMのスプレッドは現在全て「0」となっているので、他社と比べて圧倒的に有利にトレードを進めることができます。</p>
-
-<p>では次に、念のため他の通貨ペアや人気のゴールド(GOLD)についてもストップレベルを確認しておきましょう。</p>
-
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
-
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
-
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
-
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
-
-<h2 id="通貨ペアとゴールドgoldのストップレベル">通貨ペアとゴールド(GOLD)のストップレベル</h2>
-
-<p>XMでトレーダーに人気な主要通貨ペアとゴールド(GOLD)のストップレベルは以下の通りです。</p>
-
-<p>以下はXMのストップレベル一覧表です。</p>
-
-<p>通貨ペア	指値及び逆指値レベル	PIPS単位
-USDJPY	0	0.0pips
-EURUSD	0	0.0pips
-EURJPY	0	0.0pips
-AUDUSD	0	0.0pips
-GBPUSD	0	0.0pips
-GBPJPY	0	0.0pips
-EURTRY	0	0.0pips
-USDTRY	0	0.0pips
-EURZAR	0	0.0pips
-USDMXN	0	0.0pips
-USDZAR	0	0.0pips
-GOLD	0	0.0pips
-過去にXMユーザーの中には、ストップレベルが広いという理由で他のFX会社に移る人もいたようなので、今回のストップレベルが「0(ゼロ)」になったことはXMを利用するトレーダーにとっては大きなメリットとなります。</p>
-
-<p>指値・逆指値注文だけでなく、EA(自動売買)を利用しているときにも取引が以前に比べて有利になります。</p>
-
-<p>ここまで、XMにおける他社と比較して優位性を見てきました。</p>
-
-<p>では次に、実際にストップレベルがゼロではない場合にはどのようなデメリットがあるのかを詳しく見ていきましょう。</p>
-
-<h2 id="ストップレベルが0ではないデメリット">ストップレベルが「0」ではないデメリット</h2>
-
-<p>ストップレベルが0ではなく広い場合のデメリットは以下の3つが挙げられます。</p>
-
-<p>指値・逆指値注文が入りにくい可能性
-取引チャンスや利益を逃す可能性
-EA(自動売買)が正常に稼働しない可能性
-ストップレベルが「0」ではない場合、自分が思った価格でエントリーができません。</p>
-
-<p>その結果、チャンスと思った時に決済注文が通らずに、結果的に損失を被るリスクがあります。</p>
-
-<p>POINT
-デイトレードなどの取引に関しては、ストップレベルが0ではなくても大きな問題にはなりませんが、スキャルピングの場合には特に外出中や仕事中など相場から離れる際に利用する指値・逆指値注文時は、取引チャンスや利益を逃す可能性があるため注意が必要でした。</p>
-
-<p>それでは次に、実際にストップレベルがゼロの場合にどのようなメリットがあるのかを詳しく見ていきましょう。</p>
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
-
-<h2 id="ストップレベルが0であるメリット">ストップレベルが「0」であるメリット</h2>
-
-<p>ストップレベルが「0」であるXMのメリットは以下の3つが挙げられます。</p>
-
-<p>自分の思ったタイミングでエントリー可能
-スキャルピングトレードを有利に行える
-EAによる自動売買時に心配がない</p>
-
-<h2 id="ストップレベルの確認方法">ストップレベルの確認方法</h2>
-
-<p>XM公式WEBサイトの「取引商品」、もしくはMT4/MT5の各取引商品の「仕様」からストップレベルを確認する方法とMT4/MT5で確認する方法があります。</p>
-
-<p>XM公式WEBサイトで確認する方法
-PC版MT4/MT5で確認する方法
-スマホ版MT4/MT5で確認する方法</p>
-
-<h2 id="xm公式webサイトでストップレベル確認">XM公式WEBサイトでストップレベル確認</h2>
-
-<p>XM公式WEBサイトでのストップレベルの確認手順は以下の通りです。</p>
-
-<p>まずは、XM公式WEBサイトを開く</p>
-
-<p>メニューから「取引商品」を選択</p>
-
-<p>ストップレベルを確認する</p>
-
-<h2 id="pc版mt4mt5でストップレベル確認">PC版MT4/MT5でストップレベル確認</h2>
-
-<p>PC版MT4/MT5でXMTradingのストップレベルを確認する手順は以下の通りです。</p>
-
-<p>MT4/MT5を起動します</p>
-
-<p>ストップレベルを確認したい通貨ペアの気配値を表示</p>
-
-<p>画面左側の「気配値」→「通貨ペア」を選択</p>
-
-<p>通貨ペアを右クリックし、「仕様」を選択</p>
-
-<p>PC版MT4/MT5でストップレベル確認1イメージ</p>
-
-<p>取引条件からストップレベルを確認</p>
-
-<h2 id="スマホ版mt4mt5でストップレベル確認">スマホ版MT4/MT5でストップレベル確認</h2>
-
-<p>スマホ版MT4/MT5でXMTradingのストップレベルを確認する手順は以下の通りです。</p>
-
-<p>MT4/MT5アプリの「気配値」→ 通貨ペア・銘柄を選択</p>
-
-<p>スマホ版MT4/MT5でストップレベル確認1イメージ</p>
-
-<p>「詳細」をタップ</p>
-
-<p>スマホ版MT4/MT5でストップレベル確認2イメージ</p>
-
-<p>詳細画面の上から3つ目の項目「ストップレベル」を確認</p>
-
-<p>スマホ版MT4/MT5でストップレベル確認3イメージ</p>
-
-<p>XMのストップレベルは、上述した通り、全口座タイプ・全取引銘柄で「0」であるため、確認する必要はありませんが、もし万が一XMがストップレベルを改悪した場合などのために、念のため方法を確認しました。</p>
-
-<p>また、ストップレベルはFX会社ごとに異なるのはもちろん、同じFX会社でも口座の種類や通貨ペアによって、異なるストップレベル値が設定されているので気をつけましょう。</p>
-
-<p>XMの場合は、全口座タイプ・全取引銘柄で「0」であるため安心です。</p>
-
-<p>ここまで、「ストップレベル」について詳しくみてきました。</p>
-
-<p>それでは最後に、ストップレベルに関する「まとめ」を確認しておきましょう。</p>
-
-<h2 id="まとめストップレベル">まとめ：ストップレベル</h2>
-
-<p>現在、XMのストップレベルは「0」に設定されています。他の海外FXや国内FXでも、ストップレベルを完全にゼロで提供しているところは決して多くはないので有利にトレードを進めることができます。</p>
-
-<p>これからXMでトレードを始める方も、これまでXMを利用していたトレーダーにとっても、非常に喜ばれる変更です。</p>
-
-<p>利用者数が国内No.1にもかかわらず、さらなる取引環境の改善を続けているXMは素晴らしいと思います。</p>
-
-<p>ストップレベル「ゼロ」でのトレードはメリットしかないので、XMで取引をしたことのないトレーダーは安全性が高く信頼性も高いXMでトレードを始めることをおすすめします。</p>
-
-<p>口座の開設がまだの方は、下記のリンクよりまずは口座を開設してみましょう。</p>
-
-<p>取引口座を開設する
-XM公式ホームページへ</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[XMならストップレベルが0だから有利に取引 ストップレベル「ゼロ」についてイメージ]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ゴールド(金)取引</title><link href="http://localhost:4000/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="ゴールド(金)取引" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95/"><![CDATA[<p>ゴールドの現在価格とトレンドについて
-XMの公式サイトにて、ゴールド(GOLD)の現在価格とXMユーザーのゴールドの売買のトレンドを確認できます。</p>
-
-<p>XM公式サイトゴールドイメージ</p>
-
-<p>XM公式サイトゴールドトレンドイメージ</p>
-
-<p>下記のXM公式サイトでゴールドの売買トレンドを確認できます。</p>
-
-<p>XMの公式サイトでゴールドを確認
-上記のXM公式リンクのトップページのフッター上部に他の通貨と並んで表示されているので是非チェックしてみてください。また、XMのアカウントを持っていなくてもチェックすることができます。</p>
-
-<p>では早速、取引銘柄の貴金属の中でも、XMで非常に人気の高いゴールドを詳しくみていきましょう。</p>
-
-<h2 id="xmでゴールド取引をするメリット">XMでゴールド取引をするメリット</h2>
-
-<p>トレンドが同じ方向に続く傾向がある
-ボラティリティが為替に比べて非常に高い
-スキャルピングで利益を重ねやすい
-ゴールド取引をするメリット１</p>
-
-<p>なぜトレンドが続くか？</p>
-
-<p>ゴールド取引トレンドイメージ</p>
-
-<p>ゴールドは為替よりトレンドが続きやすい傾向があります。</p>
-
-<p>FXにおいて為替は通貨であることから時間帯によってメインの通貨が切り替わっていくので、値動きが途端に反転します。</p>
-
-<p>そのため、トレンドが長く続くこともありますが、一時的なことが多い傾向にあります。</p>
-
-<p>その一方、ゴールドは為替とは違い、通貨ではなく各国共通の金融資産なので、ドル以外の通貨に影響を受けづらく、トレンドが長く続きます。</p>
-
-<p>トレンドが同じ方向に続くので、XMでのチャートの分析が比較的簡単であるというメリットがあります。</p>
-
-<p>ゴールド取引をするメリット２</p>
-
-<p>なぜボラティリティが高いか？</p>
-
-<p>ゴールド取引ボラティリティイメージ</p>
-
-<p>FX為替の場合は、年間を通してレートが大幅に変わることは少ないですが、ゴールドは年間で大幅に価格の変動があるので圧倒的にボラティリティが高く、またその変動が年間に何度も起こる傾向があります。</p>
-
-<p>ボラティリティが高いということは利幅があり、また変動する機会が多いことはチャンスが多いので、XMで稼ぎやすいというメリットがあります。</p>
-
-<p>POINT
-1時間で200pips以上動く場合もあるので、ゴールドはスキャルピングをするFXトレーダーにとって短時間で稼げる大変魅力的な銘柄です。</p>
-
-<p>ゴールド取引をするメリット３</p>
-
-<p>なぜスキャルピングしやすい？</p>
-
-<p>ゴールド取引スキャルピングイメージ</p>
-
-<p>ゴールドはボラティリティが非常に高いため、短時間で利幅を大きく取れて稼ぎやすい傾向があります。</p>
-
-<p>短時間での取引を繰り返すスキャルピングと相性が良く、短期間で利益を積み上げることが可能です。</p>
-
-<p>FXトレーダーの多くがゴールド取引も扱う理由は、特にFXにおけるスキャルピング手法がそのまま利用できる点と、XMでうまくいけば利益の積み上げがより早くなるからです。</p>
-
-<p>POINT
-短時間で利益を上げやすいということは、逆に一瞬で大きな損失を被る場合もあるので、XMでゴールドの取引を行う場合もFX取引と同様に損切りを確実に行い利益を積み上げるようにしましょう。</p>
-
-<p>では次に、トレーダーにとって重要なゴールドの価格が変動するタイミングについて詳しくみていきましょう。</p>
+<h4 id="step3チャートへドラッグドロップ">STEP.3：チャートへドラッグ&amp;ドロップ</h4>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>
+    <p>気配値ウィンドウにパラジウムのシンボルが表示</p>
+  </li>
+  <li>
+    <p>チャート画面にドラッグアンドドロップ</p>
+  </li>
 </ul>
 
-<h2 id="ゴールドの価格が大きく変動するタイミング">ゴールドの価格が大きく変動するタイミング</h2>
+<p>XMのパラジウムは「<code class="language-plaintext highlighter-rouge">CFD Future</code>」フォルダに格納されており、「<code class="language-plaintext highlighter-rouge">Spot Metals</code>」にはありません。</p>
 
-<p>ゴールドの価格が動くのは、以下の3つの時間帯です。</p>
+<hr />
 
-<p>アジア時間の早朝
-欧州時間の切り替り時
-米国指標発表時
-ゴールドの価格が動く時間帯１</p>
+<h3 id="まとめパラジウム取引">まとめ：パラジウム取引</h3>
 
-<p>アジア時間早朝</p>
+<p>近年の価格上昇で一気に注目されだしたパラジウムは、取引における利便性・安全性を考えるとXMでの取引がおすすめです。</p>
 
-<p>アジア時間の早朝は緩やかに動き始めますが、前日の反動で大きく変動する場合もあります。</p>
+<p>他の貴金属と同じように取引できるXMなら、簡単に取引がはじめられます。</p>
 
-<p>ゴールドの価格が動く時間帯２</p>
+<p>しかし、パラジウム取引はゴールド(金)取引やシルバー(銀)取引とは違った特徴があるので、ポイントをしっかり抑えて取引を行いましょう。</p>
 
-<p>欧州時間の切り替わり時</p>
+<p>各種貴金属に関する記事は、下記のリンクから</p>
 
-<p>欧州のマーケットが開始すると、それまでの緩やかさとは打って変わって一気に動き始める傾向が強く、トレンド形成が始まるケースがあります。</p>
+<p><a href="https://gnidart-mx.github.io/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89(%E9%87%91)%E5%8F%96%E5%BC%95/">ゴールド取引のページ</a></p>
 
-<p>ゴールドの価格が動く時間帯３</p>
+<p><a href="https://gnidart-mx.github.io/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC(%E9%8A%80)%E5%8F%96%E5%BC%95/">シルバー取引のページ</a></p>
 
-<p>米国指標発表時</p>
+<p><a href="https://gnidart-mx.github.io/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E5%8F%96%E5%BC%95/">プラチナ取引のページ</a></p>
 
-<p>ゴールドの特徴として米国のトレーダーが多く参入するため、米国の指標発表時や米国市場の開始時は、最も大きなボラティリティが発生します。</p>
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
 
-<p>ゴールドで取引する際には、上記の3つのタイミングを必ず意識してトレードするようにしましょう。</p>
+<p>もちろん、入金して国内FXでは体験できないハイレバレッジでゼロカットシステム(追証なし)の取引を開始したい方は早速はじめましょう。</p>
 
-<p>では次に、ゴールド(GOLD)の特徴を詳しくみていきましょう。</p>
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="パラジウム" /><category term="貴金属" /><category term="CFD" /><summary type="html"><![CDATA[パラジウム取引は株式市場を意識すれば予測しやすい銘柄で、通貨ペアのように取引できます。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/palladium.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/palladium.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">経済指標</title><link href="http://localhost:4000/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99/" rel="alternate" type="text/html" title="経済指標" /><published>2022-11-23T00:00:00+09:00</published><updated>2022-11-23T00:00:00+09:00</updated><id>http://localhost:4000/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99</id><content type="html" xml:base="http://localhost:4000/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99/"><![CDATA[<p>FX取引するなら経済指標は重要なイベントで取引結果を大きく左右するので要チェックです。</p>
 
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+<p>XMでは経済指標をまとめて確認できる「経済指標カレンダー」があります。</p>
 
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
+<p>経済指標カレンダーで直近のスケジュールを把握するようにしましょう。</p>
 
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+<p>指標発表の前後は価格が一気に変動したりするので、損失を避けるためにも経済指標は必ずチェックすることをおすすめします。</p>
 
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
+<hr />
 
-<h2 id="ゴールドgoldの特徴">ゴールド(GOLD)の特徴</h2>
+<h3 id="経済指標とは">経済指標とは？</h3>
 
-<p>ゴールド(GOLD)の特徴は下記の4つです。</p>
+<p>世界各国の様々な機関によって発表される失業率や国内総生産(GDP)などを数値化した指標を経済指標といいます。</p>
 
-<p>工業製品や電化製品の需要に比例して値上がりする
-世界経済が不安定になるとリスク回避先として選ばれる
-USDとゴールドは相関関係にある
-長期的に値上がりの可能性が高い
-ゴールドの特徴１</p>
+<p>重要度の高い内容が多いので、発表されると投資家たちの思惑や予想とギャップで為替レートが大きく変動します。</p>
 
-<p>工業製品や電化製品の需要に比例して値上がりする</p>
+<p>XMではマイナーな通貨ペアも多く取り扱っているので、経済指標カレンダーは充実した内容で勉強になります。</p>
 
-<p>ゴールド取引比例イメージ</p>
+<hr />
 
-<p>工業製品や電化製品の多くには金(ゴールド)が利用されているため、工業製品や電化製品の需要が上がるたびにゴールドの価値も上がります。</p>
+<h3 id="xmの経済指標カレンダー">XMの経済指標カレンダー</h3>
 
-<p>point
-ゴールドの値上がりを知るためには、工業製品や電化製品を扱う企業の業績や株価指数を意識することをオススメします。</p>
+<p>XMの経済指標カレンダーは、経済指標に関する多くの情報を一括で確認できるようにXM公式サイトに掲載しているカレンダーのことです。</p>
 
-<p>ゴールドの特徴２</p>
+<p>非常に見やすく、分かりやすいのでXMユーザーでなくても活用してみましょう。</p>
 
-<p>世界経済が不安定になるとリスク回避先として選ばれる</p>
+<p>※口座開設前のXM会員でない方も閲覧が可能です。</p>
 
-<p>ゴールド取引リスクオフイメージ</p>
+<p>XMの経済指標カレンダーは下記のリンクから</p>
 
-<p>「地政学リスク」と呼ばれる世界経済が不安定になる条件になった場合には、リスク回避先の資産としてゴールドが選ばれます。</p>
+<p><a href="https://clicks.affstrack.com/c?m=47979&amp;c=550036" class="button icon solid fa-file">XMの経済指標カレンダーをチェック</a></p>
 
-<p>「有事の金」とも呼ばれるほど「世界経済の不安感＝金の需要が上がる(リスクオフ)」の図式は往々にして成り立つことから、ゴールドを取引する場合は、特に地政学リスクを意識することが大切です。</p>
-
-<p>上記のリスクはXMのFX取引でも、もちろん意識することは大切ですが、ゴールドの場合は変動が非常に激しいので特に意識するよう心がけましょう。</p>
-
-<p>ゴールドの特徴３</p>
-
-<p>USDとゴールドは相関関係にある</p>
-
-<p>ゴールド取引相関関係イメージ</p>
-
-<p>ゴールド(Gold)は安全資産という位置付けが根強いため、ゴールドの価値が高くなると逆にリスクオンの通貨である米ドルの価格は低くなるケースが多いです。</p>
-
-<p>逆にUSD/JPYが上昇トレンド(米ドルの価値が高く、日本円の価値が低い)の場合、ゴールドの価格が下がる傾向にあります。</p>
-
-<p>そのため、USD/JPYのチャートを確認することで、ゴールドの動きを予想する判断材料になります。</p>
-
-<p>ゴールドの特徴４</p>
-
-<p>長期的に値上がりの可能性が高い</p>
-
-<p>ゴールド取引長期的に値上がりイメージ</p>
-
-<p>現在までに世界中で発掘されてきた金(ゴールド)の総量は実に18万トン、競技用プール3杯分に相当し、地中に残っている採掘されていない金(ゴールド)は5万3000トンと言われています。</p>
-
-<p>では次に、金(ゴールド)の埋蔵量が多い国を確認しておきましょう。</p>
-
-<p>金(ゴールド)の埋蔵量が多い国
- 2020年の金(ゴールド)の埋蔵量が多い国は以下の通りです。</p>
-
-<p>順位	国名	埋蔵量（トン）（2020年）
-1位	オーストラリア	10,000
-2位	ロシア	7,500
-3位	アメリカ合衆国（米国）	3,000
-4位	ペルー	2,700
-4位	南アフリカ	2,700
-6位	インドネシア	2,600
-7位	ブラジル	2,400
-8位	カナダ	2,200
-9位	中国	2,000
-10位	ウズベキスタン	1,800
-それでは、実際に金(ゴールド)の産出が多い国をみてみましょう。</p>
-
-<h2 id="金ゴールドの産出量が多い国">金(ゴールド)の産出量が多い国</h2>
-
-<p>2020年の金(ゴールド)の産出量が多い国ベスト5は以下の通りです。</p>
-
-<p>順位	国名	産出量（トン）（2020年）
-1位	中華人民共和国（中国）	380
-2位	オーストラリア	320
-3位	ロシア	300
-4位	アメリカ合衆国（米国）	190
-5位	カナダ	170
-出典：U.S. Geological Survey - Mineral commodity summaries
-また、工業製品や電化製品の材料として用いられ、今後電子機器が減ることは考えづらいことから、これからも金(ゴールド)の需要は増加していくと考えられています。</p>
-
-<p>残りの掘り出される量が限られていることもあり、今後希少性が高くなる可能性が高い金(ゴールド)の価格は長期的に上昇していく可能性が高いと言えます。</p>
-
-<p>また、世界の中央銀行や公的機関が外貨準備資産として金の保有量を積み増ししています。</p>
-
-<p>2021年の総保有量は1990年以来31年ぶりに膨らんでいます。</p>
-
-<p>準備資産で金の存在感が増すのとは対照的に、ドルの存在感は低下の一途を辿っているのが現状です。</p>
-
-<p>1971年に当時のニクソン大統領が金とドルの交換停止を表明して以降の約50年でドルの価値は約50分の1になり、ドルが金の足かせを解かれたことで、アメリカの通貨供給量が50年で約30倍に増えました。</p>
-
-<p>POINT
-ニクソン大統領が金とドルの交換停止を発表したことで、為替市場が金と交換できるドルを前提とした固定相場制から変動相場制に変わるきっかけとなりました。(ニクソン・ショック)</p>
-
-<p>現在では、金はどの国の経済にも直結しないことから世界の金融市場の混乱に耐えるという見方があり、信用リスクやカウンターパーティーリスク(取引相手の破綻リスク)がないことから、多くの信用力の弱い新興国の中銀が、金で資産保全を図るようになっています。</p>
-
-<p>上記のように金は将来性のある銘柄である点とある程度予測がしやすいことも手伝って、XMでゴールドを取引するトレーダーが年々増えています。</p>
-
-<p>ゴールドの取引はFX通貨に比べて、圧倒的に短時間で資産を増やすことが可能ですが、逆に損失を被る時もゴールド取引は早いので慎重に取引するようにしましょう。</p>
-
-<p>ここまで、「ゴールド(GOLD)取引」について詳しくみてきました。</p>
-
-<p>それでは、最後にXMでのゴールド取引に関する「まとめ」をみておきましょう。</p>
-
-<h2 id="まとめゴールドgold取引">まとめ：ゴールド(GOLD)取引</h2>
-
-<p>XMではゴールド(Gold)をFXと同じようにハイレバで取引することが可能です。</p>
-
-<p>ゴールド(GOLD)はスキャルピングとの相性も良いので大きく利益を上げるチャンスの多いのでおすすめです。</p>
-
-<p>ゴールド(GOLD)での取引において注意しなければならないことは、ボラリティが非常に高いので一気に損失が増えることもある点です。</p>
-
-<p>たとえ、XMのゼロカットシステムがあるとはいえ、確実に損切りを行い、リスク管理を適切に行った上で安心してゴールドの取引を行うようにしましょう。</p>
-
-<p>主要7カ国(G7)がウクライナに侵攻したロシアへの制裁としてロシア産の金輸入を禁じている中で、短期的な影響は限定的との見方が強いですが、中長期的な影響として金の流動性に不安を感じた国々が金の購入意欲が薄れ、市場の買い手が減ることで金を保有する欧米などの中銀や機関投資家、個人に大きな影響が出る可能性もあります。</p>
-
-<p>しかし、現在のところはゴールド(Gold)取引は、他のFX通貨での取引以上に少ない資産で大きな利益を生み出せる可能性があることに変わりはありません。</p>
-
-<p>XMでのゴールド取引は非常に魅力的なトレードスタイルのひとつです。</p>
-
-<p>まだXMでゴールドの取引が未経験の方は、ぜひこの機会にXMでゴールド取引を始めてみましょう。</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[ゴールドの現在価格とトレンドについて XMの公式サイトにて、ゴールド(GOLD)の現在価格とXMユーザーのゴールドの売買のトレンドを確認できます。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">S&amp;amp;P500取引</title><link href="http://localhost:4000/S&P500%E5%8F%96%E5%BC%95/" rel="alternate" type="text/html" title="S&amp;amp;P500取引" /><published>2022-11-09T00:00:00+09:00</published><updated>2022-11-09T00:00:00+09:00</updated><id>http://localhost:4000/S&amp;P500%E5%8F%96%E5%BC%95</id><content type="html" xml:base="http://localhost:4000/S&amp;P500%E5%8F%96%E5%BC%95/"><![CDATA[<p>S&amp;P500(US500)を徹底解説
-S&amp;P500についてイメージ</p>
-
-<p>S&amp;P500とは、ダウ平均株価(US30)、ナスダック(US100)と並びアメリカの代表的な株式指数の1つです。</p>
-
-<p>他の海外FXと違い、XMには同じS&amp;P500でも現物と先物があり、それぞれにメリット・デメリットがあります。</p>
-
-<p>メリット・デメリットを把握してXMならではのゼロカットシステムを利用して、是非、S&amp;P500をFXのように取引対象としてをトレードを開始してみましょう。</p>
-
-<p>それでは早速、「S&amp;P500(US500)」について詳しくみていきましょう。</p>
-
-<h2 id="sp500us500とは">S&amp;P500(US500)とは？</h2>
-
-<p>米国の代表的な企業30社の株価指数がダウ平均株価で、S&amp;P500は500社の株式指数です。</p>
-
-<p>多くの企業が対象となることから、アメリカ経済をより色濃く反映している株価指数といえます。</p>
-
-<p>そしてコロナ禍の現在であっても、最高値を連日のように塗り変えるように更新しています。</p>
-
-<p>多くの投資家から投資対象として大変人気で、実際に利益を積み上げている投資家が多く、アメリカの経済が好調である限り、S&amp;P500も上昇し続けるといわれています。</p>
-
-<p>株価についてあまり触れたことがない方でもFX通貨ペアのように取引ができるXMですが、もう少し詳しく「S&amp;P500」についてみていきましょう。</p>
-
-<p>S&amp;P500ならリスク分散投資向き
-リスク分散投資向きイメージ</p>
-
-<p>構成銘柄が非常にバランスが良く人気の要因となっています。</p>
-
-<p>S&amp;P500の構成銘柄(一部抜粋)</p>
-
-<p>業種	銘柄
-金融	VISA
-財務	JPモルガン証券
-IT関連	Google・Microsoft・Amazon
-航空	アメリカン航空・ユナイテッド航空
-自動車	フォード
-アパレル関連	Nike
-食品	コカ・コーラ
-上記以外にも多くの企業がS&amp;P500に含まれています。</p>
-
-<p>S&amp;P500は銘柄の業種が多様で、なおかつバランスが良いため、個別での株価投資よりもリスクが分散されるというメリットがあります。</p>
-
-<p>株式で株を扱うには多くの資産が必要なイメージがあります。</p>
-
-<p>しかし、XMのS&amp;P500(US500)なら少額でも取引が開始できるのでおすすめです。</p>
-
-<p>では次に、XMで「S&amp;P500」の取引をするのに少額でも可能なのかをみていきましょう。</p>
-
-<h2 id="xmなら少額投資が可能">XMなら少額投資が可能</h2>
-<p>少額投資イメージ</p>
-
-<p>XMでのS&amp;P500(US500)の取引時のレバレッジはFXの「1000倍」とは違い、「100倍」が適用されます</p>
-
-<p>しかし、投資の対象先がアメリカの大手企業であるため、短期間のトレードでも少しの変動で大きな利益を狙うことができます。</p>
-
-<p>では、いよいよ「S&amp;P500」のトレード手順を順を追ってみていきましょう。</p>
-
-<h2 id="sp500us500トレード手順">S&amp;P500(US500)トレード手順</h2>
-<p>S&amp;P500(US500)トレード手順イメージ</p>
-
-<p>MT4を起動 → XMの通貨ペアリスト「CFD Cash＞US500-Cash」「CFD Futures＞US500-SEP21」</p>
-
-<p>US500の後の「SEP」が限月を示す英語の頭文字です。(September)</p>
-
-<p>最後の「21」は西暦の下2桁を示しています。(2021年)</p>
-
-<p>決して日付ではないので注意しましょう。</p>
-
-<p>POINT
-FX通貨ペアとlot数が異なります。FXトレードの場合は1.0lotは10万通貨ですが、US500ではトレードの最小取引数量は1.0lotで、損益の計算方法が異なります。</p>
-
-<p>手順を確認してみるとわかると思いますが、思っていたより簡単ではないでしょうか？</p>
-
-<p>次にS&amp;P500(US500)の取引時間について確認しておきましょう。</p>
-
-<h2 id="取引時間">取引時間</h2>
-<p>S&amp;P500の取引時間イメージ</p>
-
-<p>XMでのS&amp;P500の取引時間は下記の通りです。</p>
-
-<p>夏時間： 月曜日06:05～土曜日04:10
-冬時間： 月曜日07:05～土曜日05:10
- メンテナンス時間もあるので、詳しくは下記のリンクよりご確認ください。</p>
-
-<p>取引時間に関する記事はこちら
-では、実際に必要な証拠金額を求める計算式についてみておきましょう。</p>
-
-<p>取引前にどれぐらいの資産が必要なのか、目安として確認しておくことをおすすめします。</p>
-
-<h2 id="必要証拠金を求める計算式">必要証拠金を求める計算式</h2>
-<p>必要証拠金を求める計算式イメージ</p>
-
-<p>必要証拠金を求める計算式は下記の通りです。</p>
-
-<p>S&amp;P500のエントリー価格 x lot数 x 1%
-S&amp;P500の必要証拠金率　= 1%</p>
-
-<p>下記に二つの例をご用意しました。(※USD/JPY＝100円の場合)</p>
-
-<p>例１</p>
-
-<p>S&amp;P500の価格が4,000ドル時に、1lotの買いエントリーの場合</p>
-
-<p>5,000(USD) x 1.0(lot) x 0.01(1%) ＝ 50 USD (5,000円)
-⇒ 必要証拠金　→ 5,000円 (50 USD)</p>
-
-<p>例２</p>
-
-<p>S&amp;P500の価格が4,000ドル時に、10lotの売りエントリーの場合</p>
-
-<p>4,000(USD) x 10.0(lot) x 0.01(1%) ＝ 400 USD (40,000円)
-必要証拠金　→ 40,000円 (400 USD)</p>
-
-<p>XMだからこそ、証拠金がかなり低くで開始できるので試しに少額からスタートするのもおすすめです。</p>
-
-<p>次に、「現物」と「先物」の違いについてみておきましょう。</p>
-
-<h2 id="現物と先物の違い">現物と先物の違い</h2>
-<p>現物と先物の違いイメージ</p>
-
-<p>XMのCFD銘柄には現物と先物の2種類があります。</p>
-
-<p>現物</p>
-
-<p>長期保有が可能
-期限なし
-先物</p>
-
-<p>限月:期日になると、ポジションが強制決済
-現物は期限がなく長期保有が可能なので、FXとトレード感覚が似ているといえます。</p>
-
-<p>逆に、先物は限月なので、期日になるとポジションが強制決済されるので注意が必要です。</p>
-
-<p>以下、わかりやすく比較表にしています。</p>
-
-<p>現物	先物
-スプレッド	狭い	現物の約2倍
-配当調整金	あり	なし
-スワップポイント	あり	なし
-決済期限(限月)	なし	あり
-POINT
-期日以降には取引していたチャート自体をMT4/5に表示することはできません。</p>
-
-<p>では次に、上記の比較表を元にS&amp;P500(US500)の「現物」と「先物」について詳しくみていきましょう。</p>
-
-<h2 id="現物の方がスプレッドが狭い">現物の方がスプレッドが狭い</h2>
-<p>現物の方がスプレッドが狭いイメージ</p>
-
-<p>現物の方が先物よりも狭いスプレッドになります。</p>
-
-<p>US500の場合、現物はスワップポイント・配当調整金の付与と徴収が発生しますが、スプレッドは狭くなっています。</p>
-
-<p>POINT
-日付をまたぐトレードで保有する場合には、先物の方が圧倒的に取引コストがお得です。</p>
-
-<p>次に、配当調整金とスワップポイントについてみていきましょう。</p>
-
-<h2 id="現物のみスワップポイント配当調整金">現物のみスワップポイント＆配当調整金</h2>
-<p>現物のみスワップポイントイメージ</p>
-
-<p>配当調整金</p>
-
-<p>実際の株取引で得られる配当金と同じようにCFD取引でも、配当金調整金として受け取ることができます。</p>
-
-<p>現物の「買い」　→ 配当調整金の付与
-現物の「売り」　→ 配当調整金の徴収
-POINT
-XMではS&amp;P500(US500)の現物の場合、「買い」「売り」のどちらもマイナススワップになります。</p>
-
-<p>では、トレードスタイル(デイトレード・スイングトレード)によって「現物」と「先物」のどちらが良いかみてみましょう。</p>
-
-<h2 id="トレードスタイル別のおすすめ銘柄">トレードスタイル別のおすすめ銘柄</h2>
-<p>複数口座の開設が不要イメージ</p>
-
-<p>現物　→ デイトレード
-先物　→ スイングトレード
-日付をまたぐスイングトレードでは、先物がおすすめです。</p>
-
-<p>期限を忘れることなく取引する点だけ気をつけましょう。</p>
-
-<p>では最後に、S&amp;P500でトレードするメリットについて詳しくみていきましょう。</p>
-
-<h2 id="sp500でトレードするメリット">S&amp;P500でトレードするメリット</h2>
-<p>S&amp;P500でトレードするメリットイメージ</p>
-
-<p>XMでS&amp;P500をトレードするメリットについて解説していきます。</p>
-
-<p>S&amp;P500で取引するメリットは以下の通りです。</p>
-
-<p>ハイレバレッジと相性が良い
-ゼロカットシステムで安心
-取引口座を分ける必要が無い
-メリット１</p>
-
-<p>ハイレバレッジと相性が良い</p>
-
-<p>S&amp;P500はハイレバレッジと相性が良く、XMのS&amp;P500(US500)の必要証拠金率は、現物＆先物ともに「1%」のため、 最大レバレッジが500倍です。</p>
-
-<p>2022年11月から日経225(jp225)とともに以前の最大100倍から500倍へ引き上げられました。</p>
-
-<p>短期間で利益を積み上げていきたいトレーダーにとっては、狙い目です。</p>
-
-<p>POINT
-国内FXのS&amp;P500の多くは、最大レバレッジがわずか10倍です。</p>
-
-<p>メリット２</p>
-
-<p>ゼロカットシステムで安心</p>
-
-<p>ゼロカットシステムで安心イメージ</p>
-
-<p>XMでは、CFD取引もFXトレードと同様にゼロカットシステムが適用されます。</p>
-
-<p>CFD取引は、FXトレードでもそうですが、週明けに窓が大きく開くことがあるため、例えスキャルピング重視だとしても週をまたぐトレードの場合はゼロカットシステムがなければ「追証」による支払い義務が発生するので安心とはいえません。</p>
-
-<p>国内FXではこの「追証」によって損失分以上の支払いが発生する可能性がありますが、XMなら一切心配する必要がありません。</p>
-
-<p>ゼロカットシステムに関する記事はこちら</p>
-
-<p>メリット３</p>
-
-<p>取引口座を分ける必要が無い</p>
-
-<p>無効な口座イメージ</p>
-
-<p>国内の各FX会社や多くの証券会社もFXやCFD取引を提供していますが、それぞれ口座が分かれています。</p>
-
-<p>株式と金や銀の口座を開設していても、FX取引やCFD取引を開始するには、改めて別口座の申請が必要です。</p>
-
-<p>しかも、口座ごとでの運用となるため、証拠金を共有できないので不便かつコスト面でも難ありです。</p>
-
-<p>XMであれば、同一の口座で証拠金ももちろん共有でき、新たな口座作成のための申請も必要ありません。</p>
-
-<p>ここまで、XMならFX取引のように扱える「S&amp;P500(US500)」について詳しくみてきました。</p>
-
-<p>それでは最後に、S&amp;P500(US500)に関する「まとめ」を確認しておきましょう。</p>
-
-<h2 id="まとめsp500">まとめ：S&amp;P500</h2>
-<p>日経225まとめイメージ</p>
-
-<p>アメリカの株価指数であるS&amp;P500は、他のCFD銘柄よりも動きが読みやすく、FX通貨ペアを扱うような感覚でトレードしやすい傾向にあります。</p>
-
-<p>アメリカの経済がこのまま好調であり続ける限りは、長期的に見て上昇し続けていくことが期待できます。</p>
-
-<p>S&amp;P500は少額の投資家からも注目され、資産運用先として人気です。</p>
-
-<p>また、老後資金のためにS&amp;P500を運用する方もいます。</p>
-
-<p>XMならではの、ハイレバでゼロカットシステムを活用すれば、わずかな投資額でアメリカの一流企業500社を対象に投資して資産運用することが可能です。</p>
-
-<p>口座の開設がまだの方は、下記のリンクよりまずは口座を開設してみましょう。</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[S&amp;P500(US500)を徹底解説 S&amp;P500についてイメージ]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">口座開設は3分</title><link href="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD/" rel="alternate" type="text/html" title="口座開設は3分" /><published>2022-11-08T00:00:00+09:00</published><updated>2022-11-08T00:00:00+09:00</updated><id>http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD</id><content type="html" xml:base="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD/"><![CDATA[<p>口座の作り方も簡単！たったの４ステップで即FX取引
-わずか4ステップで簡単にFX口座を作れる
-FXの口座開設は申し込みフォームから証明書の提出など少し敷居が高く感じますが、XMではパソコンはもちろん、スマホやタブレットで簡単に口座開設が可能です。</p>
-
-<p>簡単な4ステップですぐに開設できるので、FX初心者やビギナーの方でも安心してFX取引を開始できます。</p>
-
-<h2 id="口座開設の3ステップ">口座開設の3ステップ</h2>
-
-<p>ステップ1</p>
-
-<p>[申込みフォームへ入力]</p>
-
-<p>ステップ1イメージ</p>
-
-<p>フォームへの情報入力はパソコン・タブレット・スマートフォンから、口座開設のために必要な情報を入力（約３分で完了）</p>
-
-<p>ステップ2</p>
-
-<p>[登録したメール確認→ ログイン]</p>
-
-<p>ステップ2イメージ</p>
-
-<p>ステップ1で登録したメールアドレスに送信されたログイン情報を確認後にログイン</p>
-
-<p>ステップ3</p>
-
-<p>[口座の有効化]</p>
-
-<p>ステップ3イメージ</p>
-
-<p>身分証明書・現住所証明書をアップロードし、本人確認 → 有効化完了</p>
-
-<p>ステップ4</p>
-
-<p><a href="ボーナスのみで取引可">証拠金入金</a></p>
-
-<p>ステップ4イメージ</p>
-
-<p>口座開設ボーナスで即取引可能！また、お好みの入金方法で証拠金を入金</p>
-
-<p>POINT
-簡単で分かりやすい口座開設の手順と開設後のサポートが丁寧なので、FX初心者やビギナーの方も安心してFXトレードの開始が可能です。</p>
-
-<p>アカウントごとにつき口座を8つまで開設できるので、口座タイプごとに追加口座でFXの運用を管理したり、MT4とMT5の両方を使ってのFX取引が可能です。</p>
-
-<p>では次に、XM口座開設時に用意しておかないといけないものについてみてみましょう。</p>
+<p>例えば、XMの経済指標カレンダーは下記の項目などを確認できます。</p>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>
+    <p>発表時間</p>
+  </li>
+  <li>
+    <p>経済指標に関連する通貨</p>
+  </li>
+  <li>
+    <p>重要性(3段階表示)</p>
+  </li>
+  <li>
+    <p>経済指標名</p>
+  </li>
+  <li>
+    <p>実際値</p>
+  </li>
+  <li>
+    <p>予想値</p>
+  </li>
+  <li>
+    <p>前回値</p>
+  </li>
 </ul>
 
-<h2 id="提出書類について">提出書類について</h2>
+<hr />
 
-<p>口座開設に必要な提出書類
- XMの口座開設に必要な書類は下記の通りです。</p>
+<h3 id="活用方法">活用方法</h3>
 
-<p>有効なパスポートまたはその他の身分証明書のコピー（例：運転免許証、マイナンバーカード等）。 本人確認書類には、氏名（フルネーム）、発行日または有効期限、出生地と生年月日または納税番号と、本人の署名が必要です。
-公共料金の請求書(例：電気・ガス・水道・電話・銀行口座の取引明細など)で、本人の登録住所が確認できる6ヵ月以内の日付が記載されたものが必要です。
-オンラインで完結するので、上記のいずれかの書類を提出したら、FXの取引開始は目前です。</p>
+<p>XMの経済指標カレンダーを利用すれば、多くの経済指標の予定を事前に知ることができるので市場の動きに備えることができます。</p>
 
-<p><code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+<p>また、年間のスケジュールを通して、自分の取引に関する計画を立てるのにも役立つのでこの機会に活用してみましょう。</p>
 
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
+<p>重要な経済指標の一覧は下記の通りです。</p>
 
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+<h4 id="消費者物価指数cpi">消費者物価指数（CPI）</h4>
 
-<p><img src="//assets/images/3.jpg" alt="walking" /></p>
+<p>サービス・消費財の価格変動を測定する統計です。
+200以上のカテゴリーで価格変動を公表するため、CPIはインフレの測定に用いられます。</p>
 
-<h2 id="口座開設の手順">口座開設の手順</h2>
+<hr />
 
-<p>リアル口座開設をクリック  してから申込書への記入が完了すると、ログインに必要なID・パスワードが記載されたメールが届きます。
-送られたメールから会員ページ  へログインすることができます。
-メインメニューの入金タブをクリックすることで、FX取引口座への入金が可能です。
-※すでにリアル口座をお持ちの場合には、会員ページ  より追加口座の開設が可能です。</p>
+<h4 id="消費者信頼感指数cci">消費者信頼感指数（CCI）</h4>
 
-<p>追加口座に関する詳しい記事は、下記のページをご覧ください。</p>
+<p>毎月公表される5,000人以上の調査集計から形成される指数です。
+平均の消費者信頼感や消費力を測り、大きな減少であれば、景気悪化の可能性があると予測されます。</p>
 
-<p>追加口座に関する記事はこちら
-次に実際にFX取引を開始するのに必要なプラットフォームをご自身のパソコンやスマホ、タブレットに合わせてダウンロードする方法をみていきましょう。</p>
+<hr />
 
-<h2 id="fx取引を開始するために">FX取引を開始するために</h2>
+<h4 id="耐久財受注">耐久財受注</h4>
 
-<p>FXの取引口座が開設されていれば、お好きな取引プラットフォームをダウンロード  してFX取引を開始できます。</p>
+<p>毎月公表される将来的な製造業活動における重要な指標です。</p>
 
-<p>XMの口座開設後は、スマホ(iPhone・Android)やタブレット、PCでMT4とMT5のどちらも利用できるので、ご自身の取引スタイルに合わせて選びましょう。</p>
+<hr />
 
-<p>もちろん、複数の端末で同時に利用できるので、端末ごとに分けてFX取引を始めることができて便利です。</p>
+<h4 id="労働コスト指数eci">労働コスト指数（ECI）</h4>
 
-<p>MT4 &amp; MT5に関する詳しい記事は、下記のページをご覧ください。</p>
+<p>労働コストにおける上昇・下降傾向を示す指数です。
+米国における給与、賃金および事業主負担型従業員給付におけるインフレ測定に用いられます。</p>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
+<hr />
 
-<p>では次に口座開設したあと、パワスワードを忘れたりした場合に慌てることなく再発行(リセット)する方法をみていきましょう。</p>
+<h4 id="国内総生産gdp">国内総生産（GDP）</h4>
 
-<h2 id="パスワードのリセット方法">パスワードのリセット方法</h2>
+<p>各国の経済成長を示し、生産高・収入・支出により決定されます。
+GDBは生活水準と関連づけられるため、国の一定期間の全サービスと財の市場価格となります。</p>
 
-<p>XM口座開設後にリアル取引口座のパスワードをお忘れの場合は、こちら  の公式ページからリセットが可能です。</p>
+<hr />
 
-<p>また、実際にFX取引を開始して口座開設時に選択した基本通貨ではない通貨に変更したい場合についても確認しておきましょう。</p>
+<h4 id="gdpデフレーター">GDPデフレーター</h4>
 
-<h2 id="口座の基本通貨変更について">口座の基本通貨変更について</h2>
+<p>経済におけるすべての財・サービスの物価水準を測定します。
+デフレーターの使用によって、名目GDPと実質GDPの差を算出できます。</p>
 
-<p>すでに開設した取引口座の基本通貨は原則変更することはできませんが、会員ページ  から新たに希望する基本通貨で追加の口座を開設することが可能です。</p>
+<hr />
 
-<p>追加口座に関する詳しい記事は、下記のページをご覧ください。</p>
+<h4 id="鉱工業生産ip">鉱工業生産（IP）</h4>
 
-<p>追加口座に関する記事はこちら
-さらに複数の口座でFXの取引スタイルごとに分けて運用すると大変便利です。</p>
+<p>工業部門(製造業や鉱業など)の生産高における変化を示す指標です。
+言い換えれば、国の生産能力を示しているといえます。</p>
 
-<p>次に、複数の口座を開設するために追加口座の方法をみていきましょう。</p>
+<hr />
 
-<h2 id="複数の取引口座を開設">複数の取引口座を開設</h2>
+<h4 id="鉱工業生産と設備稼働率ipcu">鉱工業生産と設備稼働率（IPCU）</h4>
 
-<p>アカウントにつき8つの取引口座を開設可能です。追加口座を希望する場合には、会員ページ  にてワンクリックで開設の手続きが可能です。</p>
+<p>毎月、連邦準備制度理事会から公表されます。
+米国鉱工業生産の総額に関する前月のデータを示して経済活動を測定します</p>
 
-<p>追加口座に関する詳しい記事は、下記のページをご覧ください。</p>
+<hr />
 
-<p>追加口座に関する記事はこちら
-口座を開設し、FX取引を開始し始めて口座凍結になることは万に一つもありませんが、もしそのような状態になった場合についても確認しておきましょう。</p>
+<h4 id="国際貿易貿易収支">国際貿易（貿易収支）</h4>
 
-<h2 id="口座凍結について">口座凍結について</h2>
+<p>すべての財・サービスの輸入額と輸出額の差額を測定するものです。
+国際貿易収支のレベルと共に輸入と輸出における変化で市場トレンドを示します。</p>
 
-<p>FXの口座残高がゼロの取引口座は90日経過後に凍結されます。</p>
+<hr />
 
-<p>一度凍結された取引口座が凍結されると有効化することができないため、取引可能な口座がない場合は、もう一度XMでFX取引を行うためには、改めて新規取引口座を開設する必要があります。</p>
+<h4 id="経済研究所ifo">経済研究所（IFO）</h4>
 
-<p>口座凍結に関する詳しい記事は、下記のページをご覧ください。</p>
+<p>7,000社以上のドイツ企業の最新経済データを基にした景気動向調査です。
+ドイツとヨーロッパにおける現在および今後の経済情勢の評価をするために用いられます。</p>
 
-<p>口座の凍結と休眠に関する記事はこちら
-次に、上記リンクの記事にもある開設後にFX口座が休眠なった場合についても確認しておきましょう。</p>
+<hr />
 
-<h2 id="口座を利用しない場合">口座を利用しない場合</h2>
+<h4 id="全米購買部協会指数napm">全米購買部協会指数（NAPM）</h4>
 
-<p>お使いのFX取引口座で取引・出金・入金・資金振替・追加口座の登録のいずれも90日間行わないでいると、休眠口座となります。</p>
+<p>経済全般、特に製造業の業況を測定します。
+全米250社以上の調査を集計し、生産、新規受注、雇用のデータを算出します。</p>
 
-<p>FX取引に使えるはずの残っていたボーナス・クレジット・XMポイント(XMP)は休眠口座から消滅します。</p>
+<hr />
 
-<p>口座開設後に少しずつFX取引によって貯まったポイントもなくなるので注意しましょう。</p>
+<h4 id="非農業部門雇用者数">非農業部門雇用者数</h4>
 
-<p>口座休眠に関する詳しい記事は、下記のページをご覧ください。</p>
+<p>米国の労働省により発表される月次報告書で、米国労働市場の現状についての統計データです。</p>
 
-<p>口座の凍結と休眠に関する記事はこちら
-XMのFX取引口座は日本でも利用者が大変多く、たくさんのFX口座が開設されています。</p>
+<hr />
 
-<p>理由は「簡単に開設」ができ、サポート体制も十二分なのでFX初心者にとっても安心してFXを始めることができるからです。</p>
+<h4 id="生産者物価指数ppi">生産者物価指数（PPI）</h4>
 
-<h2 id="口座凍結について-1">口座凍結について</h2>
+<p>製造業・鉱業・電気公益事業および農業における経済指標です。
+国内生産者が受け取る販売価格の平均変動を測定します。</p>
 
-<p>FXの口座残高がゼロの取引口座は90日経過後に凍結されます。</p>
+<hr />
 
-<p>一度凍結された取引口座が凍結されると有効化することができないため、取引可能な口座がない場合は、もう一度XMでFX取引を行うためには、改めて新規取引口座を開設する必要があります。</p>
+<h4 id="購買担当者景況指数pmi">購買担当者景況指数（PMI）</h4>
 
-<p>次に、上記リンクの記事にもある開設後にFX口座が休眠なった場合についても確認しておきましょう。</p>
+<p>経済活動を示し、特定の経済部門における物品やサービス獲得を担当する会社/企業従業員の割合を示します。
+PMIが50を上回れば経済の拡大を示します。逆に50を下回ると経済の縮小を示します。</p>
 
-<h2 id="口座を利用しない場合-1">口座を利用しない場合</h2>
-<p>お使いのFX取引口座で取引・出金・入金・資金振替・追加口座の登録のいずれも90日間行わないでいると、休眠口座となります。</p>
+<hr />
 
-<p>FX取引に使えるはずの残っていたボーナス・クレジット・XMポイント(XMP)は休眠口座から消滅します。</p>
+<h4 id="小売売上高">小売売上高</h4>
 
-<p>口座開設後に少しずつFX取引によって貯まったポイントもなくなるので注意しましょう。</p>
+<p>消費支出を測定する月間報告書で、幅広い消費者支出傾向を示すタイムリーな指標です。
+主に経済の直近の傾向を査定するのに用いることができます。</p>
 
-<h2 id="まとめ口座開設">まとめ：口座開設</h2>
-<p>XMでの口座開設は簡単でスピーディーだから、らくらくで開設できてFX取引をすぐに始めれます。</p>
+<hr />
 
-<p>しかも8つの口座をタイプ別に作れるから、FXの取引スタイルごとに開設してFXトレードができます。</p>
+<h4 id="短観全国企業短期経済観測調査">短観（全国企業短期経済観測調査）</h4>
 
-<p>是非、XMで海外FXデビューをしましょう。</p>
+<p>日本銀行が日本経済の状況について四半期ごとに公表している企業統計調査です。
+為替相場や株式に大きな影響を与え、日本では主要な財務指標といえます。</p>
 
-<p>FX取引を始めるのに必要な口座の開設はわずか数分です。</p>
+<hr />
 
-<p>国内FXでFX取引に慣れた方や、FX取引が初めての方にもおすすめです。</p>
+<h4 id="失業率">失業率</h4>
 
-<p>しかも今なら、下記のバナーから開設すると取引ボーナス3000円でFX取引を始めることができます。</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[口座の作り方も簡単！たったの４ステップで即FX取引 わずか4ステップで簡単にFX口座を作れる FXの口座開設は申し込みフォームから証明書の提出など少し敷居が高く感じますが、XMではパソコンはもちろん、スマホやタブレットで簡単に口座開設が可能です。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">口座開設は3分</title><link href="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD-2/" rel="alternate" type="text/html" title="口座開設は3分" /><published>2022-11-06T00:00:00+09:00</published><updated>2022-11-06T00:00:00+09:00</updated><id>http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD%202</id><content type="html" xml:base="http://localhost:4000/%E5%8F%A3%E5%BA%A7%E9%96%8B%E8%A8%AD-2/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+<p>失業者の割合で、労働人口総数に対して雇用されていないが働く意思および能力のある人口の比率で測定されます。
+将来の金利や金融政策を示します。</p>
 
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>gnidart-mx</name></author><category term="口座開設" /><category term="はじめ方" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Red Riding Hood</title><link href="http://localhost:4000/red-riding/" rel="alternate" type="text/html" title="Red Riding Hood" /><published>2020-01-12T00:00:00+09:00</published><updated>2020-01-12T00:00:00+09:00</updated><id>http://localhost:4000/red-riding</id><content type="html" xml:base="http://localhost:4000/red-riding/"><![CDATA[<p>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</p>
+<p>上記のように数多くの経済指標によって、市場の相場は変化していきます。</p>
 
-<p>An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.</p>
+<p>ただ直感に頼って取引するのではなく、経済指標カレンダーでそれぞれの経済指標を意識し、予想を立てて取引に臨めるようになりましょう。</p>
+
+<hr />
+
+<h3 id="まとめ経済指標">まとめ：経済指標</h3>
+
+<p>取引市場に影響を与える重要な経済イベントを押さえておくことは、取引をするときに役立ちます。</p>
+
+<p>世界経済によって相場は刻一刻と変化し、市場は非常に早くそれに反応します。</p>
+
+<p>予定されているイベントの日時を知った上で、取引の戦略を立てるようにしましょう。</p>
+
+<p>また、XMの経済指標カレンダーをこまめにチェックし続ければ、より根拠をもってエントリーすることが可能になると思います。</p>
+
+<p>XM公式の経済指標カレンダーは、下記のリンクより確認してみましょう。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=47979&amp;c=550036" class="button icon solid fa-file">XMの経済指標カレンダーをチェック</a></p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="経済指標" /><category term="指標" /><category term="指標カレンダー" /><category term="イベント" /><summary type="html"><![CDATA[FX取引するなら経済指標は重要なイベントで取引結果を大きく左右するので要チェックです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/calendar.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/calendar.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">XMからのお知らせ</title><link href="http://localhost:4000/2022%E5%B9%B4%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/" rel="alternate" type="text/html" title="XMからのお知らせ" /><published>2022-11-22T00:00:00+09:00</published><updated>2022-11-22T00:00:00+09:00</updated><id>http://localhost:4000/2022%E5%B9%B4%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B</id><content type="html" xml:base="http://localhost:4000/2022%E5%B9%B4%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/"><![CDATA[<p>定期的にXMTradingからの重要なお知らせは、こまめにチェックしましょう。</p>
+
+<hr />
+
+<h3 id="重要なお知らせ">重要なお知らせ</h3>
+
+<h4 id="11月の祝日">11月の祝日</h4>
+
+<p>11月の複数の祝日に伴い、2022年11月24日～25日は以下に記載の金融商品の取引時間に影響がございますことをご案内申し上げます。</p>
+
+<p>影響のある金融商品の詳細は、以下の早見表をご覧ください。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th>銘柄</th>
+      
+        <th> 11/24</th>
+      
+        <th> 11/25</th>
+      
+        <th> 11/28</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      COFFE-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      COCOA-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      CORN-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       16:35-20:00
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      COTTO-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       15:05-19:25
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SBEAN-JAN23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       16:35-20:00
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SUGAR-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      WHEAT-MAR23
+    </td><td class="col2">
+       閉鎖
+    </td><td class="col3">
+       16:35-20:00
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      HGCOP-MAR23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      OIL-JAN23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      OILMn-JAN23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      NGAS-JAN23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      NGAS-DEC22
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GSOIL-DEC22
+    </td><td class="col2">
+       早い閉場 20:25
+    </td><td class="col3">
+       早い閉場 21:55
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      BRENT-JAN23
+    </td><td class="col2">
+       早い閉場 20:25
+    </td><td class="col3">
+       早い閉場 21:55
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US30Cash
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US30-DEC22
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US100-DEC22
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US100Cash
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US500-DEC22
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      US500Cash
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      JP225-DEC22
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      JP225Cash
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      UK100-DEC22
+    </td><td class="col2">
+       早い閉場 22:55
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      UK100Cash
+    </td><td class="col2">
+       早い閉場 22:55
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      USDX-DEC22
+    </td><td class="col2">
+       早い閉場 19:55
+    </td><td class="col3">
+       早い閉場 20:10
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GER40-DEC22
+    </td><td class="col2">
+       早い閉場 22:55
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GER40Cash
+    </td><td class="col2">
+       早い閉場 22:55
+    </td><td class="col3">
+       通常時間
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      GOLD
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      SILVER
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      PALL-DEC22
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      PALL-MAR23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      PLAT-JAN23
+    </td><td class="col2">
+       早い閉場 21:25
+    </td><td class="col3">
+       早い閉場 20:40
+    </td><td class="col4">
+       通常時間
+    </td></tr>
+
+  
+</table>
+
+<p>表示時間はすべてサーバー時間（GMT +2）であり、日本時間との時差は－7時間です。</p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="お知らせ" /><category term="XM" /><category term="重要" /><category term="スケジュール" /><summary type="html"><![CDATA[定期的にXMTradingからの重要なお知らせは、こまめにチェックしましょう。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/info.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/info.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">XMのクッキー</title><link href="http://localhost:4000/XM%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC/" rel="alternate" type="text/html" title="XMのクッキー" /><published>2022-11-21T00:00:00+09:00</published><updated>2022-11-21T00:00:00+09:00</updated><id>http://localhost:4000/XM%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC</id><content type="html" xml:base="http://localhost:4000/XM%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC/"><![CDATA[<p>XM公式サイトのアクセス時に表示されるクッキーは「続行する」で進めても大丈夫？</p>
+
+<p>初めてXM公式サイトにアクセスするときにクッキーの許可について表示されますが、トラブルになるようなものではありません。</p>
+
+<p>そもそもクッキーとは何か？またよく間違われるキャッシュとの違いについて知っておきましょう。</p>
+
+<p>XM公式ページにアクセスした際に表示される「本ウェブサイトはクッキーを利用します」の表示が出てきたら、 結論から言うと、「クッキー」は便利に利用できるための機能なので「続行する」の選択で大丈夫です。</p>
+
+<p>なぜなら、クッキーは情報を保存するだけで使っているパソコンやスマホなどの端末が危険にさらされることはないからです。</p>
+
+<hr />
+
+<h3 id="クッキーとは">クッキーとは？</h3>
+
+<p>クッキーを利用すると使用中の端末に情報が保存されます。</p>
+
+<p>ショッピングサイトに毎回IDやパスワードを入力しなくてもログインできるのは、この「クッキー」のおかげです。</p>
+
+<p>クッキーは「どこのだれか」がわかるわけではないから「個人」を特定されません。</p>
+
+<p>XMで使用されているクッキー(Cookie)も「同じブラウザ」にIDやパスワードを保存する仕組みです。</p>
+
+<p>クッキーのおかげで、XMのマイページから資金を入金するときに、毎回IDとパスワードを入力する手間が省けています。</p>
+
+<p>そして、クッキーが設定されていない場合には<a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=22">XM公式サイトのマイページ</a>にログイン後、入金やXMP(XMポイント)の確認の度にIDやパスワードの入力が必要になるだけでなく、言語設定も行う必要があるので不便です。</p>
+
+<p>また、よく「キャッシュ」と間違われたりしますが、記憶させておく対象が違います。</p>
+
+<hr />
+
+<h3 id="キャッシュとの違い">キャッシュとの違い</h3>
+
+<p>「キャッシュ」は、使用中のパソコンやスマホに情報を記憶させることです。</p>
+
+<p>キャッシュによって、再び同じページにアクセスしたときにサーバー自体に再アクセスせずにページを開くことができので、ページの表示速度が速くなります。</p>
+
+<p>一方「クッキー」は、アクセスしたサイトにIDやパスワードの情報を記憶させることです。</p>
+
+<p>クッキーによって、ページへアクセスしたときにアクセス先のページに記憶させておいた情報を利用できます。</p>
+
+<p>そのため、毎回ログインする必要がなくなります。</p>
+
+<hr />
+
+<h3 id="クッキーの安全性">クッキーの安全性</h3>
+
+<p>「クッキー」は、大手銀行やネットバンキングのサイトでも使用されているごく一般的な機能です。</p>
+
+<p>では、なぜXMではわざわざ、「本ウェブサイトはクッキーを利用します」という表示をユーザーに対して許可を求めるのでしょうか？</p>
+
+<p>理由は、欧州ではEU一般データ保護規則(GDPR)が施行され、クッキーを利用する企業サイトはユーザーの同意が必要になったためです。</p>
+
+<p>XMTradingは上記のGDPRに準拠する形で同意を求める表示をしています。</p>
+
+<p>クッキーが表示されて「続行する」を押すことで同意すれば、次回からは表示されません。</p>
+
+<p>XM公式サイトにも記載あり</p>
+
+<p>下記は<a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=0">XM公式サイト</a>の「クッキーに関する方針」から</p>
 
 <blockquote>
-  <p>It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.</p>
+  <p>本ウェブサイトは、Google,Inc.社（「Google」）が提供するウェブ分析サービスのGoogleアナリティクスを使用しています。Google アナリティクスは、お客様のコンピュータに保存されている分析クッキーを使用してユーザーのウェブサイトの利用を分析します。クッキーによって生成されたお客様のウェブサイトの利用に関する情報（お客様のIPアドレスを含む）は、Googleによってそのサーバーに送信され、保存される場合があります。Google はこの情報を使用してウェブサイトの利用状況を評価し、ウェブサイトの活動に関するレポートを編集し、ウェブサイトの活動やインターネットの利用に関連するその他のサービスを提供する場合があります。</p>
 </blockquote>
 
-<p>The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</p>
+<blockquote>
+  <p>また、Googleは法律によってこちらを行うことが必要な場合には本情報を第三者に転送する場合があり、こちらには当該第三者がGoogle に代わって情報を処理する場合も該当します。Googleは、お客様の IP アドレスを他のデータと関連付けることはありません。本ウェブサイトを使用することにより、お客様は、Googleにお客様に関する情報を上記に規定された方法および目的にて処理する許可を与えます。</p>
+</blockquote>
 
-<p>As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<hr />
+
+<h3 id="クッキーの種類">クッキーの種類</h3>
+
+<p>XMが使用しているクッキーの種類は下記の通りです。</p>
+
+<p>下記は<a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=0">XM公式サイト</a>の「クッキーに関する方針」から</p>
+
+<blockquote>
+  <p>ファンクショナルクッキー: これらのクッキーは弊社のウェブサイトを動作させるために必須です。これらのクッキーがなければ弊社ウェブサイトは正しく機能しません。これらはログイン情報として一時的に保存され、ブラウザが閉じられると期限切れとなります。</p>
+</blockquote>
+
+<blockquote>
+  <p>アナリティカルクッキー: 分析クッキーによって提供される情報により、弊社は訪問者の行動のパターンを分析することができ、弊社ではその情報を用いて全体的な経験を向上させ、ウェブサイト上のメンテナンスを必要とする可能性がある部分を特定することができます。情報は匿名 であり（お客様を識別するために使用することはできず、お客様の氏名やメールアドレスなどの個人情報は含まれていません）、統計的な目的のためにのみ使用されます。行動クッキーは、分析クッキーと似ており、お客様がウェブサイトを訪問したことを記憶し、その情報を用いてお客様の興味に合わせたコンテンツを提供します。</p>
+</blockquote>
+
+<blockquote>
+  <p>プロモーショナルクッキー: これらのクッキーは、ウェブサイトの訪問者を追跡するために使用されます。その意図は、個々のユーザーに関連性が高く魅力的な広告を表示させ、発行者や第三者広告主にとってより価値のあるものとするためです。</p>
+</blockquote>
+
+<blockquote>
+  <p>プリファレンスクッキー: プリファレンスクッキーは、お客様の希望言語やお客様の居住地域など、ウェブサイトの動作または表示を左右する情報をウェブサイトが記憶することを可能にします。</p>
+</blockquote>
+
+<hr />
+
+<h3 id="xmのクッキー設定変更">XMのクッキー設定変更</h3>
+
+<p>XM公式サイトでクッキーを変更・無効化するときは、XMのクッキー設定ページから変更できます。</p>
+
+<p>XMのクッキー設定ページへアクセスするには、<a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=0">XM公式サイト</a>のフッターにある「クッキーに関する方針」をタップしましょう。</p>
+
+<p>ページ中段にある「弊社が使用しているクッキーの種類」の下にある「クッキーの設定を変更するには、こちらをクリックしてください。」のこちらをタップします。</p>
+
+<p>クッキーのチェックボックスが表示されるので、変更したいチェックを外せばクッキーの設定は完了です。</p>
+
+<p>※クッキーの設定を変更するとXMページの利用に制限が出るので、基本的には全てのクッキーを有効にした方が便利です。</p>
+
+<hr />
+
+<h3 id="まとめxmのクッキー">まとめ：XMのクッキー</h3>
+
+<p>XMのクッキーを有効化しても、支障が出ることや問題が起こることはありません。</p>
+
+<p>逆にクッキーを利用しないと不便になります。</p>
+
+<p>また、もしクッキーの設定をあとで変更したくなれば、<a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=0">XM公式サイト</a>でいつでも変更することができます。</p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="クッキー" /><category term="XM" /><category term="キャッシュ" /><category term="はじめ方" /><summary type="html"><![CDATA[XM公式サイトのアクセス時に表示されるクッキーは「続行する」で進めても大丈夫？]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/cookie.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/cookie.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">XMのVPS</title><link href="http://localhost:4000/XM%E3%81%AEVPS/" rel="alternate" type="text/html" title="XMのVPS" /><published>2022-11-21T00:00:00+09:00</published><updated>2022-11-21T00:00:00+09:00</updated><id>http://localhost:4000/XM%E3%81%AEVPS</id><content type="html" xml:base="http://localhost:4000/XM%E3%81%AEVPS/"><![CDATA[<p>XMではVPSで取引できる環境にも対応し、条件を満たせば無料になります。</p>
+
+<p>XMでは直接VPS(バーチャル・プライベート・サーバー)を提供してはいませんが、BEEKS社と提携しているのVPSの利用が可能です。</p>
+
+<p>※VPS(バーチャル・プライベート・サーバー)とは、外部のサーバーにある仮想のデスクトップ環境のこと</p>
+
+<p>しかも、条件を満たせば無料で利用できるので興味があるならチェックしておきましょう。</p>
+
+<p>取引に使用するMT4をVPSにインストールしておけば、24時間365日、MT4をフル稼働し続けられます。</p>
+
+<p>常時稼働が必須のEA(自動売買システム)利用者へ向けたサービスです。</p>
+
+<hr />
+
+<h3 id="xmのvpsとは">XMのVPSとは？</h3>
+
+<p>XMでは、条件を満たせばすべてのユーザーがVPS環境を無料で手にすることができます。</p>
+
+<p>XMが提供するBeeks社のVPSは、XMを通じて契約することになります。</p>
+
+<p><a href="https://clicks.affstrack.com/c?c=550036&amp;l=ja&amp;p=0">XM公式サイト</a>のマイページから申し込むことできます。</p>
+
+<p>（※条件を満たさない場合：ランニングコストは毎月28ドルかかります）</p>
+
+<p>XMのVPSは<a href="https://clicks.affstrack.com/c?m=48001&amp;c=550036">こちら(XM公式サイト)</a></p>
+
+<p>では、どのような利用条件を満たせば、無料になるのか確認しましょう。</p>
+
+<hr />
+
+<h3 id="無料の利用条件">無料の利用条件</h3>
+
+<p>XMの口座残高が5,000ドル以上で、1ヶ月に往復5ロット(50万通貨)以上の取引がある場合、無料でVPSを利用できます。</p>
+
+<p>すべての口座残高の合算になるので、複数の口座で運用していて、総額が5,000ドルあれば条件を満たします。</p>
+
+<p>Beeks社のブロンズプランは、通常であれば月額4,750円かかるので、利用条件を満たし無料で使えるのであればお得と言えるでしょう。</p>
+
+<hr />
+
+<h3 id="vpsのスペック">VPSのスペック</h3>
+
+<p>Beeks社VPSのスペックは、下記の通りです。</p>
+
+<table>
+  
+    
+    <tr>
+      
+        <th> </th>
+      
+        <th> CPU</th>
+      
+        <th> メモリ</th>
+      
+        <th> HDD容量</th>
+      
+        <th> サーバー</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      スペック
+    </td><td class="col2">
+       600MHzのシングルコア
+    </td><td class="col3">
+       1.5GB
+    </td><td class="col4">
+       20GB
+    </td><td class="col5">
+        Windows Server 2012
+    </td></tr>
+
+  
+</table>
+
+<hr />
+
+<h3 id="メリット">メリット</h3>
+
+<p>VPS利用のメリットは、下記の4つです。</p>
+
+<ul>
+  <li>
+    <p>通信速度と約定力の向上</p>
+  </li>
+  <li>
+    <p>スマホでもフルスペックのMT4</p>
+  </li>
+  <li>
+    <p>災害時も安心</p>
+  </li>
+  <li>
+    <p>EA(自動売買)利用に必須</p>
+  </li>
+</ul>
+
+<hr />
+
+<h4 id="通信速度と約定力の向上">通信速度と約定力の向上</h4>
+
+<p>Beeks社のVPSサーバーはロンドンで運用されています。</p>
+
+<p>XMのサーバーから1.5kmの位置するBeeks社のVPSサーバーは、距離が近いことで応答速度(ping)が早いことで知られています。</p>
+
+<p>日本からのアクセスには若干のタイムラグが生じるので、理論上Beeks社のVPSを利用することは、約定力のさらなる向上に繋がるでしょう。</p>
+
+<hr />
+
+<h4 id="スマホでもフルスペックのmt4">スマホでもフルスペックのMT4</h4>
+
+<p>MT4をスマホやタブレットで使用している場合、VPSを利用することでEA(自動売買)環境が実現します。</p>
+
+<hr />
+
+<h4 id="災害時も安心">災害時も安心</h4>
+
+<p>災害および停電など有事の際にVPS環境が整っていれば、Beeks社のVPSサーバー上でMT4が動作しているのでPCやスマホが壊れたりしても、取引に影響がでません。</p>
+
+<hr />
+
+<h4 id="ea自動売買利用に必須">EA(自動売買)利用に必須</h4>
+
+<p>VPS環境があれば、PCを常時ONにしておく必要がなくなります。</p>
+
+<p>サーバー上でMT4が動作して自動売買を繰り返すために、VPS環境は必須です。</p>
+
+<hr />
+
+<h3 id="デメリット">デメリット</h3>
+
+<p>デメリットは、下記の2つが挙げられます。</p>
+
+<h4 id="月額料金の負担">月額料金の負担</h4>
+
+<p>利用条件を満たさなければ、無料ではなく月額28ドルのランニングコストがかかります。</p>
+
+<h4 id="取引スタイルにフィットしない">取引スタイルにフィットしない</h4>
+
+<p>取引スタイルにもよりますが、EA(自動売買)は好まず、裁量トレードでの取引が多い場合、VPS環境は必要ないかもしれません。</p>
+
+<hr />
+
+<h3 id="まとめxmのvps">まとめ：XMのVPS</h3>
+
+<p>これから、EA(自動売買)利用を考えているなら、XMが提携するBeeks社のVPSはちょうど良いサービスと言えるでしょう。</p>
+
+<p>また、VPSを利用すれば、お使いのどの端末でも同じ設定のチャート画面で同じインジケーターなどをそのまま利用できます。</p>
+
+<p>無料で利用できるのであれば、導入を検討してみるのも良いかもしれません。</p>
+
+<p>XMのVPSの登録は、下記のリンクより可能です。</p>
+
+<p>XMのVPSは<a href="https://clicks.affstrack.com/c?m=48001&amp;c=550036">こちら(XM公式サイト)</a></p>
+
+<p>これからXMで取引をはじめようと思っていて、XMの口座開設がまだなら、まずは開設してみましょう。</p>
+
+<p>今なら、下記のバナーから開設すると取引ボーナス3000円で入金しなくても取引をはじめることができます。</p>
+
+<p><a href="https://clicks.affstrack.com/c?m=9257&amp;c=550036" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.affstrack.com/i/9257?c=550036" width="728" height="90" referrerpolicy="no-referrer-when-downgrade" /></a></p>]]></content><author><name>gnidart-mx</name></author><category term="XM" /><category term="VPS" /><category term="FX" /><category term="取引" /><summary type="html"><![CDATA[XMではVPSで取引できる環境にも対応し、条件を満たせば無料になります。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/vps.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/vps.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
